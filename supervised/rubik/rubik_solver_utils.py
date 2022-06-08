@@ -26,7 +26,7 @@ def generate_problems_rubik(n_problems):
             # Proměnné velkými písmeny jsou nějaké konstanty znaků jako třeba zavináč. Asi jde o dodržení nějakého formátu?
             # gen_rubik_data.cube_bin_to_str(obs) generuje na základě obs rubikovou kostku a dekóduje do stringu.
             episode.append(gen_rubik_data.BOS_LEXEME + gen_rubik_data.cube_bin_to_str(obs) + gen_rubik_data.EOS_LEXEME)
-            obs, _, _, _ = env.step(env.action_space.sample())
+            obs, _, _, _ = env.step(env.action_space.sample()) # Asi zbytečné
         # Do pole problems se přidá epizoda
         problems.append(episode)
     # Metoda vrací problems

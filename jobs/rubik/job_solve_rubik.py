@@ -64,7 +64,7 @@ class JobSolveRubik(Job):
     def execute(self):
         # Do proofs_to_solve se ukládá pole "problems" které obsahuje data epizod.
         proofs_to_solve = generate_problems_rubik(self.n_jobs)  # Klik na generate_problems_rubik
-        problems_to_solve = [proof[0] for proof in proofs_to_solve]  # TODO
+        problems_to_solve = [proof[0] for proof in proofs_to_solve]  # proof[0] asi nezamíchaná kostka
         # Načte se solver do proměnné.
         solver = self.solver_class()
         # Na zvolený solver (nejspíše z configu) se zavolá construct networks.
