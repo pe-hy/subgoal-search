@@ -30,6 +30,7 @@ def subgoal_skipped_steps(value=1):
 
 
 def make_env_Rubik(**kwargs):
+    # Vytváří prostředí z gymu, id obsahuje název prostředí, pak se zavolá gym.envs.register a předá se mu to "id".
     id = ("Rubik-" + str(kwargs) + "-v0").translate(str.maketrans('', '', " {}'<>()_:"))
     id = id.replace(',', '-')
 

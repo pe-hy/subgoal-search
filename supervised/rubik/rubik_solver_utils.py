@@ -11,19 +11,25 @@ def make_RubikEnv():
 
 
 def generate_problems_rubik(n_problems):
+    # 3. Vytváří instanci make_RubikEnv() a "problémy"
     problems = []
     env = make_RubikEnv()
-
+    # loop přes všechny problémy, které přijdou do metody jako parametr
     for _ in range(n_problems):
+        # Nejdříve restartuje prostředí (obs = state?)
         obs = env.reset()
+        # Prázdné pole epizod
         episode = []
-
+        # vnitřní loop který ukládá mezivýpočty do obs a "_".
         for _ in range(1):
+            # Poli epizod se přidávají nějaké data a provede se krok v prostředí, výstup se ukládá do obs
+            # Proměnné velkými písmeny jsou nějaké konstanty znaků jako třeba zavináč. Asi jde o dodržení nějakého formátu?
+            # gen_rubik_data.cube_bin_to_str(obs) generuje na základě obs rubikovou kostku a dekóduje do stringu.
             episode.append(gen_rubik_data.BOS_LEXEME + gen_rubik_data.cube_bin_to_str(obs) + gen_rubik_data.EOS_LEXEME)
             obs, _, _, _ = env.step(env.action_space.sample())
-
+        # Do pole problems se přidá epizoda
         problems.append(episode)
-
+    # Metoda vrací problems
     return problems
 
 

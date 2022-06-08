@@ -14,6 +14,8 @@ from metric_logging import log_scalar, log_scalar_metrics, MetricsAccumulator, l
 from supervised.rubik.rubik_solver_utils import generate_problems_rubik, cube_to_string
 
 
+# Metoda solve_problem dostává jako vstup solver (bfs), a vstupní stav
+# Vrací dict obsahující info z výstupu solveru
 def solve_problem(solver, input_state):
     time_s = time.time()
     solution, tree_metrics, root, trajectory_actions, additional_info = solver.solve(input_state)
@@ -37,7 +39,7 @@ class JobSolveRubik(Job):
                  batch_size,
                  budget_checkpoints=None,
                  log_solutions_limit=100,
-                 job_range = None,
+                 job_range=None,
                  collect_solutions=None
                  ):
 
@@ -58,11 +60,16 @@ class JobSolveRubik(Job):
         if self.collect_solution is not None:
             self.collection = {}
 
+    # 2. Tohle se zavolá v metodě run()
     def execute(self):
-        proofs_to_solve = generate_problems_rubik(self.n_jobs)
-        problems_to_solve = [proof[0] for proof in proofs_to_solve]
-
+        # Do proofs_to_solve se ukládá pole "problems" které obsahuje data epizod.
+        proofs_to_solve = generate_problems_rubik(self.n_jobs)  # Klik na generate_problems_rubik
+        problems_to_solve = [proof[0] for proof in proofs_to_solve]  # TODO
+        # Načte se solver do proměnné.
         solver = self.solver_class()
+        # Na zvolený solver (nejspíše z configu) se zavolá construct networks.
+        # Těch je více, předpokládám, že se volá dle vybraného solveru:
+        # BFS, GoalGenerator, GoalBuilder, SamplingGoalGenerator, VanillaPolicy, Value Estimator
         solver.construct_networks()
         jobs_done = 0
         jobs_to_do = self.n_jobs
@@ -70,11 +77,12 @@ class JobSolveRubik(Job):
         all_batches = self.n_jobs // self.batch_size
 
         total_time_start = time.time()
+        # Hlavní while loop, který jede, dokud existují jobs.
         while jobs_to_do > 0:
             jobs_in_batch = min(jobs_to_do, self.batch_size)
-            problems_to_solve_in_batch = problems_to_solve[jobs_done:jobs_done+jobs_in_batch]
+            problems_to_solve_in_batch = problems_to_solve[jobs_done:jobs_done + jobs_in_batch]
             print('============================ Batch {:>4}  out  of  {:>4} ============================'.
-                  format(batch_num+1, all_batches))
+                  format(batch_num + 1, all_batches))
             results = Parallel(n_jobs=self.n_parallel_workers, verbose=100)(
                 delayed(solve_problem)(solver, input_problem) for input_problem in problems_to_solve_in_batch
             )
@@ -95,12 +103,13 @@ class JobSolveRubik(Job):
 
         n_logs = len(results)
         for log_num, result in enumerate(results):
-            log_scalar_metrics('tree', step+log_num, result['tree_metrics'])
+            log_scalar_metrics('tree', step + log_num, result['tree_metrics'])
             if self.logged_solutions < self.log_solutions_limit:
-                self.log_solution(result['solution'], result['trajectory_actions'], result['input_problem'], step+log_num)
+                self.log_solution(result['solution'], result['trajectory_actions'], result['input_problem'],
+                                  step + log_num)
             solved = result['solution'] is not None
             self.experiment_stats.log_metric_to_accumulate('tested', 1)
-            log_scalar_metrics('problems', step+log_num, self.experiment_stats.return_scalars())
+            log_scalar_metrics('problems', step + log_num, self.experiment_stats.return_scalars())
             if solved:
                 self.solved_stats.log_metric_to_average('rate', 1)
                 self.solved_stats.log_metric_to_accumulate('problems', 1)
@@ -114,11 +123,10 @@ class JobSolveRubik(Job):
             else:
                 self.solved_stats.log_metric_to_average('rate', 0)
                 self.solved_stats.log_metric_to_accumulate('problems', 0)
-                log_scalar('solution', step+log_num, 0)
+                log_scalar('solution', step + log_num, 0)
                 log_scalar('solution/length', step + log_num, -1)
                 log_text('trajectory_actions', f'{step + log_num}: unsolved', False)
                 log_scalar('solution/n_subgoals', step + log_num, -1)
-
 
             if self.budget_checkpoints is not None:
                 for budget in self.budget_checkpoints:
@@ -132,8 +140,7 @@ class JobSolveRubik(Job):
                     else:
                         self.solved_stats.log_metric_to_average(f'rate/{budget}_nodes', 0)
 
-        log_scalar_metrics('solved', step+n_logs, self.solved_stats.return_scalars())
-
+        log_scalar_metrics('solved', step + n_logs, self.solved_stats.return_scalars())
 
     def log_solution(self, solution, trajectory_actions, input_problem, step):
 

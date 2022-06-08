@@ -64,7 +64,9 @@ def run(job_class):
     metric_logging.log_text('n_gpus', str(torch.cuda.device_count()))
 
     job = job_class()
-    return job.execute()
+    # 1. Začátek programu, vezme si parametry z ginu (config file) a zavolá job.execute().
+    # job_class je v metodě run jako parametr, podle configu se rozhodne, která execute metoda se zavolá.
+    return job.execute() # - ctrl klik na execute v JobSolveRubik
 
 if __name__ == '__main__':
     args = _parse_args()
