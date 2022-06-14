@@ -8,7 +8,6 @@ from transformers import MBartForConditionalGeneration
 # from supervised.int.representation import infix
 from supervised.int.hf_data import GoalDataset
 from supervised.rubik import hf_rubik_subgoal
-from supervised.rubik.rubik_solver_utils import generate_problems_rubik
 from utils import hf_generate
 
 

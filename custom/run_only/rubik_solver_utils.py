@@ -29,7 +29,7 @@ def generate_problems_rubik(n_problems):
             obs, _, _, _ = env.step(env.action_space.sample()) # Asi zbytečné
         # Do pole problems se přidá epizoda
         problems.append(episode)
-    # Metoda vrací problems
+    # Metoda vrací pole problems obsahující epizody
     return problems
 
 

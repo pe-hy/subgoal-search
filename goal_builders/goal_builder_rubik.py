@@ -1,5 +1,5 @@
 # from supervised.int.gen_subgoal_data import generate_problems
-from supervised.rubik.rubik_solver_utils import generate_problems_rubik
+from custom.run_only.rubik_solver_utils import generate_problems_rubik
 
 
 class GoalBuilderRubik:

@@ -2,7 +2,7 @@ import gin
 
 from solvers import solver_sokoban
 from solvers import bfs_solver_int
-from solvers import bfs_solver_rubik
+from custom.run_only import bfs_solver_rubik
 
 
 def configure_solver(goal_generator_class):

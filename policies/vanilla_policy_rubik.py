@@ -1,7 +1,6 @@
 from copy import deepcopy
 
 import torch
-import transformers
 from transformers import MBartForConditionalGeneration
 
 # from envs.int.theorem_prover_env import TheoremProverEnv
@@ -15,10 +14,10 @@ from transformers import MBartForConditionalGeneration
 # from supervised.int.representation.action_representation_pointer import split_formula_to_lexemes, CHAR_TO_AXIOM, \
 #     AXIOM_LENGTH, POINTER_SYMBOLS, generate_masks_for_logic_statement
 from supervised.int.hf_data import GoalDataset
-from supervised.rubik import hf_rubik_policy, rubik_solver_utils, gen_rubik_data
+from supervised.rubik import hf_rubik_policy, gen_rubik_data
+from custom.run_only import rubik_solver_utils
 from supervised.rubik.gen_rubik_data import encode_policy_data
-from supervised.rubik.rubik_solver_utils import make_RubikEnv, cube_to_string, \
-    generate_problems_rubik
+from custom.run_only.rubik_solver_utils import make_RubikEnv, cube_to_string
 from utils import hf_generate, hf
 # from visualization.seq_parse import entity_to_seq_string, logic_statement_to_seq_string
 

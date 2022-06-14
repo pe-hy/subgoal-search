@@ -2,11 +2,11 @@ import os
 import logging
 import platform
 import sys
-sys.path.append("./third_party/INT")
+sys.path.append("../../third_party/INT")
 # To import alpacka stuff do not use `import third_party.alpacka...`, but simply
 # `import alpacka...`. Otherwise __init__.py files will be called twice, which
 # will cause gin errors.
-sys.path.append("./third_party")
+sys.path.append("../../third_party")
 
 # Copied from silence_tensorflow (https://pypi.org/project/silence-tensorflow/) to suppress warnings:
 logging.getLogger('tensorflow').setLevel(logging.ERROR)
@@ -64,7 +64,20 @@ def run(job_class):
     metric_logging.log_text('n_gpus', str(torch.cuda.device_count()))
 
     job = job_class()
-    # 1. Začátek programu, vezme si parametry z ginu (config file) a zavolá job.execute().
+    # 1. Začátek programu, vezme si parametry z ginu (config file)/ze spouštění s argumenty:
+
+    #  %cd subgoal-search
+    # !python3 runner.py \
+    # --config_file="configs/rubik/train/ksubs/subgoal_generator.gin"
+
+    # python3 runner.py \
+    # --config_file="configs/rubik/solve/baseline.gin" \
+    # --config="ValueEstimatorRubik.checkpoint_path=\"${KSUBS_RESOURCES}/rubik/rubik_value\"" \
+    # --config="VanillaPolicyRubik.checkpoint_path=\"${KSUBS_RESOURCES}/rubik/rubik_vanilla_policy\"" \
+    # --config="JobSolveRubik.n_jobs=5"
+
+
+    # A zavolá job.execute().
     # job_class je v metodě run jako parametr, podle configu se rozhodne, která execute metoda se zavolá.
     return job.execute() # - ctrl klik na execute v JobSolveRubik
 

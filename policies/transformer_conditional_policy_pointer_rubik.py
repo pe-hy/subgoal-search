@@ -11,13 +11,10 @@ from transformers import MBartForConditionalGeneration
 # from supervised.int.representation import infix
 # from supervised.int.representation.action_representation_pointer import generate_masks_for_logic_statement
 from supervised.rubik.gen_rubik_data import encode_policy_data
-from third_party.INT import visualization
-from supervised.int import hf_data
 from supervised.int.hf_data import GoalDataset
-from supervised.rubik import hf_rubik_value, hf_rubik_policy, gen_rubik_data, \
-    rubik_solver_utils
-from supervised.rubik.rubik_solver_utils import make_RubikEnv, cube_to_string, \
-    generate_problems_rubik
+from supervised.rubik import hf_rubik_value, hf_rubik_policy, gen_rubik_data
+from custom.run_only import rubik_solver_utils
+from custom.run_only.rubik_solver_utils import make_RubikEnv, cube_to_string
 from utils import hf
 from utils import hf_generate
 # from visualization.seq_parse import entity_to_seq_string, logic_statement_to_seq_string

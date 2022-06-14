@@ -1,8 +1,7 @@
 # """This is used to execute specification from inside of the code. Used by pytest and pycharm debugger"""
 import gin
 
-import jobs
-from runner import run
+from custom.run_only.runner import run
 
 
 def internal_run(spec_path):

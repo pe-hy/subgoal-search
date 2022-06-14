@@ -8,10 +8,7 @@ from transformers import MBartForConditionalGeneration
 # from supervised.int.gen_subgoal_data import generate_problems
 from supervised.int.hf_data import GoalDataset
 # from supervised.int.representation.infix_value import DISTANCE_TOKENS
-from supervised.rubik import hf_rubik_subgoal, rubik_solver_utils, \
-    hf_rubik_value
-from supervised.rubik.rubik_solver_utils import cube_to_string, \
-    generate_problems_rubik
+from supervised.rubik import hf_rubik_subgoal, hf_rubik_value
 from utils import hf
 from utils import hf_generate
 # from visualization.seq_parse import logic_statement_to_seq_string

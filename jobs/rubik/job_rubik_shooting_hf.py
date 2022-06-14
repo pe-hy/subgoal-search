@@ -10,8 +10,7 @@ from solvers.shooting import random_shooting_solve
 # from supervised.int.representation import infix
 # from supervised.int.utils import print_proof_state, get_objective
 # from third_party.INT.visualization import seq_parse
-from supervised.rubik.rubik_solver_utils import generate_problems_rubik
-from goal_builders import GoalBuilderForShootingRubik
+from custom.run_only.rubik_solver_utils import generate_problems_rubik
 
 
 def print_solution(transitions):

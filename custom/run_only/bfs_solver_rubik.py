@@ -1,14 +1,11 @@
 from queue import PriorityQueue
 import random
 
-import numpy as np
-
 # from envs import Sokoban
 # from envs.int.theorem_prover_env import TheoremProverEnv
 # from goal_builders.int.goal_builder_int import GoalBuilderINT
 from solvers.core import Solver
-from supervised.rubik.rubik_solver_utils import cube_to_string, make_RubikEnv
-from policies import ConditionalPolicyRubik, VanillaPolicyRubik
+from custom.run_only.rubik_solver_utils import make_RubikEnv
 
 
 # from utils.utils_sokoban import get_field_index_from_name, HashableNumpyArray

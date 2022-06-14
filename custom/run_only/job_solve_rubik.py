@@ -2,16 +2,12 @@ import pickle
 import time
 from copy import deepcopy
 
-import cloudpickle
-
-from envs import Sokoban
-
 from joblib import Parallel, delayed
 from jobs.core import Job
 from metric_logging import log_scalar, log_scalar_metrics, MetricsAccumulator, log_text
 
 # from visualization.seq_parse import logic_statement_to_seq_string, entity_to_seq_string
-from supervised.rubik.rubik_solver_utils import generate_problems_rubik, cube_to_string
+from custom.run_only.rubik_solver_utils import generate_problems_rubik
 
 
 # Metoda solve_problem dostává jako vstup solver (bfs), a vstupní stav

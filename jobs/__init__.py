@@ -23,7 +23,7 @@ from jobs.rubik import job_rubik_train_goal_hf
 from jobs.rubik import job_rubik_train_value_hf
 from jobs.rubik import job_rubik_train_policy_hf
 from jobs.rubik import job_rubik_validate_policy_hf
-from jobs.rubik import job_solve_rubik
+from custom.run_only import job_solve_rubik
 from jobs.rubik import job_rubik_shooting_hf
 
 from jobs.sokoban import (
