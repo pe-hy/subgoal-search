@@ -2,6 +2,7 @@ import os
 import logging
 import platform
 import sys
+
 sys.path.append("../../third_party/INT")
 # To import alpacka stuff do not use `import third_party.alpacka...`, but simply
 # `import alpacka...`. Otherwise __init__.py files will be called twice, which
@@ -13,6 +14,7 @@ logging.getLogger('tensorflow').setLevel(logging.ERROR)
 os.environ["KMP_AFFINITY"] = "noverbose"
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 import tensorflow as tf
+
 tf.get_logger().setLevel('ERROR')
 tf.autograph.set_verbosity(3)
 
@@ -21,8 +23,8 @@ import torch
 import argparse
 from third_party import dask
 
-
 import gin
+
 # This makes gin configurable classes picklable
 gin.config._OPERATIVE_CONFIG_LOCK = dask.SerializableLock()
 
@@ -52,11 +54,12 @@ def _parse_args():
     parser.add_argument(
         '--mrunner', action='store_true',
         help='Add mrunner spec to gin-config overrides and Neptune to loggers.'
-        '\nNOTE: It assumes that the last config override (--config argument) '
-        'is a path to a pickled experiment config created by the mrunner CLI or'
-        'a mrunner specification file.'
+             '\nNOTE: It assumes that the last config override (--config argument) '
+             'is a path to a pickled experiment config created by the mrunner CLI or'
+             'a mrunner specification file.'
     )
     return parser.parse_args()
+
 
 @gin.configurable()
 def run(job_class):
@@ -76,10 +79,10 @@ def run(job_class):
     # --config="VanillaPolicyRubik.checkpoint_path=\"${KSUBS_RESOURCES}/rubik/rubik_vanilla_policy\"" \
     # --config="JobSolveRubik.n_jobs=5"
 
-
     # A zavolá job.execute().
     # job_class je v metodě run jako parametr, podle configu se rozhodne, která execute metoda se zavolá.
-    return job.execute() # - ctrl klik na execute v JobSolveRubik
+    return job.execute()  # - ctrl klik na execute v JobSolveRubik
+
 
 if __name__ == '__main__':
     args = _parse_args()
@@ -87,6 +90,7 @@ if __name__ == '__main__':
     gin_bindings = args.config
     if args.mrunner:
         from mrunner_utils import mrunner_client
+
         spec_path = gin_bindings.pop()
         specification, overrides = mrunner_client.get_configuration(spec_path)
         gin_bindings.extend(overrides)
