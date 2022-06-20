@@ -13,7 +13,7 @@ pylint==2.7.4
 pylint-quotes==0.2.1
 pytest==6.2.3
 randomdict==0.2.0
-ray==0.8.6
+ray==0.8.5
 tblib==1.7.0
 tensorflow==2.4.1
 tqdm==4.60.0

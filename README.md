@@ -449,13 +449,13 @@ You can find pretrained models for all commands from this README inside in the r
 We present the main results below. For more results see the paper.
 
 <p>
-<img src="assets/images/mcts_int_1.png" width="45%" alt="Figure 1: INT (MCTS)" title="INT (MCTS)">
-<img src="assets/images/bfs_int_1.png" width="45%" alt="Figure 1: INT (BestFS)" title="INT (BestFS)">
+<img src="custom/run_only/assets/images/mcts_int_1.png" width="45%" alt="Figure 1: INT (MCTS)" title="INT (MCTS)">
+<img src="custom/run_only/assets/images/bfs_int_1.png" width="45%" alt="Figure 1: INT (BestFS)" title="INT (BestFS)">
 </p>
 
 <p>
-<img src="assets/images/bfs_sokoban_1.png" width="45%" alt="Figure 1: Sokoban" title="Sokoban">
-<img src="assets/images/bfs_rubik_1.png" width="45%" alt="Figure 1: Rubik's cube" title="Rubik's cube">
+<img src="custom/run_only/assets/images/bfs_sokoban_1.png" width="45%" alt="Figure 1: Sokoban" title="Sokoban">
+<img src="custom/run_only/assets/images/bfs_rubik_1.png" width="45%" alt="Figure 1: Rubik's cube" title="Rubik's cube">
 </p>
 
 *Figure 1: The performance of Subgoal Search.*
