@@ -65,6 +65,9 @@ class BestFSSolverRubik(GeneralSolver):
         # To prevent situations where two exactly same states (thus with the same value),
         # cannot be compared, we add another dimension
         # with random number which are being compared in these rare situations.
+
+        # Existuje fixní počet distances a síť predikuje pravděpodobnost pro každou distance, jestli se dostane z daného stavu do finálního cíle za počet kroků (distance).
+        # Pro root vypočítá expected value, je proměnná distance a každá hodnota té proměnné je vážená pravděpodobností kterou predikuje model.
         root_value = self.value_estimator.evaluate(root.state)
         root.set_value(root_value)
         nodes_queue.put((-root_value, random.random(), root))

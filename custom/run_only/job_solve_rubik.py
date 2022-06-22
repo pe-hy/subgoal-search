@@ -79,12 +79,12 @@ class JobSolveRubik(Job):
             problems_to_solve_in_batch = problems_to_solve[jobs_done:jobs_done + jobs_in_batch]
             print('============================ Batch {:>4}  out  of  {:>4} ============================'.
                   format(batch_num + 1, all_batches))
-            results = Parallel(n_jobs=self.n_parallel_workers, verbose=100)(
-                delayed(solve_problem)(solver, input_problem) for input_problem in problems_to_solve_in_batch
-            )
-            # results = [
-            #     solve_problem(solver, input_problem) for input_problem in problems_to_solve_in_batch
-            # ]
+            #results = Parallel(n_jobs=self.n_parallel_workers, verbose=100)(
+            #    delayed(solve_problem)(solver, input_problem) for input_problem in problems_to_solve_in_batch
+            #)
+            results = [
+                solve_problem(solver, input_problem) for input_problem in problems_to_solve_in_batch
+            ]
             print('===================================================================================')
             self.log_results(results, jobs_done)
             jobs_done += jobs_in_batch
