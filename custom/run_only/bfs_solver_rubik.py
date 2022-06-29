@@ -53,14 +53,15 @@ class BestFSSolverRubik(GeneralSolver):
 
     def construct_networks(self):
 
-        self.value_estimator.construct_networks()
+        self.value_estimator.construct_networks()  # MBart ?
         self.goal_builder.construct_networks()
 
     def solve(self, input):
 
-        assert self.value_estimator is not None, 'you must load value estimator'
+        assert self.value_estimator is not None, 'you must load value estimator'  # BestFSSolverRubik
         solved = False
-        root = SolverNode(input, None, 0, 0, [], False)
+        root = SolverNode(input, None, 0, 0, [], False)  # Počáteční uzel grafu.
+        # Priority queue - souvisí s best-first search, určuje se pořadí uzlů dle vzdálenosti od cíle (heuristic distance).
         nodes_queue = PriorityQueue()
         # To prevent situations where two exactly same states (thus with the same value),
         # cannot be compared, we add another dimension
@@ -88,11 +89,12 @@ class BestFSSolverRubik(GeneralSolver):
                 finished_cause = 'Finished cause tree too big'
                 break
             if solved:
-                finished_cause =  'Finished cause solved'
+                finished_cause = 'Finished cause solved'
                 break
 
-            #pop node from queue to expand
+            # pop node from queue to expand
             curr_val, _, current_node = nodes_queue.get()
+            # Tohle vypisuje do konzole, curr_val je root_value, current_node.state je zakódovaný stav kostky.
             print(f'val = {curr_val} | {current_node.state}')
             expanded_nodes += 1
 
@@ -105,14 +107,13 @@ class BestFSSolverRubik(GeneralSolver):
                 if solving_subgoal is not None:
                     solving_state, path, done = solving_subgoal
                     new_node = SolverNode(solving_state, current_node, current_node.depth + 1, 0,
-                               path, True)
+                                          path, True)
                     solution.append(new_node)
                     solved = True
                     finished_cause = 'Finished cause solved'
                     tree_size += 1
                     expanded_nodes += 1
                     break
-
 
                 all_goals_created += len(goals)
 
@@ -125,7 +126,8 @@ class BestFSSolverRubik(GeneralSolver):
                     if current_goal_state_hash not in seen_hashed_states:
                         created_new += 1
                         seen_hashed_states.add(current_goal_state_hash)
-                        new_node = SolverNode(current_goal_state, current_node, current_node.depth + 1, child_num, current_path, False)
+                        new_node = SolverNode(current_goal_state, current_node, current_node.depth + 1, child_num,
+                                              current_path, False)
                         current_node.add_child(new_node)
                         tree_depth = max(tree_depth, new_node.depth)
                         node_val = self.value_estimator.evaluate(new_node.state)
@@ -133,14 +135,12 @@ class BestFSSolverRubik(GeneralSolver):
                         nodes_queue.put((-node_val, random.random(), new_node))
                         tree_size += 1
 
-
-
-        tree_metrics = {'nodes' : tree_size,
+        tree_metrics = {'nodes': tree_size,
                         'expanded_nodes': expanded_nodes,
                         'unexpanded_nodes': tree_size - expanded_nodes,
-                        'max_depth' : tree_depth,
-                        'avg_n_goals': all_goals_created/expanded_nodes if expanded_nodes > 0 else 0,
-                        'avg_dist_between_goals' : total_path_between_goals/all_goals_created
+                        'max_depth': tree_depth,
+                        'avg_n_goals': all_goals_created / expanded_nodes if expanded_nodes > 0 else 0,
+                        'avg_dist_between_goals': total_path_between_goals / all_goals_created
                         if all_goals_created > 0 else 0
                         }
 

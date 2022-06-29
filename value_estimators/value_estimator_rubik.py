@@ -33,8 +33,9 @@ class ValueEstimatorRubik:
         )
 
     def construct_networks(self):
+        # Tohle je z knihovny transformers, načte se model do třídní proměnné a předá se mu cesta k předtrénovaným datům.
         self.model = MBartForConditionalGeneration.from_pretrained(
-            self.checkpoint_path
+            self.checkpoint_path # resources/rubik/rubik_value
         ).to(self.device)
 
     def evaluate(self, state):
