@@ -1,0 +1,1932 @@
+============================ Batch    1  out  of     1 ============================
+val = 15.567944925382019 | ?brwoyoogorgyobrggrgwbyryyogyybggbobbowwwobybrgwwrwywrr$
+val = 14.478318010641628 | ?woorygbooowwobrybrrgyyryggrgwbggbyogyybwobobbwrgrwwryw$
+val = 15.272089870588395 | ?boobygbrwyoobbwgrwwyrrrgryybwbogboogyyrworobyggggwwryw$
+val = 14.346970476478734 | ?bbbrybwggwyrobwbrwbwwrrgryyowyogyooroooboyyrrggggwwybg$
+val = 14.559906761383518 | ?yyrrybooobygbbgbrwwgywrybrrgwgggbgoyyborooryorwwgwwwob$
+val = 14.443392369701632 | ?ryrgybwoowrbgbbgybogyoryorrgwgggbgoyybbrowrywywwrwwoob$
+val = 12.846773606850618 | ?obyoybooobbbrbyryrygyrrywrrgwbggogoorrwyogwwgbwwbwwygg$
+val = 14.753005862954511 | ?bbgbygboooowobrbrbrgyyrywrrgwwggygorowyboyyrrowwgwwybg$
+val = 14.297852012106217 | ?rbgyygyooyoorborrwbgybrybrbgwwggywrrowgbobgoyrgoywwbww$
+val = 14.384275178216734 | ?gyrgybwggyybrborryowwgrrbbbowgggyrrryoobobgoyoowywwbww$
+val = 10.740169927776424 | ?gyygybwggrybybogbbowwgrrrrrowbggygoorbyrooybowwwowwyrb$
+val = 12.377539065802248 | ?yyrbyboggbrybbybobgwwgrrwrrowgggygoyyooboorrwowwgwwryb$
+val = 11.771195229693648 | ?byrbyboggyryybygobgwwgrrwrrowbggbgobwrroobooyowwgwwryy$
+val = 10.718786787712455 | ?oyrgybrggbogybyyryywwbrrrrrowbggbgobwrwoogoogbwwbwwoyy$
+val = 9.098927648707347 | ?yyygyygbrowwybyyryowbbrrrrrwrrggggoogggoooboobwwbwwbbw$
+val = 7.186627259316676 | ?ggybyyyybowbybwyrwrbwrrrrrrrggyggyooowwoooboogggbwwbbw$
+val = 7.878670824463616 | ?yyobyyryybwbbbywrywrrbrrrrrgggggggoywoowoooobbwwbwwogg$
+val = 8.816791187700206 | ?yyryywrrwbbgbbworwyybrrorroooyggbggrboowoowggggybwywwb$
+val = 7.762136509385975 | ?yyyyyywwgbbgbbgbwwrryrryboorggrggbggooooooorrrwwbwwybw$
+val = 5.366238303846187 | ?yyoyyowwobbgbbgbogrryrryrrbggggggwrrwoowoobwwyyowwbrby$
+val = 2.7492985850115326 | ?yyyyyygggbbybbyooorrrrrrbbywggwggrrroooooowggwwbwwbwwb$
+val = 16.519971724548128 | ?yoogyybbwrrwwbgbborwoorwgywgrbggorbrywbyoryooyggrwywbg$
+val = 15.675204319409731 | ?oywoybygbywbwbgyoorrworwbborwoggogywgrbyorrbrwrybwggyg$
+val = 12.163074413983649 | ?wywbybggbooygbwbwyrrwrrwbborwoggogywgrbyoorbroryowgyyg$
+val = 13.268838756264485 | ?wbgyygwbrgrbgbgbwgoobrrbrrbwworgooywywoyoorbrywyowgyyg$
+val = 10.852502989778865 | ?bggyygwroyrrybbgwwbbborrorrywwwgbyygoorwobyyrbggowgwoo$
+val = 12.826493674518048 | ?rbrrygoggbbbwbrwbrywwyrrwrroowwgbyyggyywooyybbggowgooo$
+val = 11.34653800559591 | ?ybgyyggggrbrbbbrrbwwwrrrorrooowgoyyoywbyoobobyggywgwww$
+val = 13.285626924117764 | ?bbboyybgyrbrrbbbbrywgyrggrgoooogyowywwwgoygoywgwrwrowr$
+val = 11.40222370524999 | ?oyyoyyooobbybbgbbbgggwrryygworggwwwoggwoowyywrbrrwrrrb$
+val = 12.153242916163098 | ?oyyoyyooobbybbgwwogggwrryywworggwbbbggwoowyygbrrrwrrbr$
+val = 10.774228104716233 | ?oyywyywooybbybbwgyoggorrobbworggwyygggboorwwrgrrwwbbrr$
+val = 10.75076315947813 | ?oyyoyyooobbybbgbrrgggwrrgbbwooggyyyybrwgowgowwrrwwbrwr$
+val = 11.260423468894412 | ?ooooyyoyygggbbggowwoowrrbrrbrwggygbbbbygowyyyrwwwwrrbr$
+val = 9.456433357991626 | ?ooooyybggggybbywwborrorrrbbwrwwgyyyybbygowgoowrrgwbgwr$
+val = 9.235496778912962 | ?wyywyyyggobgobgoyyorrorrbbbwrrwgwyyrggboobwggorrowbwwb$
+val = 7.455520411984707 | ?oyyoyybggggybbywbborrorryyrwrrwgwwgwggyoowooorbbrwwgbb$
+val = 6.531699706700748 | ?gggbyybyyyrrbbbbbbyrryrrrrrggwggoggooooyooyoowwwwwwwwb$
+val = 4.088202280333474 | ?oggoyyoyyyyybbboorgrryrrbbbggwggwrrrooboorggwywwbwwbww$
+val = 4.171496100545386 | ?gggyyyryyybbybbybbwrrwrryrrggwggwggwooooooooorwwrwwbbb$
+val = 4.10225953064424 | ?oyyoyyoyybbbbbbbbbyrryrrrrrgggggggggoowooroorwwwwwwyww$
+val = 3.9521984415517863 | ?wyywyyyyybbbbbbbbbrrrrrrwrrgggggggggoorooyooyowwowwoww$
+val = 4.129344308037011 | ?yyyyyyryybbbbbbyrrwrrwrrgggggggggooooooooobbbwwwwwwrrw$
+val = 7.470709736607358 | ?oyyoyywbbyyogbbgbbgrryrrrrryrrggwggwggboooooowwwwwwybb$
+val = 7.375738392808907 | ?bwwbyybyyorrobbwbbyrryrrrrrggbggbggyooyooyooowwwwwwggg$
+val = 4.1681101436997325 | ?bbbyyyryywbbwbbwbbwrrwrryrrggyggyggyooooooooorwwrwwggg$
+val = 6.174322909479903 | ?ywwyyywyyrborboooogrrgrrgbbggbggbrrrooboobggbywwywwyww$
+val = 5.975624964918412 | ?yyyyyygggbbybbybbwrrrrrrggrwggwgrwgrooobooboooobwwwwwy$
+val = 6.777613666098567 | ?yyryyrggrbbybbyyoorrbrrwbbwwwwgggggygooyoorrgwwowwoobb$
+val = 7.054120914465318 | ?bbbyyywyywbowboybbgrrgrrrrrggyggyggyooooooobbwwwwwwrrg$
+val = 7.105593684533222 | ?yyryyrggrbbybbyggyrrbrrwrrgwwwgggyoogooyoobbwbboowwoww$
+val = 6.84280702923488 | ?yyryyryyrbbbbbbbbwrrwrrwggbggggggrrgyooyooyoooowwwwwwo$
+val = 7.043837654179875 | ?yyyyyyyyybbbbbbggrrrrrrrggrgggggrwooooowoobbwwwbowwoww$
+val = 4.312401209395314 | ?yyyyyyyyybbbbbbwoorrrrrrbbwgggggrggrooowooggrwwowwobww$
+val = 6.867286254844727 | ?yywyywyyobbbbbbbbwrryrryggygrrggggggboowoowoooorwwrwwr$
+val = 3.7045105631856194 | ?yyyyyygggbbybbybbyrrrrrgrrgwggogrogrooowoowoobbwwwwwwb$
+val = 4.73959415141547 | ?yyoyyoyyrbbbbbbbbbrrgrrwrrgygggggyggwooyoowoowwowwrwwr$
+val = 5.395749621630059 | ?yygyywbbbbbwbbwbbwrrrrrrrroygyygggggrooooooooggywwywww$
+val = 5.672182233364709 | ?yyoyyryyrbbbbbbbbbrrwrryrrwggygggggygoowoogoowwowwowwr$
+val = 6.015549236242162 | ?yyyyyybbwbbwbbwbbwrrorrorrrgggggyygyooorooroogggwwwwwb$
+val = 7.197940524814549 | ?yywyywyygbbbbbgbbgrroorrorryggwggwggroorooroowbbwwywwy$
+val = 7.307674290579509 | ?yyryyrggobbwbbbbbbooyrryrrygyyggggggboowoowoowwrwwrwwr$
+val = 6.7197094960299575 | ?yywyywbbbbbwbbwbbrrrrrrryywyggyggggorooroogooggowwowwy$
+val = 7.005798808598473 | ?yywyywbbwbbwbbwbbyrrorroorrggggggbggroorooroogyywwywwy$
+val = 7.0274707770187685 | ?yyoyyobbybbwbbwbbrrrgrrryyroggggyggywooroorooggwwwwwwb$
+val = 7.427870338428106 | ?yywyywyygbbbbbbrryrrwrryggooggggggoorooroobbbroywwwwww$
+val = 7.077440622649529 | ?yygyyryyrbbbbbbbbbrrwrrwrrgggogggoggyoooooroowwwwwywwy$
+val = 4.709368881381705 | ?yyoyyoyyybbbbbbroorrgrrrbbroggggrggrwoowoowggwwwwwwyyb$
+val = 4.051005998478182 | ?yywyywyybbbbbbbroorrwrrwbbwrggrggggorooroogggwwowwoyyy$
+val = 6.197781772087307 | ?yywyywyywbbbbbbbbyrrorroogggrrgggwggboowooroogrrwwywwy$
+val = 7.259396039085714 | ?yywyyyyyybbbbbbbbbrrrrrorryggogggogggoowoowoowwgwwrwwr$
+val = 7.017395186617793 | ?yyyyyyyywrrrbbbwooggorrobbbgoogggrrybbbwoooggwwwwwwrrg$
+val = 4.14097932019202 | ?yyyyyybbrrrwbbwbbgrrgrrgyooyooyggwggbbbwoowoooggwwrwwr$
+val = 4.186959747346559 | ?yyoyyoyyyrrrbbbbbbgggrrrrrroggggoggowbbyooyoowwwwwwwwb$
+val = 7.351113371918327 | ?yyyyyyyywrrrbbbrryggorroogggoogggwoobbbwoobbbgrrwwwwww$
+val = 7.509435343137882 | ?yyyyyyyyybbbbbwwwwrrrgrrgrrgggggggoooooooobbrowwbwwbrw$
+val = 2.8086753675800322 | ?yyyyyygggbbybbybbrrrrrrrwwywggwggrggooooooooobbbrwwwww$
+val = 6.267417619903174 | ?ryyoyyoggwbbwbbyyyyrryrrgggwggwggoooooboobbbbrwwrwwrrw$
+val = 4.119077272994888 | ?ryyryygggbbybbybbwrrrrrroggwggwggoorooyooywwybwwowwobb$
+val = 4.331903389608481 | ?ryyryyryybbbbbbyrrwrrwrrgbwggggggoggooyooyooowobwwwbww$
+val = 4.354281754227681 | ?wyywyygyybbrbbrbbwwrrwrroggggggggoorooroorbbybwwowwoyy$
+val = 5.022702360548635 | ?yyyryyryybbbbbbbbbwrrwrrwrrgggggggggoooooooorowwywwyww$
+val = 5.2244760981172655 | ?yyyyyyyyybbbbbbwwbrrrrrrwrrgggggggoroooooowwoowwgwwgbb$
+val = 6.001558185373637 | ?yyyyyyyyybbbbbbgorrrrrrrwwoggggggwwboooooowrrbbgwwgwwo$
+val = 5.4933462936427135 | ?yyyyyygggbbybbywwyrrrrrrrrwwggwggooroooooowwobbbgwwgbb$
+val = 5.376809570642591 | ?ryyryywyybbbbbwbbworrgrrgrrgggggggorooyooywwyowwowwobb$
+val = 2.7951695416109326 | ?ryyryyryybbbbbbooowrrwrryrrgggggggbwooyooyoggbwwwwowwb$
+val = 5.641358624570325 | ?ryyryygggbbybbywwyrrrrrrbbwwggwggoggooyooyooroobbwwbww$
+val = 5.688775457205077 | ?yyyyyyyyybbbbbbwworrrrrrwwbggggggwrroooooogorggobwwbww$
+val = 6.3140493535609545 | ?yyyyyyobbbbgbbgwwowrrwrrbrryggyggyrroooooogorwggbwwbww$
+val = 6.483066490679071 | ?ryyryyryybbbbbboggwrrwrroooggggggyrrooyooygbwwwbwwwbow$
+val = 7.407217308429445 | ?ryyoyyobbwbbwbboggyrryrrorryggyggyrrooboobgowwggwwwbww$
+val = 5.962948509015964 | ?ryyryyggwbbybbybbwrrbrrwgbbogggggrrrooyooygoyowwowwoww$
+val = 6.633752839925798 | ?ryrryrwybbbobbwbbwgrobrwbwwwggrggrggyoyyoyyoyrggowoowo$
+val = 6.159297545694064 | ?yyryyrwrrbbbbbywwyowwrrwrrwgggggggggyooyooyorbbobwobwo$
+val = 7.222422640098849 | ?yyyyyyobbbbgbbggorwrrwrrwwoyggyggbrrooooooyrrbbwwwgwwg$
+val = 7.3533342870843414 | ?ryyryyooobbgbbgrrrwbbwrrgooyggyggbrrooyooyybbwwwwwgwwg$
+val = 7.55683435211512 | ?yyryyrggrbbwbbbbbboowrrwrrbggggggyygyooyooyoowwrwwrwwo$
+val = 7.623998730223567 | ?yyyyyyobbbbgbbgbrrwrrwrryrryggygggoroooooowwogwwgwwwbb$
+val = 7.99373395244739 | ?yyyyyyyyybbbbbbwrrrrrrrrgorggggggwwooooooowwbwwbwwbogg$
+val = 5.373897164467933 | ?rbbryygyybbrbbroggwrrwrroorggyggywwyooyooyoowwwbwwbbgg$
+val = 6.22713806804933 | ?rbbyyyyyywbbwbbgowrrrrrroggggyggyoogooboobyrrbwwgwwwwo$
+val = 6.337058051893604 | ?rbbyyyyyywbbwbboogrrrrrryrrggyggygowoobooboggowwwwgwwb$
+val = 8.05045190892756 | ?ryyryyyyybbobbogoobrrbrrwwbggggggwbbooyooyrrrggowwwwww$
+val = 4.0192530678591245 | ?oyyyyyyyywbbwbbboorrrrrrybbggggggrrroogooggoobwwbwwwww$
+val = 3.2694737364752386 | ?yyyyyyyyybbbbbbrrwrrrrrrogrgggggggoooooooowbbbwwwwwwwg$
+val = 1.3890698092648737 | ?ggryyyyyyybbybbybbrrrrrrrrwggwggwogggoooooooowwbwwwbbw$
+val = 4.006795409249372 | ?ggoyyoyygybbybbooorrrrryybywwwggrggrboowoowggbwrbwrwwb$
+val = 4.107702982704791 | ?yyryyryyrbbbbbbybbrrwrrwrrwgggoggoggyooyoooggwwbwwwoow$
+val = 4.050913794145576 | ?yyyyyyrrrrrwbbbrrwgggrrwoggyoooggoggbbbyooybbbwwwwowwo$
+val = 4.105168642376768 | ?yyoyyyyyybbbbbbrrrrrrrrrgooggggggbggwoowooybbwwwwwowwo$
+val = 4.136340387859707 | ?ggoyyyyyyybbybbobbrrrrrrrrrggwggbgobbooooooggwwwwwwwwy$
+val = 5.484201842891508 | ?yyyyyyyyybbbrbbrbbrrrrrrrooggggggbooooooowwwwwwwwwbggg$
+val = 5.1270861278514435 | ?ryyryyryybbbbbbwwywrrwrrbrrgggggggooooyooybooowwgwwgbw$
+val = 7.10450421110903 | ?ryyryyryybbbbbbgoowrrwrrbooggggggwwyooyooybrrwbgwwgwwo$
+val = 6.845418852549383 | ?oyyyyyyyywbbwbbrrrrrrrrrgooggggggboooogoogybbwwwwwbwwb$
+val = 7.309654160580931 | ?yyoyyyyyybbbbbbbggrrrrrrybbggggggrrrwoowoogooowwowwwww$
+val = 5.480789577148096 | ?yyryyryybbbbbbbooorrwrrwbggrggrggybwyooyoorggwoowwwwwg$
+val = 4.9457078180761425 | ?yyyyyyyyybbbbbbrrbrrrrrrwbwggggggrggoooooooobowgwwwwww$
+val = 2.866603334989845 | ?yyyyyybbbbbwbbwooorrrrrrbrryggyggybwoooooorggwggwwwwwg$
+val = 5.537630490798923 | ?yyryyryybbbbbbbybwrrwrrwrggrggrggoooyooyoobgggwwwwwoow$
+val = 6.075702915459633 | ?yyyyyyyyybbbbbbrggrrrrrroobggggggrrboooooowbwwwwwwwgwo$
+val = 6.240489009121029 | ?yyyyyybbbbbwbbwybwrrrrrrrggyggyggooooooooobrrgwwwwwggw$
+val = 5.426025950148308 | ?yyyyyyyyrbbbbbbbrbrrwrrbrrygggwgggggooooooooowwrgwwwww$
+val = 8.216104954738615 | ?bbbyyyggrwbywbyobwrrbrrbggywgywgyrrrooooooggyoobrwwgww$
+val = 4.200355795085203 | ?ybboyyoyyowwbbbboobrryrrwbbggyggyrrroogoorggrgwwgwwyww$
+val = 8.33276441391994 | ?yyryyrggrbbrbbyyoowwbrrgbbywggoggrrgyooyooorgwwbwwboww$
+val = 8.337665336578743 | ?bbbyyyyyywbbwbwggwrrrrrrrbbggyggyrgyooooooobwgwwowworg$
+val = 8.408753183604029 | ?yyyyyyggwbbybbywwyrrbrrwrrwoggggggrroooooogorbbobwwbww$
+val = 8.422349315057842 | ?ryyryyooobbgbbgbrrwbbwrrybbyggyggrrrooyooygoogwwgwwwww$
+val = 4.222226474422479 | ?ryyryyyyybbobbowbbbrrbrrrrrgggggggooooyooywwbwwwwwwogg$
+val = 5.579057206488163 | ?ryyryyoyybbgbbgwoowrrwrrbrrgggggggbyooyooybbrwwwwwwboo$
+val = 0.19887457388835314 | ?yyyyyyyyybbbbbbbrrrrrrrrgbbggggggrggooooooooowwwwwwwww$
+val = 4.183324718922477 | ?yyyyyyyyybbbbbbrggrrrrrroooggggggbrroooooogbbwwwwwwwww$
+val = 8.459214729543593 | ?oyyoyywggyyogbogbogrrbrrbbbwrrwgwyyrggbooowgowrrwwbywb$
+val = 8.897571921759432 | ?bbbyyygggwbywbyobbrrrrrrybwwgywgyggroooooowgyrworwogwb$
+val = 5.398210874026728 | ?bboyyoggowbywbyybwrrbrrygggyyygggwwwgoowoobbboorwwrrrr$
+val = 7.4646068439117155 | ?bbbyyywwwwbgwbgybgrrrrrgrrgbgyogyogyooooooobbyywwwwrrg$
+val = 6.908340484232592 | ?yybyybyywooobbwbbwbborrorrbgrrgggryyyggwoogooggwwwrwwr$
+val = 5.54937813418859 | ?yyyyyyboobbwbbwbbwrggrrrrrrwggygrygrooobooboogggwwwwwy$
+val = 6.322806583666543 | ?yyyyyybbbbbwbbgbbgrrrrrwrrwyggrggrooooowoowooyygwwgwwg$
+val = 4.029435567470735 | ?yyoyyobbbbbwbbwbbwrrrrrrrrryggyggyggwooyooyoogggwwwwwo$
+val = 5.409695354644494 | ?byybyywwrrrgbbgbbgrryrrgrrgboooggoggbbwyooyooyywwwwwwo$
+val = 4.0802587947894 | ?yyyyyyyywbbbbbbbbbrrorrorrygggggggggooowoowoowwrwwrwwr$
+val = 6.7696859105199865 | ?yybyybyybooobbwbbrbbwrrryoorrryggwggyggwoowoogggwwrwwr$
+val = 3.075271476732941 | ?yyoyyoyyybbbbbbrrrrrrrrrgggggggggyoowooyoobbbwwowwwwww$
+val = 4.348862425970308 | ?yyryyryyrbbbbbbbbbrrwrrwrrogggggggggyoooooooowwywwywww$
+val = 7.530084836880241 | ?yyoyyoyybooobbwboobbwrrrbbwrggygrrrrwggbooygrwwgwwgywg$
+val = 9.442253630050883 | ?oyyoyyoyygggbbroorwoobrrbrrbrrggwgyrggyoowwgwywwbwbbwb$
+val = 7.4630714355636085 | ?oyyoyywggyyobboooogrrgrrgyrwrrwgwwgyggboowrrwybbbwwbbb$
+val = 6.827637323754008 | ?gggyyyryyybbybwybbwrrgrryrrggwggwgrwooooooooorwwwwbbbb$
+val = 4.079958419762048 | ?yyyyyygggbbybbybbrrrrrrrwgywggwggrrgooooooooobwbwwbwww$
+val = 5.871804589766516 | ?yyyyyygggbbybbyrrgrrrrrrooowggwggbbroooooowgywwwbwwbwb$
+val = 6.2759846640472725 | ?yyyyyyyyybbbbbbwgwrrrrrrgrrgggggggoooooooobbrowwwwwbww$
+val = 6.526041039045729 | ?yyyyyyyyybbbbbbgoorrrrrrbbrggggggwgwoooooogrrwwbwwwwwo$
+val = 9.952516065847425 | ?wyywyyyggobgobgyyrorrorrwggwrrwgwoyyggboobbbbbwwbworro$
+val = 10.510861792297158 | ?wbboyyogrgwwgbbyyybrbyrbgrrwgywgyggyooooooobbrwwrwwrrg$
+val = 10.805538456004474 | ?wyywyywwyobgobgwggrrbrrboyyrrrrgwoobggbooboyrwogwwgbby$
+val = 10.12597439774407 | ?oyyoyyogggggbbgoowwrrwrrbyywrrwgwbbbggyoowyywroobwrbbr$
+val = 8.024906877872013 | ?gwwgyygyyoooybrygryrrbrrbrrggrggwgywbbwooooooywwwwbbbb$
+val = 8.638569564970043 | ?wyywyyyggbbgybgyggorrorrobbwrrwgwyywggroooooowrrwwbbbb$
+val = 8.760387886603569 | ?rwwgyygggwoywbygggrrrrrrybbwgbwgbyybooboobooworrwwboyy$
+val = 8.791093787403698 | ?wwwbyybyygwwgborrorrrgrrgrrggbggbgybooooowooyywwbwbbyy$
+val = 9.582963371074387 | ?owwoyyogggggbbgyywwrrwrrbbbwrbwgbyybooyoowoorrrrgwbgyy$
+val = 9.534554896001074 | ?rwwwyyyggybgybgoororrorrwggwrbwgbobboogoogyybbwwywrybr$
+val = 10.501475030144702 | ?rwwwyyyggybgybgobborrorryybwrbwgbooroogoogwggrbyrwywwb$
+val = 10.865730238244689 | ?bbbwyyoyywggwbwyowwrrbrrbrrggyggygygooooooybbrwwgwbrro$
+val = 9.031637386736534 | ?bbbwyygggwgywbywbbrrrrrrrygwgywgyybbooooooyoowbowwrggr$
+val = 7.658951146099552 | ?rbbyyyyyywbbgbbwwgrrrrrrwooggyggywboooboowgrbrggowwowy$
+val = 8.27874190277024 | ?rwwyyygggwbygbygggrrrrrrywbwgbwgbybbooboowoowobrowroyy$
+val = 5.35220247659266 | ?bbbyyygggwbywbywwbrrrrrrrggwgywgyywbooooooybowoogwbgrr$
+val = 4.094584609680394 | ?obboyyoyywwwwbboowbrryrrbrrggyggygwboogoogybyrwwgwbgrr$
+val = 5.536969988723215 | ?bbbyyygggwbywbyywbrrrrrrybowgywgywwboooooorggrrgbwgoow$
+val = 7.842501207439539 | ?bbyyyoggowbywbyyborrbrrywwgyyggggwwroooooowwbggrrwrrbb$
+val = 8.507663609614767 | ?yyyoyyoyybwwbbborrbrryrrgwbggggggybroooooowggwbrwwrwwb$
+val = 7.0437599861518745 | ?yyyoyyoyybwwbbbybrbrryrrwggggggggorroooooogwbbwwrwwrbw$
+val = 7.244825244344543 | ?obboyyoyywwwwbbgwbbrryrrybyggyggyoowoogoogbrrrrgbwgwwr$
+val = 7.330242138801959 | ?bbbyyyyyywbbwbwbrorrrbrrwwgggyggywbyoooooooowggrwwrrgg$
+val = 7.198653723188168 | ?ybboyyoyyowwobbwwbbrryrryroggyggywwgoogoogwbrrwgbwgbrr$
+val = 7.897865084988746 | ?bbbyyyyyywbbwbwwbyrrrbrroowggyggybrooooooowwgggrrwwrgg$
+val = 6.51651030027872 | ?yyoyyyyyybbbbbwoowrrrbrrbrrgggggggoowoowoobbyrwwgwwgrw$
+val = 7.756686035369144 | ?yyoyyygggbbybbybbyrrrrrrooywggwggrbbwoowoorooggbrwwwww$
+val = 6.758241354582891 | ?bbbyyygggwbywbywwrrrrrrrwbywgywgyooyoooooorbobrggwggwb$
+val = 6.017190174504967 | ?yyyyyybggbbwbbwbbwrwwrrrrrroggyggybbooooooyoogggwwrwwr$
+val = 6.841320703571652 | ?yyyyyygggbbybbybborrrrrrwwrwggwggwbbooooooyooggbwwrwwr$
+val = 3.980095172692964 | ?yyryyrwbbbbrbbgbbgbrrrrwrrwywwgggggggooyooyooyyowwowwo$
+val = 7.246178690542545 | ?yyryyrggrbbybbyyoorrbrrrbbowwwbggwwrgooyoobggwwgwwgooy$
+val = 7.308657871360711 | ?bbbyyygggwbywbyooyrrrrrrrbowgywgywwroooooowbybwggwggrb$
+val = 7.6063679652452585 | ?yyyyyywwwbbgbbgrrwrrrrrwgbbbgggggyoooooooobbgorrywwyww$
+val = 5.702868175362191 | ?yyyyyowwobbgbbgbbgrryrryrrwggbggbbggrooroooooyyrwwwwww$
+val = 7.386424443773142 | ?yyyyyywwwbbgbbgyoorrrrrwbbgbgggggrrwoooooogbbwwywwyrro$
+val = 8.681923241916673 | ?bbbyyyyyywbbwbbrwyrrrrrroooggyggywbroooooogwbgggrwwwgw$
+val = 5.021250403802446 | ?bbbyyyyyywbbwbbwbrrrrrrrgwbggyggyrwyooooooooowgwwwrggg$
+val = 1.549112841850579 | ?yyyyyyggrbbybbybbyrrbrrwrrgwgggggwwgooooooooobbrwwrwww$
+val = 4.247000581257775 | ?yyoyyoggobbybbyrrrrryrrywgwgggggwroowooroobbybwgbwwbww$
+val = 5.444926967184299 | ?wwwyyyggrgbygbygbyrrbrrwrrgwgbggbwwbooooooooobbrwwryyy$
+val = 5.9064373773085475 | ?yyryyrggwbbybbybbyrrorrorrogwwgggggwgoowooboobbywwywwr$
+val = 6.615846828147201 | ?bbbyyyggrwbywbyooorrbrrwwbywgyggyrrgoooooowwygwbgwbgrr$
+val = 7.010298362863158 | ?ggoyyoggoybyybyybyrrgrryrrrwwwggwwgwboorooroobbbwwwbbg$
+val = 6.07034287797632 | ?gggyyyyyyybbybbybrrrrrrrgwbggwggwrwwooooooooowgwwwrbbb$
+val = 7.080027090218244 | ?bboyyoggowbywbywbyrrbrryrrryyyggwwgwgoorooroobbbwwwggg$
+val = 6.7929567764016285 | ?bbbyywgggwbywbywbyrrrrrrrrgwgwwggyyyrooyooboobbowwoggo$
+val = 7.124076194001455 | ?ggbyywgggybyybyybyrrrrrrrrbwgwwggwwwrooyoogoobbowwobbo$
+val = 8.292010371277714 | ?bbbyyygggwbywbyooyrrrrrbrrwwgywgygwboooooorwybbogwggrw$
+val = 4.598938055237786 | ?bbryyoyyowbbwbbooorrbrrywbyyybggwgggwoogoowwygwrgwrgrr$
+val = 5.857430358288359 | ?wwwyyoyyogbbgbbgbyrrbrrygggyybggbwwroooooowgorrrwwrywb$
+val = 6.220340528339358 | ?bbbyyyyygwbbwbbwbyrrrrrrgggwgywgyywbooooooroorrowwgggw$
+val = 7.6304747822047165 | ?bbryyryyywbbwbbroorrrrrrwbogwwggggyygooyoobwbgwygwowgo$
+val = 6.47023528861731 | ?bbbyyygggwbywbyrrrrrrrrrwbwwgywgygggooooooywybwobwobgo$
+val = 5.6139645762653085 | ?bbbyyywwwwbgwbgywgrrrrrrrrrbgybgybbwoooooogggyyygwwooo$
+val = 5.823451880777172 | ?bbbyyyyyywbbwbbywbrrrrrrrrrggyggygbwoooooogggwwwgwwooo$
+val = 7.0209943396571255 | ?bbbyyybbbwbwwbwrrrrrrrrrybwygyygygggooooooywwgwogwoggo$
+val = 6.44796872982706 | ?yywyyybbbbbwbbwbbwrrrrrrgggyggyggywgrooroorooooowwgwwy$
+val = 6.473503595362869 | ?bbbyyyyyywbbwbbybbrrgrrgrrgogyogyowwoooooorrrwwwwwgggg$
+val = 4.113300132674753 | ?yygyygyygbbbbbbbbbrrwrrgrryooowgggggyooyoowoowwrwwrwwr$
+val = 5.2654601659146625 | ?yyryyryyrbbbbbbbbbrrwrryrrygggggwoooyoogoowoowwgwwgwwg$
+val = 7.226487532751948 | ?bbbyyybbbwbwwbwgggrrrrrrywwygyygyrrrooooooybwoggowgowg$
+val = 7.25391265351634 | ?yywyyyooobbybbybbygggrrrrrrwggwggwwgroorooroobbbwwgwwy$
+val = 7.273732683289848 | ?bbryyrggrwbywbywborrbrrwgyywwwgggrrbgooyoooooyobwwbggy$
+val = 6.9795983667325405 | ?bbbyyrggrwbywbywbyrrbrrwrrgwwyggyygwooooooroobbowwyggg$
+val = 7.021476005311473 | ?bbwyyygggwbywbygyyrrrrrrrrrwgowgowgogoogooybobbbowwywb$
+val = 6.083484033061172 | ?oooyyyyyywbbbbbbybrrrrrrrrrggbggwggyyggbooooowwwowwwwg$
+val = 5.866000728637789 | ?yyoyyoyborrobbbbybbwyrryrrygggggggggwbbwoowoowwrowrwwr$
+val = 2.9027102983298385 | ?yyyyyygggrrybbbbyyrrrwrrbrrwggwggwggobbooooooobbowwwww$
+val = 5.773676319765521 | ?gyygyygooyyybbbbyyrggwrrbrrwbbwggwggrrowoowooobbowrwwr$
+val = 5.908737519253227 | ?gggyyyybyyroybbyybbwrrrrrrrggwggwggwoooooboobwwwowwrbb$
+val = 6.406865488422337 | ?yygyygyygobbbbbbrrrrywrrwggrrrwggooowggooobyybwwbwwoow$
+val = 6.774626055463042 | ?gggyyyyyywggbbbbyyobbwrrbrrrrywggwggrrrooooooobbowwwww$
+val = 7.020414824897291 | ?oooyybggywbybbybyyrrorryrrgbwygggwwwgggwooboobbrowrwwr$
+val = 6.514776082423634 | ?gyygyyybgrrobbybyybwrrrrrrrwggwggwggobyoooooobbbowwwww$
+val = 6.903788338037448 | ?yywyywggwobybbbbyyrrgwrrbrrrrrbggbggbggoooooooyyowwwww$
+val = 7.0375844579842575 | ?bbryyryyrwbbwbbgybrrwrrwrrbggggggoooyooyoowbowwyowgywg$
+val = 7.1359276867668955 | ?gyygyygyyrrrbbbbrrwggwrrwggobbwggooorryooobyybwwbwwoow$
+val = 5.38210141064417 | ?oyyoyyyyybbrbborrogggyrryggobbwggoowrrwoowbbwbwwgwwgrr$
+val = 7.226765300818856 | ?rggyybggygbyybyyyyrrorrrrrrbwwwgwwgwoowoogoogbbbowwobb$
+val = 7.237821852863303 | ?bboyyygggwbywbywbyrrrrrorrowgyyggywwgoowooboobbbwwrggr$
+val = 7.315041543459852 | ?oogyygyygwbbbbbbyyrrowrrbrryyywggwggrggwoowooobbowrwwr$
+val = 5.424479449198068 | ?gggyyogggoroybbyyyyyywrrbrrrgrwgwwgwwwwooboobobbowrrbb$
+val = 7.329659364363345 | ?bbryyrbbbwbwwbwwborrrrrrgyyyggyggbwwyooyoorooyoowwgggg$
+val = 7.494172124848159 | ?bbbyyygggwbywbyroyrrrrrrrrgwgywgyywgooooooowbbbogwbwgw$
+val = 7.731740118340403 | ?wggwyywyyrrrbbbbyybggwrrbrrobybggbggrrgoooooooyyowwwww$
+val = 8.072308159210909 | ?bboyyoyyowbbwbbwggrrbrrywwryyyggwwgrgoobooyoorrbrwwggg$
+val = 8.267332736086288 | ?bbryyoyyowbbwbbwborrbrrrgwyyywwggggrgooyoowooygrwwrggb$
+val = 8.480328323213126 | ?wwgyyoyyogbbgbbgggrrwrrowwobboyggygwyoowoobbyrrbrwyrwr$
+val = 8.684730858169187 | ?bbbyyyoyywbgwbgrbbwrrwrrrrrggyggygbyooooooooywwwwwrbgg$
+val = 6.910372922250471 | ?oyyoyyoyybbbbbbbggyrryrrorrgggggggbboowoowyowwwwwwrrwr$
+val = 2.812907329917208 | ?oyyoyyoyybbbbbbgbbyrryrryowggggggbggoowooworrrwrrwwwww$
+val = 2.7815068795131523 | ?yyoyyoyyobbbbbbbbgrryrrywoyggggggggbwoowoorrorwrwwrwww$
+val = 5.033082417241598 | ?ggoyyoyyoobbybbyoyrryrryggbggwggwrrrbwwboogoorrwwwwbbw$
+val = 5.574625489267323 | ?yyoyyoyyobbbbbbggbrryrryrroggggggbbgwoowoowoywwwrwwrwr$
+val = 4.159629640881577 | ?yyyyyyyyobbbbbbrrrrrwrrwgggbggbggooyooooooggbwwwwwwwrr$
+val = 6.815508736614974 | ?yyyyyyoyybbgbbgrrrwrrwrrgbbggggggyoooooooobbbwrrwwwwww$
+val = 5.050161945081254 | ?byyoyyoyyrbbrbbobbyrryrryooggggggbbwoowoowrggrwwrwwwwg$
+val = 7.097123048754195 | ?byyoyyoyyrbbrbbbbwyrryrrrggggggggobboowoowyoogwwwwrwwr$
+val = 7.120717710993719 | ?oyooyooyobbbbbbyoyyryyryggbggggggrrrwowwowgbbrrwwwwrrw$
+val = 7.244462277202086 | ?yyyyyyyyybbbbbbrgbrrrrrrrroggggggwoooooooobbwwwgwwwgww$
+val = 4.064852189928645 | ?yyyyyybbbbbwbbwbbwrrrrrrrggyggyggorrooooooyoogwwwwgwwg$
+val = 4.075458762919025 | ?yyryyryybbbbbbbbbwrrwrrwrggrggrggoggyooyooyoogwwwwowwo$
+val = 3.935940077359751 | ?yyoyyyyyybbbbbbyoorrrrrrbbbggggggrrrwoowoogggwwwwwwoow$
+val = 4.179172454822877 | ?yyryyryyrbbbbbbbbbrrwrrorrogggggggggyooyooooowwywwwwww$
+val = 4.242341691637631 | ?yyyyywyywbbbbbbbbbrrorryrrygggggggggoooooowoowwrwwrwwr$
+val = 4.270333823937191 | ?yyoyyyyyybbbbbbrrrrrrrrrgggggggggyoowoowoobbbwoowwwwww$
+val = 4.494361274023672 | ?yyyyyyyyobbbbbbrrrrrgrrggrrwggwggyoooooooobbbwggwwwwww$
+val = 6.441579001191172 | ?yyyyyyrbbbbwbbgbbbgrrrrrrrgyggyggrggooooooooowwywwwwww$
+val = 5.624781382211918 | ?yyyyyyggwbbybbwrrwrrggrrgrrrggbggboooooooobbboyywwwwww$
+val = 7.588297032886352 | ?yyyyyybbbbbwbbwggwrrrrrrrwwyggyggoggooooooooygbbrwwrww$
+val = 6.191000853583586 | ?ryyryyyyowwbbbbbbrrrwrrwgrrbggbggyggoobooyooywggowwoww$
+val = 5.765263749527286 | ?ryyryyggwwwybbbbbbrrgwrrwrrrggbggbggoobooyooyoyyowwoww$
+val = 7.379065726155825 | ?yyyyyywwwbbgbbbooyrrrwrrggbbggbggwrroooooobggrrowwywwy$
+val = 4.084757838306573 | ?ryywyywwwgbbbbgbbgorrrrrrrrbggbggbggoowooyooyyyyowwoww$
+val = 6.49965479694613 | ?yyyoyyowwgbbgbbbbgyrryrrwrrbggbggbggoorooroooryywwwwww$
+val = 8.713481091156982 | ?bbbyyygggwbywbygggrrrrrrywywgywgyrrroooooowbwogbowbowb$
+val = 8.9197230638491 | ?bbyyyoyyowbbwbbggbrrbrryrrryyrggrggogoogoogbwwwwowwowy$
+val = 5.641456117511691 | ?bbbyyyyyrwbbwbbybwrrwrrwggbggyggyrryooooooorroowwwwggg$
+val = 6.8158028820819245 | ?yyryyryyrbbbbbbbbbrrwrrwryygggggroooyoowoowoowggwwgwwg$
+val = 6.285699798621696 | ?yyyyyyggrbbrbbybbywwbrrgrrgwggoggorgooorooroobbwwwwwwy$
+val = 5.370013547632978 | ?yyryyryyobbbbbbbbwrryrryggrgggggrggryoowoowoooowwwwwwb$
+val = 7.279237428662918 | ?yywyywyybbbbbbbbbwrrwrrwggyrggrgggggrooyooyoooorwwrwwo$
+val = 6.259993003577014 | ?yyyyyyyyrbbbbbbroorrwrrwbbwggggggggboooroorrgwwowwoyww$
+val = 7.352182867359133 | ?yybyyyyyrbbbbbbbrrrrwrrwybwggwggwgggroorooyoogwogwowwo$
+val = 5.589905462371358 | ?bbbyyyyyrwbbwbbrryrrwrrworrggyggyybwooooooggbgggwwwwoo$
+val = 8.05195635073937 | ?bbbyyyrbbwbgwbworoyrrbrrwwwygyygyrgboooooorryggggwogww$
+val = 8.158244825035569 | ?bbbyyryyrwbbwbbywwrrwrrwgbbggyggyryyoooooooorowwrwgggg$
+val = 8.922539326150812 | ?oyyoyyowybbybbybbygrogrrgyrbbbggggggrrwoowoowrowrwwrww$
+val = 7.182236397494443 | ?oyooyobbbbbrbbwbboyyyrrygggoggoggrggwrwwowwowyyyrwrrwr$
+val = 5.703537367636054 | ?oyooyoyyybbrbbobbogggyrryyyoggwggrggwrwwowwowbbbrwrrwr$
+val = 5.502850444171374 | ?yyoyyoyorbbbbbbbbbrygrrgrrgyggyggyggwrowoowoowwowwrwwr$
+val = 4.49605855753914 | ?gggyyoyyyrrobbbbbbbbbrrrrrrryoggggggyyyoooooowwwwwwwww$
+val = 6.789927770461358 | ?yygyygyogbbbbbbrrrryorrrgggyyygggooorroooobbbwwwwwwwww$
+val = 4.183440841622942 | ?yyyoyygggryobbbbbbyyyrrrrrrrroggggggbbboooooowwwwwwwww$
+val = 5.358880158912516 | ?googyrgyryyybbbbbbrrwrrwrrwggbggbggbyyoyooyoowwowwowwr$
+val = 5.6140378978597605 | ?yyoyyryorbbbbbbbbbrywrrwrrwggyggyggygrogoogoowwowwowwr$
+val = 5.586163544294092 | ?yygyygyogbbbbbboooryorrrbbbyyygggrrrrroooogggwwwwwwwww$
+val = 5.742930357828603 | ?goygyygyyyyybbbrrrrrorrrgggbbbgggoooryoooobbbwwwwwwwww$
+val = 6.053440039378964 | ?oygoygoogbbbbbbbbbyyoyrryrryyyggggggrrwoowoowrwwrwwrww$
+val = 5.473436131494859 | ?googyogyoyyybbbbbbrrwyrryrrbbbggggggyyooowoowrwwrwwrww$
+val = 5.382294115939356 | ?ooooyyrggyygbbgbbgyrryrryyywrwwggrggbbboowoowobbrwwrww$
+val = 7.523290206107474 | ?ooooyyryyyygybbybbybbrrrrrrrrwggggggbbboogoogwwwwwwoww$
+val = 6.251692879609463 | ?rggyyoyyoybbybboogrrwrrryrrbbwggwggroogoogwwbowwywwybb$
+val = 8.978178016724556 | ?rbbyyyyyywbbgbbwborrrrrrgrbggyggywwgooboowwooywowwoggr$
+val = 9.168696742811658 | ?bbbyyyoyywbgwbgybwwrrwrrbrrggyggygggooooooywbrwwrworbo$
+val = 9.35925816202701 | ?bbbyyryyrwbbwbbryyrrwrrwoorggyggyywwoooooogbbggggwrwwo$
+val = 9.4341968069628 | ?yyyyyyyyybbbbbwbwwrrrbrrgbrggggggwgroooooogooorbrwwwww$
+val = 8.780303977574631 | ?bbbyyyggwwbywbywwyrrrrrbrbgbgyrgyogyoooooooogbwwrwwrgg$
+val = 6.461962754785084 | ?bbbyyygyywbrwbroobwrrwrrybrggyggywbgooooooogyrrbgwwgww$
+val = 4.126591378365092 | ?bbbyyygyywbrwbrwbgwrrwrrogyggyggyoobooooooybrwwgwwgbrr$
+val = 3.3954940627037185 | ?rbboyyoyywwwbbbybwbrryrrgrrggyggyggyooboowoobowwrwwrgg$
+val = 0.23063020948839247 | ?yyyyyygyybbwbbbbbyorrrrrrrrggggggggbooooooroobwwwwwwww$
+val = 2.800571531919771 | ?oyyoyyoyybbbbbbrobyrryrrybwgggggggrroowoowggbrrowwwwww$
+val = 2.8061441509953577 | ?yyyyyyggrbbybbyrrgrrbrrgorgwggwggwoooooooobbywbrwwwbww$
+val = 2.8143031534072054 | ?oyroyroyrbbbbbbybwyrwyrwgrwggggggbggyowyowyobowrrworwo$
+val = 5.651699886576754 | ?bbbyyyyyywbbwbowborrrgrrgbwggyggygrrooooooggryrowwwbww$
+val = 6.4661709666763745 | ?bbboyyoyyywwbbbrrrbrryrrgbgggyggyogyoorooroobwwwwwwwgg$
+val = 6.536383072662191 | ?wbbwyywyyrrrbbbwwybrrrrrrbgggyggyogyoogooyoobbwwowwogg$
+val = 5.904059002056479 | ?bbbyyyrrrwbbwbwybwwwwbrrgrrggyygyygyooooooooboggrwwrgg$
+val = 6.0958748266597 | ?bbbyyygbrwbrwbrwwbwrbwrryrrwgyygyygyooooooooorggbwwggg$
+val = 5.3789146080099925 | ?wyywyyybrrrbbbwbbbrrbbrrwrrwggyggyggoogooyooyoggowwoww$
+val = 5.2712113394234015 | ?yyyyyygyybbrbbrybrwrrwrrwbwggggggoggoooooooobbwbrwwrww$
+val = 2.7867293826865915 | ?ryyoyyoyywbbbbbwrryrryrrgggggggggoobooboowybbwwwwwworr$
+val = 0.24636815801241813 | ?yyyyyywyybbbbbbwbyorrrrrrrrgggggggggoooooooorbwwwwwbww$
+val = 2.8010213087468467 | ?ryyoyyoyywbbbbboobyrryrrybbggggggwrrooboowgggrrowwwwww$
+val = 5.276076601027764 | ?byywyybyyybwbbbbbbrrrorrorrgggggggggoorooroooywwywwwww$
+val = 5.3480735536983675 | ?ryywyywyyboobbbbbwgrrwrrbbbggggggwrrooyooyggyrroowwoww$
+val = 5.3521421352521505 | ?rggoyyoyywbbbbbyybyrryrryrrggwggwggwoobooworgrwwowwobb$
+val = 5.65213347974548 | ?wyywyywyyrrrbbbrbwbrrrrroggggggggooyoogooybbybwwwwwboo$
+val = 5.7113464767591235 | ?yyyyyywyybbrbbbbwgbrrrrrwwyggggggrggooooooooorrbbwwwww$
+val = 5.465991986970093 | ?gyyoyyoyyobbobbobryrryrrwwgggggggwwyoowoowrgwbbrrwrbwb$
+val = 5.539263304990626 | ?oyyoyyobrbbbwbbbrryrbyrrgrrwggyggyggoowooboorwggwwwyww$
+val = 5.629389328830697 | ?gyyoyyoyywbbwbbybryrryrrwggggggggoooooroorbwbbwwrwwrbw$
+val = 6.451490055525194 | ?ryybyywyybwbrbbobrorrorrwygggggggwggooyoowoobbbrrwwyww$
+val = 6.565670554608749 | ?yyyyyygyybbrbbroggwrrwrroobggggggybroooooowbwwwrwwrbwb$
+val = 6.766205972706716 | ?gyywyywyyobbobbbbborrrrrrrrggggggggyoowoowbbrwwwywwyoo$
+val = 6.886554300255702 | ?gggwyygggybyybybbbrrrrrrroowgwwgwygwooooooorrwbbywwybb$
+val = 6.924964432455731 | ?yyyyyygyybbrbbrbbrwrrwrrwbgggggggogrooooooboobwwrwwwwy$
+val = 5.817851927108946 | ?yyryyrrrrbbbbbwbbbwwwbrrywwgggygggggyooyooyoorgorwowwo$
+val = 6.642175747109865 | ?bbbyyrgygwbrwbrobrwrwwrwwbyogyggyrgrooooooyyybwbrwoggg$
+val = 6.940110754412015 | ?gbboyyoyywwwwbbwgybrryrroooggyggywwbooroorybrgggwwbbrr$
+val = 7.039032236305124 | ?byywyybyywbrbbbrrryrryrrgggggggggooyooooorbbbwwwwwwwoo$
+val = 6.211311853247886 | ?yyyyyygyyrbrbbrbbbwrrwrrwbrggggggwggooboowooyorbowwoww$
+val = 6.1468831962026576 | ?yyywyybyybbrbbbgbryrryrrwggggggggooooooooobrrbwwrwwwww$
+val = 7.168317957208137 | ?oyyoyyoyybbbrbbrbryrrwrrbbrggggggwggoowoowoowyrbywwgww$
+val = 7.186363321482921 | ?oyyoyyoyybbbbbbbobyrryrrrrrgggggggbgoowoorogrwwwwwwyww$
+val = 6.580346769054327 | ?bbbyyyryywbbwbowbbwrrwrryrrggyggygbyooooogooorwwrwwggg$
+val = 6.793396231812571 | ?yyyyyygggbbybbybbrrrrrrrwwywggwggrbgooooooogobobrwwwww$
+val = 6.8982749792436335 | ?ryyoyyoyywbbwbbbboyrryrrwwbggggggyrrooboooggogbrrwwwww$
+val = 5.475208285148948 | ?wrgoyybbbobrgbwgwwyyyrrrrrrogwygwygwobboooboogggbwwyyr$
+val = 5.677224228961372 | ?ggooyyoyyybbybbrwbyrryrryrrggwggrgggbooboooobrwwbwwwww$
+val = 2.7875861802797415 | ?yyyoyyoyyrbbbbbwrryrryrrgggggggggoooooboowbbrwwwwwwbrw$
+val = 0.3902667139802204 | ?yyyyyywyybbrbbbrbbbrrrrrwrrgggggggggooooooooyowwwwwbww$
+val = 2.7679219864379334 | ?oyyoyyoyybbbbbboobyrryrryrrgggggggbwoowoorbggrwwwwwwwr$
+val = 2.7915729097089312 | ?yyyyyywwobbgbbgrbgrrwrrrrrbbggbggrggooooooooyyywwwwbww$
+val = 2.7288593597485997 | ?yyyyyygggbbybbyooyrrrrrrrbwwggwggbrwoooooooggbwrwwbwwb$
+val = 2.827019212052666 | ?yyyyyygggbbybbybrwrrrrrroggwggwggooyoooooorbwbwwbwwrwb$
+val = 4.6593953242441835 | ?yyyyyygyybbrbbrbbywrrwrrrbwggggggbggooooooooobwrrwwwww$
+val = 3.7012501665939572 | ?oyyoyyoyybbbbbbgbwyrryrrbggggggggooboowooryrrrwwwwwwwr$
+val = 5.337435424918188 | ?oyyoyywwrbbgbbgoogrryrryrrybggbggbbwoowoorbggyyowwwwwr$
+val = 2.942046810057858 | ?oyyoyygggbbybbyyyyrrrrrrrbwwggwggbggoowoorooobwrbwwbww$
+val = 5.377570954662361 | ?yyyyyyyywooobbbooybbrrrrrbbbrrgggwrrgggooogggbwowwwwww$
+val = 5.421692111485287 | ?yyyyyyggwbbybbyoowrrbrrbbrroggwggbrroooooogggrbywwwwww$
+val = 2.7757465057298334 | ?yyyyyyybrbbbbbwooorrbbrrbrrwggyggyrroooooogggwggwwwwww$
+val = 4.8215427025469575 | ?wyyyyyyyybrrbbbooygggrrrrbbooogggwrrbbrooogggbwowwwwww$
+val = 5.615876604620881 | ?yyyyyywyybbrbbbgggbrrrrrooyggggggrbboooooowrrwwbwwwwwo$
+val = 5.671453426715384 | ?gyyryywyyrbbrbbbbroggwrrbrroooggggggbbyooyoowywwowwrww$
+val = 2.810455637849926 | ?yyyoyyryyrbbbbrbbrwggyrryrroooggggggbbboowooogwwrwwwww$
+val = 4.609153961644082 | ?rbbyyyyyybrrwbbwbbgggrrrwrroowggyggyroyboobooowwwwwggo$
+val = 5.489797018502845 | ?wyyyyyyyybrrbbbwrrgggrrrgggooogggooybbrooorbbwwwwwwowb$
+val = 6.185083653555041 | ?ryyoyybbbwbrwbwwwwyyyrrrrrroggyggygooobooobbogggbwwgrw$
+val = 7.04736227215249 | ?oyyoyywyybbrbbwrbwbrrgrrgrrgggggggoooowooryyyowwwwwbbb$
+val = 7.4169418843209405 | ?oyyryyryybbbbbbbbgwrryrroobggggggyrroowoowggywwrowwoww$
+val = 7.422081194090784 | ?wbbyyyyyybbbbbybbyrrrorrorrggyggggggooroorooogwwwwwwww$
+val = 6.6406355817920275 | ?yyyyyyyyyooobbwbbwbbbrrorrrrrrbggwgggggooroooggbwwwwww$
+val = 6.962125819319632 | ?yyyyyybggoowbbbbbrrrrorrbbbwrrwggogggggooroooyyywwwwww$
+val = 2.7696022680886907 | ?yyyyyyyyybbbbbbrrrrrrrrrwgggggwggooooooooobbwbwwgwwgww$
+val = 1.3941594790705492 | ?yyyyyyyyybbbbbbooorrrrrrbbwgggwggrrroooooowggwwgwwgwwb$
+val = 4.052724361203251 | ?yyyyyywbbbbgbbgbbbrrrrrrrrryggyggyggooooooooowwgwwwwww$
+val = 7.015142697236266 | ?yyyyyybbwggybbybbyoororrorrbbbggggggrrroorooogwwwwwwww$
+val = 5.740617873294622 | ?byyoyyoyyryyobbobbgbbwrrwrrrrrggggggggwooboobowwrwwyww$
+val = 7.205363770847164 | ?wwgyyyyyyobbybbroorrrrrryrrggoggggggybbooooobbwwbwwwww$
+val = 4.130405377821789 | ?yyoyyyyyybbbbbbwrrrrrrrrgggggwggwoogboobooyorwwwwwwbgo$
+val = 4.629371309429291 | ?wbbyyyyyybbbgbbgggrrrrrroooggyggybbyooroooorrwwwwwwwwg$
+val = 5.405213571995187 | ?yyyyyyyyyrrrbbbwgggggrrrooooooggwbbwbbbroororwwwwwwbgg$
+val = 5.81111148961121 | ?yyyyyyyyybbbbbbrorrrrrrrwgggggggwooooooroobbwbwwgwwgww$
+val = 5.845046250436339 | ?ogbyyyyyygbbwbbwrrrrrrrrgggggwggboobroyooboobwwwwwwoyy$
+val = 7.0349420176342665 | ?yyyyyyyyybbbbbbooorrrrrrbbwgggggwroroooroowggwwgwwgwwb$
+val = 7.23050801931324 | ?byybyywyyoorbbyorrbbborrgggrrrgggoooggyoorbbywwwwwwgww$
+val = 7.488907607990638 | ?wyyyyyyyybbbbbobborrrwrrwrrggggggggyooroorbbogwwwwwwoo$
+val = 5.739025606510491 | ?yyyyyyyyybbbbbowbbrrrwrrwrrggggggggroooooowboowwrwwgwb$
+val = 6.554248189099693 | ?oyyoyyoyybbbwbbwrgyrryrroobggggggyrroowoogwbgwwrbwwrwb$
+val = 5.649841450949203 | ?ggroyyoyyybbybboobyrryrryrrggbggwggwwoobooorgrwwwwwwbb$
+val = 7.1431023524887545 | ?oyyoyyoyybbbwbbyrryrryrrwbgggggggwrgoowoogoobbwrwwbrww$
+val = 5.617087653154298 | ?gggoyyoyyybbybbwbgyrryrrwrrggwggwbgwooooooorrrbywwwbwb$
+val = 4.442881989713602 | ?gggoyyoyyybbybbbgwyrryrrorrggwggwwbgoooooowrrbwbwwwybr$
+val = 6.926554622293118 | ?wyyoyyoyybbbwbbwrryrryrrbggggggggoooooroorbbgywwbwwrww$
+val = 5.396062917364865 | ?gggoyyoyyybbybbwggyrryrroooggrggbbbywooroorrrwwwwwwbwb$
+val = 7.082743242418358 | ?yyyyyyoyybbgbbgbbgwrrwrrwrwggggggbwbooooooyoorbrwwrwwr$
+val = 4.194347037880361 | ?yyryyrgggbbrbbbbbywwwrrrrrroggyggwggyooyooyoobwbwwowwo$
+val = 5.348013288403404 | ?yyryyrbwbbbwbbybborrrrrrwwwyggbggrggyooyooyoogggwwowwo$
+val = 4.080424986471519 | ?yyyyyyybybbbbbwbbbrrrrrrrrrgggggggggooooooooowywwwwwww$
+val = 2.8276621984773356 | ?yyryyrggrbbybbbbbyrrbrrwrrwwywgggggggooyooyoobwowwowwo$
+val = 3.7833817080948657 | ?yyyyyywywbbgbbgbbgrrrrrrrrrbggwggbggoooooooooybywwwwww$
+val = 4.246837875733268 | ?yygyygyygooobbbbbybbyrrrrrrrrryggwggwggoooooobwbwwwwww$
+val = 2.7706056711719245 | ?gyygyygyyrrrbbbbbywggrrrrrroooyggwggbbyoooooobwbwwwwww$
+val = 5.858355531112133 | ?yyyyyyggrbbybbbooyrrbrrbrrbwggwggwrroooooogggbwowwywww$
+val = 6.862769862796405 | ?yyryyrybrbbbbbwyoorrwrrwbbbggggggrrwyooyoogggwwwwwyooo$
+val = 4.026027481094653 | ?yywyywybwbbbbbwbbbrrorrorrogggggggggroorooroowyywwywwy$
+val = 6.833421504099646 | ?ryrryrrbrbwbbbbbbbwrwwrwwrwgggggggggyoyyoyyoyoyoowoowo$
+val = 7.502883217677833 | ?yyyyyyggobbybbyrrrrrgrrwwwwwggoggorgoooooowbybgbwwbbwr$
+val = 7.002386340415531 | ?yywyyoggobbybbybbyrryrryrrrgggggrwworooboowoobwbwwgwwg$
+val = 5.109529771190649 | ?yyyyyyyyybbbbbwbbwrrrrrrggbggggggrrgoooooowooowwwwbwwr$
+val = 7.512540718179024 | ?rboyyoyyowggwbbbrroowyrrgrrbbbyggyggyrbooboorwggwwwyww$
+val = 5.750668210467987 | ?ooobyyrbbyryrbgrbgbwwyrryrrrowyggyggbbboowoowoggywwgww$
+val = 7.517455972056064 | ?gyywyywyyybbybbyrrobbrrrgggrrrgggoobggooooroowwwwwwbbw$
+val = 6.831291609640412 | ?oyyyyyyyyboobbbyorbbbrrrwrrrrrggwgggggwboooogbwwgwwoww$
+val = 6.859842703095141 | ?gyooyyoyyybbobbrbbyrryrryrrggwggwgggboobogoobrwwrwwwww$
+val = 4.158120199544791 | ?ybbyyyyyyobbwbbworrrrrrrwrrggyggyggooogooobbobwwgwwgww$
+val = 6.678529971160482 | ?wwgyyyyyyobbybbyorrrrrrrwrrggwggwggoobbooogoobwwgwwbby$
+val = 7.132672211773271 | ?wwgyyyyyyobbybbgggrrrrrroobggogggrooybboooyrrwwwwwbwwb$
+val = 7.592123132670976 | ?yyryyrgyybbrbbryorwrbwrbwbbrggrggwwwyooyoogggbwowwgooo$
+val = 7.627894271772858 | ?yyyyyybbwooybbwbbwoorgrrgrrbrrggggoogggoorbbrowwywwyww$
+val = 4.181544279137819 | ?byygyygyyrrrbbbbbbwrrorrogggggwggooooowoorbbrywwywwyww$
+val = 2.888705715306808 | ?yyyyyyyyyooobbbbbwbbbrrrrrrrrrwggwgggggooooooggbwwwwww$
+val = 0.19379836037032183 | ?yyyyyyyyybbbbbbbbwrrrrrrrrrgggwggwggoooooooooggbwwwwww$
+val = 1.8230109979677414 | ?yyyyyybggbbwbbwbbgrrrrrrrrrwggbggbggoooooooooyyywwwwww$
+val = 4.997965508262833 | ?yywyywyygooobbybbybbyrrrrrrrrrggggggbggoooooobbwwwwwww$
+val = 4.48965829821514 | ?yyyyyygggbbybbyrwwrrrrrrbwwwggbggoggooooooooyrbbrwwbww$
+val = 4.844107775676755 | ?ryyryyrwwyyybbbbbbbrrwrrwrrbggggggggoogooyooyobwowwoww$
+val = 7.180190917101906 | ?yyyyyyyggbbbbbbbbrrrrrrrwoowrrwgggggggooooooobyywwwwww$
+val = 5.301621498020885 | ?yyyyyybggoowbbwbbrrrrrrrbbbwrrbggogggggooooooyyywwwwww$
+val = 5.366046083823812 | ?byywyywggrbbbbbbbborrorrooowrrwgggggggwoorooryyyywwyww$
+val = 5.55357376746753 | ?ryyryybbrbbobbybbywwborrorrwrrggggggggyooyooygwwowwoww$
+val = 7.692571389625467 | ?bbbyyybwbwbrwbroooybwbrwwrwrgyrgyrrrooooooygygyggwggwg$
+val = 7.7190390397367405 | ?wbowyoyyorrbbbwggwrowbrrbrrbbbyggyggyrgooyooorggywwyww$
+val = 5.508679720183531 | ?yybyybooooowrbbrrrbbbyrrgggyrryggooryggoogwwgwwwwwwybb$
+val = 5.862978590803526 | ?yyyyyyyyybbbbbbwwgrrrrrrwwbggggggwggoooooooorrrobwwbww$
+val = 3.0194178100522366 | ?ryyoyyobbwbbwbborryrryrrgrryggyggyggoobooboowwggwwwbww$
+val = 5.337640102613935 | ?wyywyybbbrrobbwbbwwrrbrrbrryggyggyggoogooyooyrggowwoww$
+val = 5.0841394224877146 | ?yyyyyygyybbrbbrbbbwrrwrrybbggggggrggooooooooorwwrwwwww$
+val = 5.501693250322589 | ?oyyoyyoyybbbbbbooryrryrrbrrgggggggbboowoorrggywwwwwwww$
+val = 5.609674725264248 | ?yyyyyygbbbbrbbroorwrrwrrwwoyggyggbrrooooooyggbbwwwgwwg$
+val = 5.91848295859491 | ?yyyyyygbbbbrbbrbrrwrrwrryggyggyggooroooooowwogwwgwwwbb$
+val = 6.526648675312419 | ?yyyyyyyybbbbbbbwwwrrorrwbrrwggbggyggoooooooogrggrwwrww$
+val = 5.40554416060273 | ?ryyryywwwbbgbbgbbgrrrrrrrwobggyggbggooyooyooyybwowwoww$
+val = 4.168131054850629 | ?yyyyyyybybbbbbboowrwrrrrbybggggggwrroooooogggrrowwwwww$
+val = 4.107469364196014 | ?ryrryrbybbbwbbwbborrorrwwwwwggbggrggyoyyoyyoygggowoowo$
+val = 6.797043717860341 | ?rywrywwbwbbbbbybbboworrorrogggggggggroyroyroywwyowyowy$
+val = 4.923016369910082 | ?ryrryrbyrbbwbbwbbyrrwrrwoobggggggwbwyoyyoygoyggoowwowo$
+val = 5.466470850787959 | ?ryoryobyobbwbbwbbwrryrryrrbggggggwbywoywoygoyggoowwowr$
+val = 7.034728558389499 | ?ryyryywbybbbbbybbbowrrrrrrrgggggggggooyooyooywwwowwoww$
+val = 7.258210225228609 | ?yyryyrybwbbbbbbgggrwrrrrooobggyggbggyooyooyrrwwwwwowwo$
+val = 6.986018106307681 | ?yyyyyybyybbwbbbggyrrrwrrrrbggggggwwwoooooogrrbbowwowwo$
+val = 5.428101125320726 | ?yyyoyyoyyrbbrbbbbwyrryrrbwwgggggggrrooboobggoroowwwwww$
+val = 5.646195567017738 | ?oyyoyyoyybbbbbbywwyrryrrrwwgggggggrroowoowwbbgoogwwrrb$
+val = 5.541740540775265 | ?oyyoyyoyybbbbbbgrryrryrrwbbggggggywwoowoowrwwbrrwwgoog$
+val = 6.015027221197169 | ?yyyyyyyyybbbbbbbbwrrrrrrbwwggggggrwwoooooogrorggwwowwo$
+val = 5.132534669558737 | ?oyyoyyobbbbbbbbggryrryrrwrryggyggywwoowoowgrrbggwwowwo$
+val = 6.971513809149456 | ?ggooyyoyyybbybbywwyrryrrgrrggwggwggrbooboowbbowwowwrrb$
+val = 5.336195940597452 | ?brroyyoyyrbbwbbwwwyrryrrgrrggyggyggybbwooboobowwowwogg$
+val = 6.561302590563552 | ?yyyyyygyybbwbbwrrborrorrrrrggggggggooooooobbywwwbwwbww$
+val = 4.175605286155363 | ?yyyyyygggbbybbybbyrrrrrrrrgwggwggooroooooowgobbwwwwwwb$
+val = 4.0969427951732795 | ?oyyoyyoyybbbbbbwbbyrryrryrrgggggggoroowoowwgorwwrwwgwb$
+val = 6.315555560151413 | ?yyyyyygggbbybbyoorrrrrrrwgowggwggbbyoooooorrgbwwwwwwbb$
+val = 5.074064581203603 | ?yyyyyyyyybbbbbbbbwrrrrrrgrrgggggggoroooooowgoowwwwwwwb$
+val = 5.59943039391785 | ?yyyyyygggbbybbyrrgrrrrrroorwggwggwgooooooobbywwbbwwbww$
+val = 6.3814836154469265 | ?yyyyyygggbbybbywgorrrrrrbbywggwggrrgoooooooorwwbwwbbww$
+val = 6.850052768397274 | ?oyyoyyoyybbbbbbywwyrryrrgrbggggggrrroowoowggbobwowwrww$
+val = 7.244998465074269 | ?yyyyyybyybbwbbbwwwrrrwrrgrrggggggggyoooooorrbowwowwobb$
+val = 4.154657853228756 | ?rbbryybyybbowbbwbwwrryrrbrrggyggyggyooyoooooorwwwwwggg$
+val = 5.338699280514926 | ?oyyoyyoyywwwbbbwbbbrrorrorrggggggggyoogoowrrrywwywwbbb$
+val = 7.167845436463274 | ?obboyyobbwwwbbwwbwbrrrrrrrrygyygyygyoogoowoorgggywwbgg$
+val = 6.376420456464804 | ?yyyyyybbbbbwbbbbrrrrrwrrgwwyggygggrrooooooygowoowwgwwg$
+val = 5.433123073865011 | ?bbbryyrbbwwwwbbooogrryrrwbwygyygybrrooooooygygwrgwggwg$
+val = 7.179928707252863 | ?gbbyyybbbwbwwbbwwwrrrwrrgrrygyygyygyooroorooboggowwogg$
+val = 7.272266783712924 | ?gggyyybbbybwybbgbbrrrwrrwrrygwygwygoooooooyrroggowwwwb$
+val = 3.730794598188477 | ?yyyryyrbbbwwbbbbbwgrryrrbrryggyggyggooooooooorggwwwwww$
+val = 4.0981555376926195 | ?oyyoyyoyybbbbbwrbbyrrrrryybggggggrggoowoowoowrbwrwwgww$
+val = 7.369097769390181 | ?ryyryywyybbbrbbrbborrorrobbggggggrggooyoowoowywwywwgww$
+val = 7.446430731667014 | ?ryyryygggbbybbbooyrrrwrrbbwwggwggorrooyooywggoobwwywwb$
+val = 7.468817486689913 | ?ryyryyggwbbybbybbbrrbrrwrwwoggggggwrooyooygrywboowooww$
+val = 7.656112868016324 | ?yyyyyyyyybbbbbbobwrrrrrrbwbggggggwwroooooogrgrgowwowww$
+val = 5.373181390286875 | ?yyyyyybbbbbobbobwwwrrwrrrrryggyggyrgooooooobwggggwwrww$
+val = 5.156067093960359 | ?yyybyywbbbwrbbbbrrbrryrryrryggygggggooooooooogwwgwwwww$
+val = 5.455191343056454 | ?yyyyyyybbbbrbbrbbwgrrgrrbwwyggygggrrooooooggoroowwwwww$
+val = 5.878948414810962 | ?obbbyywbbwwrwbbwoobrryrrbrrygyygyyryoogoogoogwggwwwrgg$
+val = 5.484210506798757 | ?byyyyybbbrbowbobbowrrwrrwrryggyggyrroowoobggygggowwoww$
+val = 4.156130178232247 | ?yyybyyyyybwbbbboowrrrrrrbybggggggwrroooooogggrbowwwwww$
+val = 5.931634078355327 | ?bbbyyyyyyrbbwbbwwbrrrrrrwwrggyggygryoowoobooooowgwwggg$
+val = 6.258183415441399 | ?ggryyyyyyybbybbbbbrrrrrrwwwggwggwgrogoogooybwoooowwrwb$
+val = 6.9286016162410125 | ?oyyoyyoygbbbbbbybbyrwyrwygboggoggrrroowoowggrrrwrwwgww$
+val = 2.759431937900792 | ?yygyyoyyobbbbbbbbyrryrrygggggrggroorwoowoowgorrwwwwwwb$
+val = 5.7016955341382545 | ?yyyyyyyyybbbbbbwgorrrrrrbbwgggggggrroooooogorwwowwwbww$
+val = 6.945787919290655 | ?yyyyyyyygbbbbbbggorrwrrwbbyoggoggggboooooorrrwwrwwrwww$
+val = 7.456893260446769 | ?yyyyyyyygbbbbbbggbrrwrrwrrroggoggggooooooobbywwwrwwrww$
+val = 7.548348403591731 | ?byyyyyyyyrbbwbbwwwrrrrrrgrrggggggggyoowoobbbbowwowwooo$
+val = 4.684149743467664 | ?ggyyyyyyyybbybbgrrrrrrrrggoggoggobbwbooboobwwwwwwwwoor$
+val = 5.2254534124256935 | ?gyyyyyyyyobbobbbbbrrrrrrrrrggggggggooowoowbbywwwowwoww$
+val = 6.784468239229066 | ?ryyryyryybbbbbborrwrrorrggoggggggbbgooyooyoobwwwwwwyww$
+val = 7.0044366484829546 | ?wwryyyyyyobbobbgrrrrrrrrggyggbggyoobwbboobowwwwgwwgooy$
+val = 4.5389634074302725 | ?bbbyyyyyyrbbwbbwbbrrrwrrwrrggyggyggyoowooooooowwrwwggg$
+val = 0.5596772049551006 | ?yyyyyyyyybbbbbbbbbrrrwrrwrrgggggggggoooooooowowwrwwrww$
+val = 4.015391268545359 | ?yyyyyyyyybbbbbboowrrrwrrbbbggggggwrroooooogggrrowwwwww$
+val = 2.447543495339146 | ?wyyoyyoyybbbbbbbbbyrryrryrrgggggggggooroorooorwwwwwwww$
+val = 4.058486813181885 | ?yyyyyyyyybbbbbbwrrrrrwrrgggggggggoowoooooobbbwwwwwworr$
+val = 5.2898739026893695 | ?yyyyyyyyyooobbboowbbbwrrbbbrrrgggwrrgggooogggrrowwwwww$
+val = 7.013070636222501 | ?ryyryyryybbbbbbbbgwrrorroobggggggorrooyooyggowwywwwwww$
+val = 6.7641889017147125 | ?yyywyywyyboobbbbbwgrryrrbbbggggggyrrooooooggorrrwwwwww$
+val = 7.625998377982687 | ?yyoyyyyyybbbbbbbwrrrrrrrgryggggggooowoowoobbwwwgowgrww$
+val = 7.606322036708301 | ?oyooyyoyybbbbbbwbbyrryrrywrgggggggrywowwowoorrowrwwbgg$
+val = 7.424656074828405 | ?ggyyyyyyyobbybbybwrrrrrrbwrgggggggrwowwoooooorowwwwbbb$
+val = 4.346017261532394 | ?yyoyyoyyobbbbbbbbyrryrryggbggggggrrgwoowoowoorrwwwwwwr$
+val = 4.077745099200896 | ?yyyyyyyybbbbbbbooorrwrrwbbyrggrggggroooooogggwwrwwrwww$
+val = 5.109330465068189 | ?gggyyoyyoobbybbooorryrryybyggrggwggbwwwooorrwbwrbwrbww$
+val = 7.558139764487796 | ?yyyyyybbbbbwbbwobyrrrrrrggbyggyggwwroooooogggrrowwowww$
+val = 4.550103610137407 | ?yygyyoyyobbbbbbobbrryrryrrwggrggworrwoooooyggwwbwwgwwg$
+val = 4.592300624155419 | ?ggryyyyywybbybbybbrrbrrgrrgogwrgwrwwgoogoogoowwywwobbo$
+val = 6.036473650382865 | ?yyyyyyyygbbbbbbggbrrrrrwrrwwggoggoggooooooobywwbrwwrww$
+val = 7.658686360474222 | ?yyyyyybbbbbwbbwbbyrrrrrrggwyggyggrwwooooooggorrgwwowwo$
+val = 7.681630253175625 | ?obbyyoyyowbbwbbbbwrryrrybwyggyggygggoogoorwoorgrwwrwwr$
+val = 7.697899649645349 | ?ybboyyoyyrbbrbbrwwyrryrrgryggoggyoowwwboobbwwowgowgggr$
+val = 7.711004149519935 | ?ggroyyoyyybbybbrwwyrryrrgrrggbggrbwwwoobooowwowyowbggb$
+val = 7.7583459558557815 | ?yyyyyyyyybbbbbbgrrrrrrrrgorggggggwgooooooobbwwwbwwwoww$
+val = 7.76426748945585 | ?ggbyyyyyywbbwbbooorrrrrrgggggwggbooororoorbbbywwywwyww$
+val = 7.766538712862964 | ?gggyyyybbybrybrbbbgrrgrrwrrygwygwggoooooooybwowwowwrwb$
+val = 5.500955645506843 | ?gggyyyyyyybbybbbbbrrrrrrwwbggwggworrooooooggwobyowwrww$
+val = 5.425863363254646 | ?gggyyyyyyybbybborrrrrrrrggwggwggwbbboooooowwbwwrwwoybo$
+val = 6.917929905749829 | ?wyyyyyyyyobbobbrwbrrrrrrorrgggggggggoobooboobywwbwwwww$
+val = 5.772808711908905 | ?ggbyyyyyyybbybbwrrrrrrrrgggggwggbooyroowoobbbwwwwwwooo$
+val = 5.61024711518868 | ?ryyryyryybbbbboooowrrwrrwwbggggggorrooyooyggwgbybwwbww$
+val = 5.4355826196304475 | ?ryyryyryybbbbboorrwrrwrrggwggggggoooooyooywwbwwbwwbybg$
+val = 5.47023090229332 | ?oyyyyyyyywbbwbbbobrrrrrrrrrggggggggwoogoobooywwwwwwobb$
+val = 5.468992047349871 | ?ggwyyygggybyybyooyrrrrrrrrrwgbwgbwgoooooooybgbbbwwwwwb$
+val = 5.637338858805169 | ?ryyryygyybbrbbrooowrrwrryggggggggoobooyooyrwwbwwbwwbbw$
+val = 5.667251537439455 | ?ggwyyyyyyybbybbybgrrrrrroobggbggbrrrooooooggowwwwwwbww$
+val = 5.272995279350296 | ?yyyyyyyyybbbwbboobrrrrrrrrwggggggoogooooogwbgwwbwwbwwr$
+val = 5.587350082912898 | ?gggyyyyyyybbybbyrwrrrrrroogggwggwwbwoooooobgobbrwwwbwr$
+val = 6.051122943735944 | ?ryyryyrwbbbbbbwoowwbyrrrrrroggyggyggooyooyoowgggbwwbww$
+val = 4.464654827600977 | ?ryyryygggbbybbyooorrrrrrybwwggwggbggooyooyoowbwrbwwbww$
+val = 6.291663113599714 | ?yyybyywyybwrbbobbobrrbrrbrrgggggggggoooooroorwwwywwyww$
+val = 5.4547177118046415 | ?wggyyyyyyobbobbybgrrrrrryybggwggwrrrooboobggooowwwwbww$
+val = 6.680208725266799 | ?yyyyyygggbbywbybbgrrrrrrooywggwggrrwooooogoowwwbwwbrbb$
+val = 7.083375616445555 | ?wyywyywbbrrrbbwbbbbrrgrrorryggyggybgoogooooooyggywwwww$
+val = 7.046575407502669 | ?wyywyywbbooogbwgbbgrrgrrorryggygbybboobooorrryggywwwww$
+val = 7.251513819693712 | ?yyyyyyyyybbbwbboogrrrrrrwbgggggggoobooooogrrwrwwbwwbww$
+val = 7.259283336553636 | ?wwwbyybyygrrgbworrygggrrybboobygbrrroooooogbbgwwgwwyyw$
+val = 7.4681867451570785 | ?wyybyybyyrrrbbwbrrygggrrybboooyggrrgbbgoooooogwwgwwwww$
+val = 4.220028317388751 | ?yyyyyyyyybbbbbbrrgrrrrrroowggggggrgboooooowbbwwgwwwwwo$
+val = 6.727353105435727 | ?yyryyrgbbbbwbbwrrworrorrowgyggyggwggyooyooybbbgrwwowwo$
+val = 7.595055191399124 | ?rggryyryybbbbbyooywrrorrorrggwggwggoooyooyybwgwwbwwbwb$
+val = 5.618500705237871 | ?gggbyybyyyooybbbbbwrryrryrrggwggwggoooooooybwrwwrwwrwb$
+val = 6.648822617754159 | ?wwoyyyyyygbbgbbwybrrrrrrrrrggbggwggoyooboogbbwwwowwooy$
+val = 7.564187617439231 | ?wggyyygggobyobyyyyrrrrrrrrrwgwwgwwgoooboobybgbbbowwowb$
+val = 7.602315333518713 | ?rggryywyybbbbbbrwborrorrorrggwggwgggooyooyyybywwbwwwoo$
+val = 6.264301673968161 | ?yggbyywyybwrbbbbbbbrryrryrrggwggwgggooooooyyorwwrwwwoo$
+val = 5.587370879465695 | ?bggyyyyyyrbbwbbwrrrrrrrrgggggwggwyyyoowoobbbbwwowwoooo$
+val = 5.767935339480483 | ?gggyyyyyyybbybbyrrrrrrrrgbbggwggwrwwooooooogowowwwbbwb$
+val = 6.762542578048782 | ?gggoyyoyyybbybwobryrrbrrwbbggwggwyrrooooooggwbrrywwbww$
+val = 6.810350569677133 | ?rggryygyybbrbbrbbbwrrwrrrwwggwggwoggooyooyyyywbbowwooo$
+val = 5.5763419656103 | ?gggoyyobbybbybbwwryrryrrwrrygwygwywwoooooooggbggrwbrwb$
+val = 4.133112066162949 | ?gggoyyoyyybbybbogryrryrrwbbggwggwyrroooooogwwbrrwwwbbw$
+val = 4.152270997495431 | ?oyyoyyoyybbbbbbwbbyrryrryrgggggggoogoowoowwgrrwwrwwbwr$
+val = 5.518089761156135 | ?gggoyyoyyybbybbyrryrryrrgwwggwggwogroooooowbbwbbwwwrrb$
+val = 6.256493801055514 | ?oyyoyyoyybbbbbboogyrryrrwgrggggggwbboowoowyrgrwbwwrwwr$
+val = 6.938798654574209 | ?wyyoyyoyybbbwbbbbbyrryrryrrgggggggwgooroogooorwwrwbwww$
+val = 6.871303999646284 | ?yyyyyyyyybbbbbboowrrrrrrbwbggggggwrroooooogwgrgowwwwbw$
+val = 4.2187652893418175 | ?yyyyyyyyybbbbbbwrrrrrrrrgwgggggggoowoooooobwbwbwwwwogr$
+val = 7.0157819438927085 | ?yyyyyygggbbybbybwyrrrrrrrrwwggwggowgoooooooowbbbgwbrww$
+val = 7.035875439949923 | ?yggyyyyyybbbbbbyywrrrrrrbrrggwggwgwwoooooooggrwwowbowb$
+val = 7.436356026344655 | ?gyyoyyobbobbobbogryrryrrwrryggyggyrroowoowgwwbggwwwbbw$
+val = 6.846315499049264 | ?yyyyyywbbbbrbbgbrrbrrwrryrryggygggwgooooooooogwwgwbwww$
+val = 7.295393562226063 | ?gggoyyobbybbybbogryrryrrwrrygwygwgwyooooooggwbwwwwbbrr$
+val = 7.447449556561645 | ?gggyyyyyyybbybbywbrrrrrrwrrggwggwgwroooooowooowwgwbbbb$
+val = 5.985922682162492 | ?ryyryywyybbbbbwbbborrgrrrrrgggggggwgooyooyooywwwowboww$
+val = 4.477658739930966 | ?ryyryyryybbbbbbbbwwrrwrrogwgggggggrrooyooygoybwoowwoww$
+val = 5.682093344673678 | ?ryyryygggbbybbyogrrrrrrrwwgwggwggooyooyooybbwbbwwwwboo$
+val = 6.723554866004005 | ?ryyryyryybbbbbbgrrwrrwrrgoyggggggbbwooyooyogwwwowwoowb$
+val = 7.6271864486261745 | ?yyyyyywbbbbbwbbrrrorrorrgrryggyggybgooooogoobwggwwwwww$
+val = 7.7469077590658575 | ?wggyyybbbobwobwyywrrrrrrrrrygwygwygoooboobybggggowwowb$
+val = 7.769663327940487 | ?oyyoyyoyybbbbbowbbyrrwrryrrggggggggroowoowwborwwrwwgyb$
+val = 5.521660094670908 | ?ryywyywyywbbbbbooborrorrobbggggggyrroobooygggyrrwwwwww$
+val = 7.8166721469800375 | ?yyyyyywbbbbgbbwooorrrgrrbrryggyggybboooooorrgwggwwwwww$
+val = 5.282289363247583 | ?wyywyywbbooowbbgbbgrrorrorryggyggybbooboogrrryggywwwww$
+val = 5.945150925317412 | ?ggbyyyyyyybbybbyowrrrrrrrgbggwggwwbwrooroogoogwowwwbbo$
+val = 5.546471600655401 | ?gyyoyyoyyobbobbwbbyrryrrygbggggggwbboowoowrrgrworwwrww$
+val = 5.874464515941238 | ?yyyyyyyyybbbbbbrgbrrrrrrwbbggggggrrgoooooooowowwwwwgww$
+val = 5.878482704329617 | ?gggyyyyyyybbybbwoorrrrrrygbggwggwwbboooooorrgbwobwwrww$
+val = 4.117785197118625 | ?gggyyyyyyybbybbwbbrrrrrrrrgggwggwwooooooooygbwwrwwbowb$
+val = 7.029428094143831 | ?wwwyyyyyygbbgbbyywrrrrrrrbbggbgggrroooowoogoogwwowwbby$
+val = 5.692469636083027 | ?gggoyyoyyybbybbwbbyrryrrybbggwggwrrwooooooowgrwwrwwrgb$
+val = 5.621911351951307 | ?wwroyroybgbbgbbgbbyrwyrwybwrggrggrgbyooyoowoorwgrwwyyo$
+val = 7.010971797342934 | ?wwwoyyoyygbbgbbybbyrryrrrrrggbggggooooowoogbbwwwwwyrry$
+val = 7.349624414857836 | ?yyyyyyyybbbbbbbrrwrrorrorgowggwggwrrooooooybbgwgwwgwwg$
+val = 7.841162830871611 | ?gggoyyobbybbybbgwyyrryrrggwygwygwogroooooowrrrrbbwwwwb$
+val = 5.5199818626355075 | ?gyyoyyobbwbbwbbggwyrryrroggyggyggoowooroorbwybwwrwwrbr$
+val = 6.529482247210064 | ?gyyoyyobbwbbwbboowyrryrrbwyyggyggggwoorooroggrbrwwrwwb$
+val = 7.862258540600525 | ?gyyyyyyyywbbwbbbbbrrrrrrrwwggggggoggooroorooywbbowwoww$
+val = 7.8965665141216785 | ?oyyoywobwbbbbbwggwyrgbrrbrrrrbyggyggrowooyooorggywwyww$
+val = 7.903146695321529 | ?yyyyyywwwbbgbboggorrrwrrwrrbggbggbgooooooobbygyyrwwrww$
+val = 7.917066058293543 | ?bbbyyyyyyrbbobborrrrrrrrgwwggygggoggoowooyooywbbwwwgww$
+val = 7.9229858932148085 | ?yyyyyyggrbbybbywoorrbrrgbbywggwggrrgooooooorgwwbwwwrbw$
+val = 7.945623181661551 | ?oyyryyryybbbbbbyrrwrryrrggyggggggbbgoowoowoobwwowworww$
+val = 5.517311847024686 | ?wwrryyryygbbgbbgrrwrryrrggyggyggbbbbboowoowoowwowwoyyo$
+val = 7.961880276801751 | ?bbryybooorowrbgrbgbbbyrryrryryyggyggbwwoowoowoggywwgww$
+val = 7.754881398676743 | ?booyyyybbyggrbbgrrowwyrryggrowyggooobbroobyrrgwwgwwwwb$
+val = 7.690583482057664 | ?bbyyyyoobrowrbbgrrbbryrryggyggyggoooowwoobyrrgwwgwwwwb$
+val = 8.061420922237117 | ?wyywyywyyooobbbbrrgrrorrgbwggggggbgoooboorybrwyrwwwywb$
+val = 7.572099049015676 | ?wyywyyyyyrrbbbbooorrrrrrbbwggggggbgooogoooybgwyrwwwwwb$
+val = 8.07222249541829 | ?gggoyyrbbybbybworrwyybrrgrrogwygwyrroooooobgwwggwwbbwy$
+val = 8.07831148105556 | ?oyyoyyobbbbbrbbwwgyrryrrrrryggygggggoowoogoorywwbwwbww$
+val = 2.7767105459593515 | ?yyyyyyrbbbbgbbwoooyrrbrrbrwyggyggbrroooooogggwgrwwwwww$
+val = 0.49081528974431704 | ?yyyyyyyybbbbbbbybbrrwrrrwrrrggggggggoooooooorowwwwwgww$
+val = 4.306976297759014 | ?yyyyyyyygbbbbbbbrrrrrrrrybbwggwggrggooooooooogwwgwwwww$
+val = 6.173475905218895 | ?yyyyyybbbbbwbbwybwrrrgrrgrryggygggoooooooobrrowwwwwggw$
+val = 6.041931855586618 | ?yyyyyybbbbbwbbwgoorrrgrrbrryggyggybwoooooogrrwggwwwwwo$
+val = 8.093938302896412 | ?obboyyoyywwwwbroorbrrbrbbrbggyygyrrroogooggbyygwgwwgww$
+val = 6.381348280758059 | ?byybyybyrooowboooowbbwrrwbbwrrggyyrrggyooggbygrrgwwgww$
+val = 5.422400665868636 | ?bbbyyyggywbywbyoorrrbrrbwwwrgyrgygrroooooggbyboogwwgww$
+val = 8.107656762546863 | ?bbbyyybbbwbwwbbgggrrrwrryrrygyygyygooooooowrroggowwwwg$
+val = 6.692286951780818 | ?wwwryyrbbgwwgbbgbwgrryrrbrrygbygbygbooooooooorggwwwyyy$
+val = 7.278335664356234 | ?gggyyybbbwbwwbbyyyrrrwrrbrrygwygwygwoorooroogoggowwobb$
+val = 8.162574736820872 | ?yyyyyyobbbbwbbgbwgbrrrrrwwgyggyggrggoooooooowrrybwwrww$
+val = 7.609417772332346 | ?yyyyyyobbbbwbbgrggbrrrrroowyggyggbwgoooooowwgwwrwwbyrr$
+val = 7.752627836844818 | ?yyyyyyyywbbbbbbooorrgrrwbrbrggbggrwgoooooorggwgwwwrwwy$
+val = 6.856632254165843 | ?yyyyyybbbbbwbbrbryrrrwrrgwgyggyggwggooooooooorbrgwwwww$
+val = 7.874415766924507 | ?yyryyryrrbbrbbbbrrgwywrwgrwbbbggggggwooyooyoowyogwowwo$
+val = 8.116814140507142 | ?wyywyyggwrrybbwbbbrrbbrrrrroggbggbggoogooyooywyyowwoww$
+val = 7.544878261989209 | ?yyyyyygbbbbrbbrggwwrrwrrobryggyggwggooooooooybwbrwwrww$
+val = 7.21305701656161 | ?wyywyyobbrrwbbgrbrbrrrrrwggyggyggooyoogooybbgbwwwwwyoo$
+val = 6.875371801329689 | ?yybyybwwooogbbgbbgrrwrrrrbrbrryggwggyggooyooyywbowwoww$
+val = 6.613090271398845 | ?yybyybbwyoowbbybbbrbrrrrwrrgrrggggggyggooyooyowwowwoww$
+val = 7.551734692219899 | ?yyyyyywbbbbrbbbbyrbrrwrryrryggggggggooooooooogwwrwwwww$
+val = 2.78387191014345 | ?ryyryybggbbwbbybbbrrrrrrwwywggwgggggooyooyooyobrowwoww$
+val = 2.7504407051222604 | ?wyywyyyywobrbbbbbbgrrorrorrbggggggggoobooroorywwywwyww$
+val = 4.479370830388432 | ?yyyyyyyywbbbbbbrborrrrrrbrrbggggggggoooooooogwwwwwwyww$
+val = 5.026840709961891 | ?yyyyyywwwbbgbbgrbbrrbrrrrrroggbggbggoooooooogwyywwwyww$
+val = 2.8122559543177585 | ?yyyyyyobbbbwbbwoogbrrrrrrbwyggyggrrroooooowggywgwwgwwb$
+val = 2.9994263801488645 | ?yyyyyybggbbwbbyoogrrrrrrrbywggwggrrboooooowggywbwwbwwo$
+val = 5.445388873402024 | ?yywyyyrrbooybbbbbrbbowrryrrwrrggggggbggooyooygwwowwoww$
+val = 4.899306660647563 | ?brryyywyywrrbbbbbrbggwrryrrooyggggggbboooyooygwwowwoww$
+val = 3.5971497065183855 | ?ryrryrbyrbbobbbbbrwrwwrwyrwggbggggggwoyyoyyoygwoowoowo$
+val = 5.216743706593724 | ?yyryyryyrbbbbbbbrwrrwrrwgggggbgggyogwooyoorboooowwwwwy$
+val = 5.368460682899499 | ?yyryyryyrbbbbbbyogrrwrrwrboggbgggbrwwooyoogggywwwwwooo$
+val = 3.000594926035012 | ?yywyywyywbbbbbbrborrorrobroggggggggbrooroorogwwywwyyww$
+val = 4.593032263032486 | ?yyryyrgggbbrbbyrbywwwrrrrrbogbwggwggwooyooyogbbowwoywo$
+val = 2.779021009888306 | ?rbbyyryyrybbwbboborrwrrwbrwggyggyggroogooowyywwowwoggb$
+val = 2.7665751779299588 | ?bggyyryyrrbbybbyborrwrrwbrwggoggwggyyywooogoowwowwobbr$
+val = 5.560073650611982 | ?oyyoyyoggbbbybbwbbyrryrrywywggwgggggoowooroorrbrrwwbww$
+val = 5.567055952478242 | ?yyywyyyyyrbrrbybbbgggrrrwrroooggggggbbbooboowowwowwrww$
+val = 5.682551407755428 | ?yyryyryyrbbbbbbbrorrwrrwggwgggggoggryoowoowboyyowwowwb$
+val = 6.104548679881667 | ?bbbyyryyrwbbwbbwyrrrwrrwyrwggyggygggooooobyorgwogwobwo$
+val = 5.567855050075734 | ?bbbyyryyrwbbwbbgggrrwrrwyorggyggywyrooooobyrwowbowgowg$
+val = 6.782314076481802 | ?yywyyygggooybbwbbwrrrbrrooowrrwggyggbggooroorbbbywwyww$
+val = 7.5592997569360145 | ?gggyyryyrrbbbbbooorrwrrwyrwggoggwggbyyyoowrywbwobwobow$
+val = 6.328619591145193 | ?ybryyryyrbbbbbbbrwrrwrrwggbggggggrygywoyooyoooowwwowwo$
+val = 5.704053515135012 | ?owwyyryyrgbbgbbgrwrrwrrwggbggbggbrybooyooyowyoowwworby$
+val = 7.510058599393084 | ?bbbyyryyrwbbwbbyyyrrwrrworwggyggbggbooowooryrgwogwogow$
+val = 7.267931257894535 | ?gggoyroyrrbbbbbobbyrwyrwygbggoggwrygyyyoowowwrowrwobrw$
+val = 7.929773197285383 | ?bbbyyyyyywbbwbbbrwrrrrrrggrggyggbggyooowoooowoowwwwryg$
+val = 7.896197466965704 | ?bbryyryyrwbbwbbbowrrwrrwbrwgggggggggyooyooybyrwoywoowo$
+val = 6.260138137482587 | ?ybyyyyyyybbbbbbwoorrrrrrbrwgggggyggrowooooggrwwowwobww$
+val = 7.971426805759472 | ?yyyyyyywybbbbbbwworbrrrrbywggggggbggoooooooogwrrrwwrww$
+val = 6.444971581872713 | ?byyyyywbbwrrbbwbbwbrrrrbrrryggwggyggoooooyooygggowwoww$
+val = 7.477632337648891 | ?ryyryyggbbbybbwbbbrrwbrywrrrggrgggggooyooyooyowwowwoww$
+val = 7.6540756549732745 | ?yyyyyyowybbwbbrwbbbbryrryrrgggggggggoooooooorrwwrwwbww$
+val = 7.509541398012376 | ?ryyryybwybbwrbbwbbrbrorrorrgggggggggooyooyoobywwywwoww$
+val = 2.7646665433408644 | ?ryyryybywbbobbbooywrrwrrbbrbgggggyrrooyooygggoogwwwwww$
+val = 4.8290639012706045 | ?ryyryybywbbobbbyrrwrrwrrgggbgggggooyooyooybbrwwwwwwgoo$
+val = 7.68557571311704 | ?byyyyywwywrrbbobbobbrwrrwbbggggggyrroooooyggygrrowwoww$
+val = 7.222979952501811 | ?gyyoyyowyobbobbrrwybryrrobbggggggyrroowoowggbbrrywwwww$
+val = 7.778420941971807 | ?ryyryybwybbwbbybbbrbrrrrwggggggggoogooyooywwyowwowworr$
+val = 7.8281314966419 | ?ryyryyooobbwbbgoogbbbrrrwwgyggyggrbrooyooywggrrywwwwwb$
+val = 7.986264617483139 | ?wyywyywbbrrrbbbbbobrrwrrbggyggyggooyoogooyggywwwowworr$
+val = 6.154634917934782 | ?yyyyyyyyobbbbbbobgrrgrrgwwwwggwggboyooooooggwrrrwwwbrr$
+val = 6.956890191456697 | ?yyyyyyyyobbbbbbboyrrgrrgggwwggwggobgoooooowwwrrbwwwrrr$
+val = 7.086533430370947 | ?wyyoyyobbobbbbbrrryrryrrgggyggyggooyooboowggbwwwwwwwrr$
+val = 7.221559691309419 | ?yyyyyygbbbbrbbrwggwrrwrrooyyggyggggwooooooobrwwrwwrbwb$
+val = 5.926154484376239 | ?yyyyyyyyobbbbbboogrrwrrgwwgbggrggrbroooooowggrrywwwwwb$
+val = 7.141333879769303 | ?yywyyoyyobbbbbbyggrryrryoogggrggbwwoboowoobrrwwrwwrggw$
+val = 4.099684969592651 | ?yyyyyyyygbbbbbboowrrrrrrobrwggwggwrrooooooyggbwbwwgwwg$
+val = 7.060486496700635 | ?yyryyryywbbbbbbyggrrbrrwoobowwbggrgggooyooyrrwwwwwoggo$
+val = 7.755619435600084 | ?yyyyyyyywbbbbbbooyrrrrrbgggbggwggwwooooooobggrrrwwrwww$
+val = 5.565756959902433 | ?yyoyyoyyobbbbbbgggrryrrywwwggggggbwbwoowoowoyrrrrwbrwo$
+val = 8.013997107334323 | ?oyyoyyryybbbybrrbrwggbrrbrroooggggggbbwooroogywwwwwyww$
+val = 7.444437687251154 | ?brrwyybyrrbowbwwbwwrgrrgrrgyoyygyygybbwboobooggoowwggo$
+val = 8.036821059754944 | ?yyyyyybwbbbwbbwoowrborrrrrrwggbggbrrooooooygggyywwgwwg$
+val = 4.560981724122617 | ?yyyyyywbbbbbbbwrrrorrbrrgrryggyggyggoooooooobwggwwwwww$
+val = 2.8056163727090873 | ?gggyyyyyyybbybbyrwrrrrrrobgggwggwwgwooooooboobwrwwwbbr$
+val = 4.0799852822876455 | ?byyoyyobbrbbrbbwrryrryrryggyggyggoowoowoowrwbgwwgwwobg$
+val = 6.3017771446203925 | ?wyywyywbbrrrwbbbbbbrrorrorryggyggyggoogooboooyggywwwww$
+val = 7.033101650313474 | ?byyoyyobbrbbrbboowyrryrrrwbyggyggwrroowoowygggbowwgwwg$
+val = 8.071064194574289 | ?yyyyyybbbbbwbbwygwrrrrrrrwbyggyggwwwoooooogrrgbowwoggo$
+val = 5.135441731006458 | ?yyyyyybbbbbwbbwwwwrrrrrrgrryggyggygwoooooorwboggowwobg$
+val = 8.085155415402825 | ?yywyyoyyobbbbbbwworryrrybrrggrggbyggboowoooogwggrwwrww$
+val = 8.134248050635742 | ?yyyyyywwwbbgbbbbrrrrrwrrbwwbggbgggrrooooooygoyooywgwwg$
+val = 8.151283438393248 | ?gyyryywyyrybbbbrrroggorrgggooogggooybbyoowrrbwwwwwwwbb$
+val = 7.5297285874048185 | ?yyywyywyyrbbrbbwwyoggorrgrbooogggrggbbbooboogrywrwwrww$
+val = 5.750199132538303 | ?yyybyybyygrrrbbbbbyggwrrwggooogggoogbbrooywwwowwowwrrr$
+val = 6.897075489622539 | ?grrwyywyyrbbrbbrrboggorrrggooyggyooybbybowbowwwwywwggo$
+val = 5.773488055273137 | ?oyyoyyryybbbbbrrrgwggyrrrggooogggoogbbwoowwwyywwbwwbrr$
+val = 6.496237466302192 | ?yyyyyywyrbbrbbrbbrbrgbrrbggygggggoogoooooowwoywwwwwwrr$
+val = 4.037317093451551 | ?oyyoyyoyrbbbbbbwwyyrgyrrrrrygggggwggoowoowoogbbbrwwrww$
+val = 1.410156084326788 | ?yyyyyyygwbbrbbybbrgrrrrrbrrbggbgggggoooooooooywwwwwwww$
+val = 4.0722308936902305 | ?yyyyyyoyrbbwbbwooybrgbrrrrrygggggwrroooooogggbbbwwwwww$
+val = 4.15804816786619 | ?ryyryyrbbbbbbbwbbwwyyrrrrrgoggyggrggooyooooooggywwwwww$
+val = 4.202400978630844 | ?yyyyyywwybbgbbbbbbrrbrrrrrgrggyggrggooooooooowgywwwwww$
+val = 4.960742120911179 | ?yybyybwyroorbbrbbrbrgbrrbrryyyggggggoggooooooywwwwwwww$
+val = 4.3660201673552175 | ?yyoyyoyyyooobbybbwbbrrrrbbbgggwggyggwggwoowoorrrwwrwwr$
+val = 5.035281026069666 | ?oyyoyygyybbrbbrbbbwggwrryrgoooyggrggbbwoowoowrgyrwwrww$
+val = 5.2144195313087165 | ?yyywyywyrrbbrbbrbborgorroggygggggoogooboobwwbywwywwwrr$
+val = 6.046640929233029 | ?ryyryyryybbbrbbrbbwggwrrwrgoooyggrggbbyoowoowogyowwgww$
+val = 5.703031389884421 | ?wyywyyoyrrrybbybbygrggrrrrryoogggwggbbgoooooobbbwwwwww$
+val = 6.077270480556845 | ?yybyybgwbooybbybbyrrwbrrbrrrrrggggggyggoooooooywwwwwww$
+val = 4.781937783510335 | ?yyoyyoyyyooobbybbwbbbrrbrryrggrgggwbwggwoorooggrwwrwww$
+val = 6.099209494678041 | ?wyywyybbbrrwbbgbbyrrrrrggrgyooyggyggbbgooooooryowwwwww$
+val = 5.400669433223407 | ?yybyybryybbbbbwbbwwggrrrrrgorryggrggyooooooooggywwwwww$
+val = 5.236529443320769 | ?yywyygwwgbbgbbgbbyrrorrwgrwyyrggrggrbooboobooryowwowwy$
+val = 6.199838639307844 | ?yyyyyybbbbbwbbgooyrrrrrbgrbyggwggwrroooooogggryowwwwww$
+val = 6.664463972567741 | ?oyyoyyogobbbbbbwyryrgyrgybbwggwggyogoowoowwwrgrrrwwbrr$
+val = 6.916561956452865 | ?yyoyyowwybbgbbgbbyrrbrrbgrbrggrggryywoowooooorywwwgwwg$
+val = 6.919137039906926 | ?yyryyryywooobbybbwbbrrrwrrwbwgggrggryggboobooggowwowwy$
+val = 7.032551199372807 | ?yyoyyorrrooybbwbbgbbbrrrrbbwggyggoggwggwoowooyyywwrwwr$
+val = 7.052065045067066 | ?ryyryyryyywwbbrbbrgggbrrbrbooogggrggbbgooooooyywwwwwww$
+val = 6.057076423479905 | ?yyyyyyrrgbbybbybbwbbyrrwbrwrggrggrggooooooooorggwwwwww$
+val = 5.588621455476422 | ?oyyoyyorrbbbbbbrrgywwyrrrrbggggggrggoowoowooyyywbwwbww$
+val = 5.524388088242421 | ?yyryyryyrooobbrbbrbbgbrrbrbywwgggrgggggooooooyywwwwwww$
+val = 6.9477269771766785 | ?yyyyyyggrbbrbbrbbrwrbwrrybbwggyggyggooooooooogrrwwwwww$
+val = 7.100580633313367 | ?yybyybgwbbbybbwrrwrrwgrggrgrrryggyooyooooobbwoyogwwgww$
+val = 4.380718313686285 | ?yyyyyygwybbybbbbbwrrbrrrrrbrggyggrggoooooooooggwwwwwww$
+val = 3.284195284355797 | ?yyyyyywggbbrbbybbrbrrrrrbrrwggbggyggoooooooooywgwwwwww$
+val = 4.262378496905162 | ?yyryyrwbbbbgbbgbbwrrrrrwbrwywgggggggyooyooyooryowwowwo$
+val = 7.34157613173205 | ?wrryyygyybrrbbrbbrwggwrryggooyggyooybbrbooboogwwwwwwgo$
+val = 6.295794323440843 | ?yyyyyygyyrrrrbroorwggwrrwbrooogggyggbbbooboowbwgbwwbww$
+val = 7.494028632444634 | ?wyybyybyyorrobrgbryggyrryggooogggoobbbboobrrrgwwwwwwww$
+val = 6.224271939615567 | ?yyyyyyyyyrrrrbbrrwgggwrroogooogggwggbbbooboobbbrwwwwww$
+val = 7.12573207718592 | ?oyyoyygbrbbrrbrrrrwwgwrgwrgyooyggyggbbwooyooybgobwwbww$
+val = 5.864697001702205 | ?rrrbyyyyygrrwbbwbbgggwrryywoobggyogywwwbooboorrbowwggo$
+val = 7.166798599681064 | ?yyyyyybbybbwrbbrbbrrrwrryywggggggoggooooowoowrrbowwgww$
+val = 7.20353670946034 | ?byybyybyyrrrrbryogyggyrrwggooogggoobbbwoowwbrrwwbwwgwo$
+val = 7.215892912280606 | ?byybyybbrrrrrbrrbbywgyrgwrgyooyggyggbbwoowoowogoowwgww$
+val = 7.288452905079934 | ?byybyybrrrrrrbbrbbyggwrrwggyooyggyggbbwyowoowoooowwgww$
+val = 7.171309207368822 | ?yyryyrwwwbbgbbrbbrrrrbrrbggbggyggyggyooyoooooyoowwwwww$
+val = 5.1813245311749645 | ?yyryyryyybbbbbbbbbrrgrrgrggoggoggoogyooyoowwowwwwwwwrr$
+val = 7.672810642523273 | ?yyryyrbbbbbwrbboowrrrwrrrbbyggyggwggyooyowygggoowwowwo$
+val = 7.68315869400493 | ?yyryyryyrooobbybbwbbwrrwbbwggyggwgggbggrooroorrowwowwy$
+val = 8.121864925543814 | ?gyywyywyyrbgrborrorggbrrbggooogggoobbbyooyrrywwwbwwbww$
+val = 8.15345041128545 | ?yyyyyyyyobbbbbbwworrgrrgbrrwggwggyowoooooobwgwggrwwrbr$
+val = 7.173327757917377 | ?yyyyyygbbbbrbbrbwwwrrwrroggyggyggorrooooooyowbwwbwgrwg$
+val = 7.913581787515833 | ?wyywyyobbrrgbbgbbowrrwrrbrryggyggyowoogooybwywggowwobr$
+val = 7.4624570086747 | ?yyyyyyyyybbbbbboggrrrrrrwwoggggggwowoooooobwwrrgwwwbbr$
+val = 6.344506210828727 | ?yyyyyyyyybbbbbbwowrrrrrrbwwggggggoggoooooowworbbwwwgrr$
+val = 8.204227018037626 | ?oyyoyyoyybbbwbbwwgyrryrrwbbggggggybgoowooroorrrrgwwbww$
+val = 7.651606206086823 | ?yyyyyyyyybbbbbbbwwrrrrrrrbgggggggooroooooowwogwwrwwwgb$
+val = 8.221705301101105 | ?ryywyywggboobbbwyygrrwrrgrrwggwggwgyooyooybbbrbbrwwooo$
+val = 2.7488401170170915 | ?oyyoyyoggbbbbbbyyyyrryrrgrrwggwggwggoowoowoobrbbrwwrww$
+val = 15.892871989199138 | ?rwowybbyrbroobgggbwogrrgrooyybwgogbwybybowgrrwgyywrwyo$
+val = 13.06649213123381 | ?wworybryrogbrbggrrwogyrgbogyybwgowooybbbowgbwywrywgory$
+val = 11.797260108215621 | ?booyybbyrogrwbrwrgyogyrgoogyyywgrwobgbybobwrrwwrwwgbgo$
+val = 13.121030946930484 | ?obwoywbyygbywbywrbogroroyyogggwgrwobryybobwrrrrgwwgbgo$
+val = 12.16250140610665 | ?obwoybbyrgbywbygrrogworwwrbgrbggoyyyoyygobgwwbwrgwroor$
+val = 11.967609979242745 | ?gwgoygbyoobyobybrrogworbwrrboorgbgggybwyowrrrbwwgwwyyy$
+val = 11.221234602241692 | ?owgoygbyoyyrbbroorygwyrbyrrboorgbwrrybbyoogggggbwwwwww$
+val = 10.638659695227066 | ?booyywyrwyggbbgoooobrorrbyybbbggbgrryyryoogggwrrwwwwww$
+val = 11.66289997420791 | ?ggowyybgyybwyborrorrbwrbyborgwrgbwrrbooyoogggbogywwyww$
+val = 9.252009053633635 | ?ggowyyggyybyybybborrbrrbwwyrgwrgbbrrbooyooggwgooowwrww$
+val = 10.858408652293594 | ?ryyryyogyyybbbbbrryrbwrbggorggrggbygoogooooowwwwwwbrww$
+val = 8.724901865349775 | ?gyyoyyggyobyobywbbrrbrrborrrggrggggooowoowbyrywwwwwbbw$
+val = 6.254995138216444 | ?gyyoyyryyobbobwbyywrrbrrbbbggggggyrroowoowggoorrbwwwww$
+val = 7.899616587440849 | ?oyywyywyybooybbrbbgrrorryrrggggggggooowoobywbrwwrwwwbb$
+val = 6.439046334492054 | ?gyyoyyyyyobbobbwrrrrrrrrggoggggggywooowoowbyrwwbwwbbbw$
+val = 5.3610090238718 | ?gyyoyyobbobbobbggwyrrwrrorryggyggyyroowoowwrrbggwwbwwb$
+val = 7.20084150789637 | ?yyywyyobbbbwbbgwrgbrrwrroogyggyggwrrooooooyyrwwrwwgbbg$
+val = 8.129342284281968 | ?ryyryywyybbrbbyoobbrrbrrwrrggggggggoooyoooywgowwwwwwbb$
+val = 5.5780047112852005 | ?gyyoyygggobyobybyyrrrrrrrrwwggwggbgooowoowywobbrbwwwbb$
+val = 6.649105988929093 | ?gyyoyyyyyobbobbyworrrrrrbyrggggggwrroowoowggowbbbwwbww$
+val = 2.791242002583498 | ?byyyyyrbbwbbbbwooywrrbrrbrryggyggyrroooooogggoggwwwwww$
+val = 5.267787755567763 | ?yybwyybyybbwbbgoogrggrrrrrrooobggbrrwboooogggyyywwwwww$
+val = 2.6397075707805 | ?byyyyyyyywbbbbbwbbrrrrrrorrgggggggggoooooooorywwwwwbww$
+val = 2.774032448102237 | ?byyyyyggowbybbyooyrrbrrbrrwyggwggbrroooooogggbbrwwwwww$
+val = 2.798802898304873 | ?ooryyyyyybrrbbbbbbgggyrryrroobggggggwbwoowooyrwwrwwoww$
+val = 5.285922108509748 | ?yybyybywoooobbgoogbbwrrbrrbbrryggrrryggooogggyywwwwwww$
+val = 5.312772778856952 | ?yyywyybyybbwbbbbbwrrrorrorrgggggggggoooooroorbwwywwyww$
+val = 5.399064486750196 | ?wwyyyoyyroggbbrbbroobyrryrrwboggggggbbbooroorgwwywwyww$
+val = 5.535977156683803 | ?yybyyyyyyrrrbbboorgggrrrwbbooogggorrwbbooogggbwywwwwww$
+val = 5.864838339771132 | ?yyywyyyyrbbbbbbooorbbrrrbrrwggyggyrroooooogggwggwwwwww$
+val = 5.547244254273462 | ?gyyoyyoyyobbobbyyryrrwrrwrbggggggwrroowoowggbbbobwwrww$
+val = 6.764271580087933 | ?ryyoyyywwwbobbrbbrbbbyrryrroggggggggoobooroorgwwywwyww$
+val = 4.045065926918552 | ?brrwyywyyrbbbbbrrooggorryrrooyggggggbbwooyoogbwwywwyww$
+val = 4.159749623986691 | ?brryyyyyyorrbbbbbrgggyrrwrrooyggggggbbyoooooobwwwwwwww$
+val = 4.115878379506898 | ?oyyyyywyyybrbbbbbbbrrwrrwrrgggggggggoobooroorowwowwyww$
+val = 5.929742898408681 | ?ryyryyrbybbbbbwbbwwyorrrrrrbggyggyggooyoooooogggwwwwww$
+val = 5.282787188884799 | ?ybryyryyrbggbbwbbwooyrrrrrrbbbyggyggwyooooooogggwwwwww$
+val = 6.00421563496697 | ?ryyryyryybbbbbgybgwrrorrorrgggggwggwooyooyooowwwwwwbbb$
+val = 6.132636175667755 | ?oyyoyyyyybbbbbbrbyrrrrrrbrrgggggggggoowoowoobowwywwwww$
+val = 6.386690882700921 | ?oyyoyybbbbbwbbyooorrrbrryrryggyggyrroowoowgggbggwwwwww$
+val = 5.32652428749083 | ?oooyyywyyybrbbgoogbggrrrrrroowbggbrrbbboowgggyyywwwwww$
+val = 5.567948360762965 | ?oyyoyyggbbbybbyooyrryrrbrrroggyggwrroowoowgggbbbwwwwww$
+val = 6.907004139502278 | ?obbwyyobbwbwwbgwogbrrrrbrrbygyygyrryoogoogoogyywwwwrgg$
+val = 7.171642445813055 | ?wyoyyoyyobggbbbrrroowwrrbrrbbbggggggybrooroogywwywwyww$
+val = 6.7842660911694 | ?oooyyyyyyybbbbbooorrrrrrggbgowgggrrrbbboowgggyywwwwwww$
+val = 5.709170102184082 | ?oooyyyobbybybbybrrgrrgrryrryowygggggbbboowoowgwwgwwrww$
+val = 7.405743118919732 | ?obbwyywyywbrwbywoybrrbrrrrbggyggywryoogoogoogbbowwwrgg$
+val = 5.496909411795419 | ?rbbryybyrbbobbowwwwbbwrrrrrwgyygyyryooyoowoooggggwwggg$
+val = 6.9446009955468995 | ?yyywyywyybbrbbyrrbbrrbrrwrrgggggggggooooooooyowwbwwbww$
+val = 7.415690861454339 | ?oyyoyyoywbbbbbgrrrybrrrrbrrbggbgggggoowoowoogywwywwyww$
+val = 8.035940337013104 | ?yyyyyyrbbbbbbbgrwowrrrrrbwwyggygggrroooooogggwoobwwyww$
+val = 2.790508844617375 | ?yyyyyyggbbbybbyooyrrwrrbrrwrggwggorroooooogggbbbwwwwww$
+val = 0.21208893033186096 | ?yyyyyyyyybbbbbbwbwrrrrrrbrrgggggggggoooooooobrwwwwwoww$
+val = 2.785625872029814 | ?yyyyyybbbbbobbwoorwrrbrrwrryggyggyrroooooogggbggwwwwww$
+val = 2.7995254832490257 | ?yyyyyyyyybbbbbbgggrrrrrroobggggggwbwoooooobrrwwowwwwwr$
+val = 2.800978106917267 | ?ryyryygyybbrbbrbbbwrrwrrrggggggggoobooyooywbywwwowwowo$
+val = 7.736463570894477 | ?gyyoyyobbrbbwbbggwyrryrrogbyggyggrwwooyoobgrrbrwwwowwo$
+val = 7.823224069963228 | ?yyyyyyggbbbybbbggwrrwwrrorrrggbggbwwoooooogrrbyywwowwo$
+val = 7.128376642609445 | ?yyryyrwbwbbbbbyggyowrrrorrobggwggwggyooyooyrrbbgwwowwo$
+val = 5.326729990342096 | ?yyoyywyyrbbbbbbgggrrbrroooowbwggggggbooroorrrwwywwywwy$
+val = 8.230272651930417 | ?gyyoyyowbobwobbggobbwyrryrrrggyggybboowoowyrrbggwwrwwr$
+val = 7.511302004713261 | ?gyyoyyggbobyobyggrrryrrywbboggbggwbboowoowyrrbwowwrwwr$
+val = 8.199364200068901 | ?gyyoyyobwobbobgrrwyybrrbbbboggwggyrroowoowgggrrrywwyww$
+val = 7.895150322402192 | ?byybyybgbrrrbbrooryryyryybboggbggwrroowoooggggwowwwwww$
+val = 7.309249187749786 | ?yyryyrbbroowbbwooorrgbrrbyyyyygggbrrbggooogggwbowwwwww$
+val = 7.567885430339254 | ?byybyyrrrrrgbbwbyyyyybrrbrrbggggggggoowooooooowwbwwwww$
+val = 5.482148125749411 | ?rggryyryyyyybbybbybggbrrbbboowggwwrroogoowggwooorwwrww$
+val = 2.7382820266702064 | ?gyyryyryyrbbrbbrbbwggwrrwrroooggggggbbyooyooyowwowwbww$
+val = 14.63390721573737 | ?gyryyrogwrgwwbyogybroorbrrbgwbrgwowgwbyoogwoybyyowbgbr$
+val = 15.414397733354562 | ?oyggyywrrbrowbywoygwborbogywbyrgwrrbrgwoogowggobbwyrby$
+val = 14.74389888533154 | ?oybgybyyobrgwbowooooggrwyybwrwrgbywyrgwyoggwgbrrbworbr$
+val = 12.158804066052395 | ?yggyyyobboogwbowoowrogryyybwbyggwrryrrgoogrwgbrwbwwrbb$
+val = 12.437110927064111 | ?gggbygbygyroobooogwbyyryoybrrrggwrrywwooobrwbwrwgwwybb$
+val = 12.604341699909032 | ?yroyygoygoogbboboowbygryyybrrwgggrrgbbgwowworbrwbwwywr$
+val = 11.24973117001188 | ?wgggygyygooorbowbbbbybryyybrrrggwrrgwwboobyyorrwwwwgoo$
+val = 11.811782897810996 | ?wgggygyygooorborrgbbybryyyorrrggwwbbwwboobyyboogwwwwrr$
+val = 7.9370203975099765 | ?yggyygyygooooboyywbbybryororrrggwwwwwwgoogbbbbbgrwrrwr$
+val = 9.51906205677655 | ?oooyygyygboorborrobbybrywwwrrygggbbgggwwoywoygrrbwwbwr$
+val = 9.33918345915885 | ?gyygyyooorryrborroggwbrywwwboogggbbgbbywoywoygrrbwwbwr$
+val = 8.499263582608107 | ?yyyyyyggobbyrborrrrrgbrrwgwwggwggobgoooooywoybwbbwwbwr$
+val = 7.254983737282988 | ?gyygyyoyyrrgrbowoywggbrrrrrooowggwgwbbyooyobgbbbwwwrwb$
+val = 8.037511190331706 | ?gyyyyyyyywrrobrorrggggrrwgwooowggobbbbroowyogbwbbwwwbr$
+val = 8.618775032304582 | ?gyyyyyyyywrrobrobbggggrryogooowggorrbbroowwgwrbwwwbbwb$
+val = 9.592274420518283 | ?yyyyyygyybbrobryogwrrgrrorrgggwggwgwooooowobbwbbbwwrwb$
+val = 9.984862110170685 | ?yyoyyoggobbyrbowoyrrybryrroggwgggwwwboowoybbgbbgwwrrwr$
+val = 8.719175500239729 | ?gyygyyoyyrrgrbowgwwggbrrobgooowggwoybbyooyrrrbwrwwwbbb$
+val = 10.872640979989152 | ?yggyygooooogobrorrwbbwrbwyyyrrygwgbbwwgoogyywbgrbwwbrr$
+val = 12.06490825527369 | ?wrygyyyybgoooboobbbbwbrwyyrrgrrgrggwgbogoyooyrrwwwwgwb$
+val = 11.446551022401346 | ?rrwgyyrrgyobrbywbywwrbrybbywgbrgwrggoggoobyyooobwwwgoo$
+val = 8.622755834418607 | ?rgrryryyrwwbrbywbyrrwbrwbbogggggggwbyobyobwyoooywwogoo$
+val = 7.838055353657535 | ?yrryygyywrrrrbywbyggbbrrbbroobggwgggwwboobyyooowwwwgoo$
+val = 9.638960771472798 | ?wyygyyrryoobrbywbywwbbrrbbrrrrggwgggggboobyyooowwwwgoo$
+val = 10.017626608505827 | ?rgwryywyybboobyobygrrbrrbbrggbggrggrooywoywoyoowwwwgwb$
+val = 8.792039456186307 | ?oorryrwyrgbowbybbygrwbrwbbbggggggwgryyyyoobwwooowworry$
+val = 9.12631816221541 | ?ygryyryyroobbbbyyorrwrrwwbbggggggrrbyogyowwoogowbwwbwo$
+val = 8.561104607845 | ?oobryrwyrgbowbyobygrwbrwbbbggrgggrrryyyoooyywoowwwwbgg$
+val = 8.698928352024756 | ?rrrgyyrrwyoyobyobybbobrwbbbgrwgggrrbgggyoywoyoowwwwgwo$
+val = 9.296526155594805 | ?oobryywyygbowbybbrgrrbrrggwggrgggowwyyyooobbywwbowrowr$
+val = 9.341984195127557 | ?ggbryrwyrrbogbyrbygrwbrwbbbggoggwrrgwyyoooyyyoowwwwboo$
+val = 9.893715332937187 | ?wrryygrrrgrwobyobygggbrwbbbyoygggrrbbboyoywoyoowwwwgwo$
+val = 9.795744839376955 | ?bgrgyryyrwybrbywbyrrwbrwbbbgggggwrrgyoooobyyooowwwwgoo$
+val = 9.523411263123865 | ?rgrbyrbyrbyyybbyyborwwrwwrwgggggwgbbyoyoogrrgoboowooww$
+val = 9.43885311191851 | ?yybyyryyoooorbowbwbbwbrrbwwbgryggrrryggoobyoorggwwwgwg$
+val = 9.437235401256086 | ?yyyyyyyyrbbbrbrwborrwgrwbbbggggggrrrooooobyoowowwwwgwg$
+val = 5.7091946943860705 | ?yyyyyyyyybbbrbrrrrrrrgrwggwgggbggoooooooobwbbwwbwwwwog$
+val = 7.743039831411137 | ?brbyyyyyrwbbwbrgbbrrwgrwrrrggyggyyoyoboooboowwwgowwogg$
+val = 8.195863467923818 | ?yyyyyyobbbbwbbrbrwbrryrwrrrygggggyoooooooowbwgwggwwrwg$
+val = 5.947998977223676 | ?yyyyyyygrbbbbbbwborwwrrrbybggggggrrrooooooyoowrwwwwgwg$
+val = 7.780918656250145 | ?yyyyyyggybbrbbgbyywrrwrrrrrgggwggwoooooooowbobbbrwwwwg$
+val = 7.747560798925589 | ?ryyryywwwyggbbybbbrrrrrrwwrbggbggboooogooywbyogyowwowg$
+val = 8.416175866071688 | ?oyybyyoyywrbbbbbrbyrryrwyrrgggbggggwoogooooowrwwgwwrwb$
+val = 5.85991793487117 | ?yyyyyyybyooobbbwybbwbrrrrrrrrrgggggwgggoooooowwwbwwgwb$
+val = 4.095389079676338 | ?ggwbyyyyyywbybbyybrrrrrrrrrggbggwgggooooooooowwwbwwbbw$
+val = 5.02110139164841 | ?yyybyybbbbwwbbwwywrrrrrrrrryggyggygwooooooooogggbwwgwb$
+val = 5.035232229223748 | ?yyybyyyyybwbbbbrrrrrrrrrggwggggggooooooooowybwwbwwwwbg$
+val = 4.120837129647962 | ?yyybyyyyybwbbbbooorrrrrrwybggggggrrrooooooggwgbwwwwbww$
+val = 5.496724750731184 | ?yyyyyybbbbbwbbowwwrrrwrrrrryggyggyrwoooooooboggggwwgwb$
+val = 5.600624766150685 | ?wbbbyyyyygwbwbbbybrrrrrrrrrggyggyggyooooooooowwwbwwwgg$
+val = 5.786517294221086 | ?yyyyyyyyybbbbbbrwrrrrrrrgrwggggggobooooooowwbwwbowwwgg$
+val = 5.827648065595408 | ?byyoyyoyyrbbwbbwwwyrryrrrbbggggggyrwoowoooobogrrgwwgwb$
+val = 5.839093359521407 | ?wbbbyyobbgwwwbboowbrryrrbrrygyygyyrrooooooggyrgggwwgww$
+val = 6.110133194952282 | ?wbbyyyyyygbbwbbbwbrrrrrrrwrggyggygryooooobooowowgwwwgg$
+val = 6.319797850074954 | ?oyyoyyoyywbbwbbbbbyrryrrywrgggggggrwoogoogobwrowrwwrwb$
+val = 6.5483898278319925 | ?ybboyyoyyowgobwobbwrrbrryybggyggyrrroogoogggwrbwrwwbww$
+val = 6.830154353654234 | ?bwgbyybbbwwwgbwgywrrrrrrrrrygwygbygbooooooooogggbwwyyy$
+val = 6.910770082870029 | ?owgoyyoyyggwybwbbbbrrbrryrrggwggbggbooyooboowrwwrwwryy$
+val = 7.169005308127978 | ?wyyyyybbbgbwwbobborrrwrrbrryggyggyrrooooobggywggowwoww$
+val = 5.971027146309052 | ?wyyoyyobbobbobwwbgyrrbrrorryggyggyrrooboowggrwggywwbww$
+val = 6.540242396713688 | ?ggryyyyyyybbybbwbbrrrrrrrwbggwggwwrogoogooybowooowwgwb$
+val = 6.701733196793974 | ?obbbyyobbbwgwbbwowwrryrrbrrygyygyyryoowoogoogrggwwwrgg$
+val = 7.344808735618725 | ?yyyyyyyyybbbbbboborrrrrrwwbggggggrwroooooogrwggwwwobww$
+val = 6.317092504645774 | ?ryyryyryybbbbbwbbwwrrgrrgwrgggggggrwooyooyobyoowowwowb$
+val = 4.978742236490064 | ?ryyryygggbbybbywggrrrrrworwwggoggobyooyooybbrwwbwwwboo$
+val = 6.307923843104359 | ?ryoryoggobbybbybbrrryrrywggggwggrwooboywoywbybwrowwowg$
+val = 7.466785193821286 | ?yyyyyyyrybbbbbbryrrwrrrrggwggggggooooooooowbbwwbrwwwwg$
+val = 6.249551870799314 | ?yyryyryrrbbbbbbwbbrwwrrwrybggggggwggyooyooyoowrowwogwo$
+val = 5.561958151754445 | ?ryrryrwrrbbbbbybbrowwrrwwggggggggyooyoyyoywbybooowwowg$
+val = 6.335774387807154 | ?ryyryyrrybbbbbbbbwwwrwrrgyrggggggggwooyooyooyorwowwowb$
+val = 6.729919824621586 | ?wyrwyrgyrbbwbbrbbborwwrbowbgggoggwggyoryorygryooywoywo$
+val = 5.905904137146037 | ?ryrryrrrwbbbbbbooywwowrrbbwgggyggrggyoyyoyygwoogwwobwo$
+val = 7.285485767532153 | ?ryyryyryybbbbbbbrwwrrwrrgwrgggggggowooyooyogyoowwwbowb$
+val = 7.274072383713034 | ?ggwryyryyybbybbyyywrrwrrrrwggbggwgwrooogoogoobwobwobbw$
+val = 5.6272010604880585 | ?gyyryyryywbbobbooowrrwrryyyggggggrrwooroowoggbbbbwwwwb$
+val = 5.729956177813112 | ?gyyryyryywbbobbrrwwrrwrroggggggggoooooroowyyybwwwwbbbb$
+val = 7.481302091696088 | ?yyyyyyybyooobbbggwbwbrrrooorrrgggwybgggooorrrbwgwwbwww$
+val = 7.534363523516561 | ?yyyyyyobooogbbboowwrbyrwbrbyrrbggyrrgggoooggwrgrwwwbww$
+val = 7.054446030645344 | ?wyyoyygbyoboobooboywbyrryybrrrgggrrrggboowgggbbwrwwwww$
+val = 5.424421285092437 | ?yygyyoybgooobbbooobwyrrywyyrgrrgrrgrwggwoowgwgbbwwrbwb$
+val = 7.558432672220577 | ?ryyryybwwbbobbowgwwrowrrrrrgggyggybyooyooybbrgggwwwboo$
+val = 7.643714407351139 | ?ryrryrryrbbbbbbygywrwwrbbrwgggogggwbyoyyoywggowowwoooo$
+val = 7.739606354876269 | ?ryyryyryybbbwbybbwwrrbrrgrrggggggggwooyoobooyowwowwowb$
+val = 7.796406408561808 | ?bbbyyybbbwbwwbogrrrrrgrryrrygyygyggwooooobgwogwwgwwyoo$
+val = 7.086180222659933 | ?bbbyyywbwwbowbroorgwrbrrbrrbgyygyyrrooooooggyygggwwgww$
+val = 4.133671849133834 | ?bbbyyyyyywbbwbboobrrrrrrrrrggyggyggooooooowbywwwgwwgwg$
+val = 4.798981550789853 | ?oyyoyyoyybbbbbbbbwyrryrrbrrggggggggooowoorworrwwwwwywg$
+val = 4.004463725003197 | ?yyyyyybyybbwbbbwoorrrwrrbbbggggggyrrooooooggowrrwwwgww$
+val = 3.9807636855634025 | ?wyywyygyyoowbbbwbborrorrobbggggggyrrooboowggryrrywwbww$
+val = 1.4455137066857542 | ?yyyyyyyyybbbbbbrrrrrrrrrggwggggggobooooooowobwwbwwwwwg$
+val = 3.983528860854023 | ?yyryyryyrbbbbbbwobrrwrrwrrbggggggwggyooyooybowwowwogwo$
+val = 4.020275031358614 | ?oooyyyyyyyrrobbobwgggyrrbbbooggggyrrwbboowggwrrrwwwbww$
+val = 4.053977568119542 | ?oyyoyyoyywbbobbbbbyrryrryrrggggggggwoogoowobwrwwrwwrwb$
+val = 2.7800888432104065 | ?ryyryyryybbbbbobbwwrrwrrgrrggggggggwooyooyobyowwowwowb$
+val = 4.128455315724364 | ?yyyyyybbbbbwbbwwowrrrrrrrrryggyggygwooooooobogggwwwgwb$
+val = 4.1622858705232115 | ?yyryyrbbbbbwbbwbwwrrrrrrrggyggyggyboyooyoowoogoogwwwwg$
+val = 4.336453658393845 | ?yyyyyyyyybbbbbboborrrrrrwobggggggrrrooooooggwgwwwwwbww$
+val = 5.060994647407346 | ?yyryyryybbbbbbbygwrrwrrwoborggrggwowyooyoorggbwgwwwoog$
+val = 5.387066104707821 | ?ryywyyyyywbbbbbbbbrrrrrrwrrggggggggooobooywoyowwowwowg$
+val = 5.617241467254733 | ?bbbyyybyywbwwbbgbbrrrwrryrrggyggyggyoooooooowrwwrwwogg$
+val = 6.212148224752706 | ?yyyyyybbbbbwbbbwworrrwrrbrryggyggygooooooowogwggrwwrwg$
+val = 5.766681702716385 | ?ryyryyryybbbbbwbbwwrrrrrrwbggggggwgoooyooywoygboowwowg$
+val = 6.296911379159702 | ?ryrryrwgobbbbbybbrowgrrwwrrwggbgggggyoyyoyyoybwwowoowo$
+val = 6.865548153477417 | ?rbbwyygbbwbwbbwwwworrrrrrrrygyygyygyoobooyoobgggowwogg$
+val = 4.559405639418705 | ?bbbyyyyyywbbwbbwwbrrrrrrrwgggyggyogyoooooooogwbwrwwrgg$
+val = 6.876489255068246 | ?ryywyyrbbwbwbbwwrggrrgrrorryggyggyoyoobooybbbwggwwwooo$
+val = 6.866491716385784 | ?yyyyyybbbbbwbbbbwwrrrwrrrrgyggyggorrooooooyoogwwgwgwwg$
+val = 4.286832236718831 | ?yyyyyyyyybbbbbbrrbrrrrrrrwoggggggwoooooooobwwwbgwwwggw$
+val = 5.982662631080933 | ?yyyyyyyyybbbbbbwoorrrrrrbwwggggggrrboooooorwowggwwwgbw$
+val = 6.807247127155695 | ?yybyyoggobbybbyrryrryrryrrwggoggogbwwoowoobwwbbowwwggr$
+val = 6.886982419884661 | ?rbbryywwbbbgbbbwwwrrwwrrgrrrgyygyygyooyooyooboggowwogg$
+val = 1.3960184760222774 | ?yyyyyyggrbbybbybbrrrwrrrwrrgggbggbggooooooooobwywwwwww$
+val = 4.114125803475037 | ?ryyryyryybbbbbwbbwwrrrrrrwwggggggoggooyooyooygbbowwoww$
+val = 4.27879289293609 | ?yyyyyyggobbybbybbyrrgrrgrrrwggwggwrroooooogoobbbwwwwww$
+val = 4.1315628367732105 | ?yyyyyyyyybbbbbbrggrrrrrrorrgggggggoooooooobbbwwwwwwwww$
+val = 4.226224918007331 | ?yyyyyyyyybbbbbbgoorrrrrrbbbggggggrggooooooorrwwwwwwwww$
+val = 0.33350283766157923 | ?yyyyyyyyybbbbbbbbbrrrrrrrggggggggorroooooogoowwwwwwwww$
+val = 4.1790245181343 | ?yyyyyyyyybbbbbborrrrrrrrgooggggggbbboooooorggwwwwwwwww$
+val = 3.092813834455564 | ?yyoyyoyyobbbbbbgoorryrrybbyggggggggrwoowoowrrwwrwwrwwb$
+val = 4.303194553969858 | ?yyyyyybbbbbwbbbwwbrrrwrrwrryggyggyggoooooooogoggrwwrww$
+val = 5.221915949211996 | ?rbbryyryybbbbbwrwgwrrrrrogyggyggyoobooyooywwwwwgbwggoo$
+val = 4.863790123812133 | ?bbbyyyggrwbywbyooyrrbrrwrrwwgyrgyrwgooooooogybbggwbgww$
+val = 5.43131661629459 | ?yyyyyygggbbybbyrgyrrrrrrrrowggwggwoooooooobbbbbgwwwwww$
+val = 5.510068645747635 | ?bbryyryybwbbwbboogrrwrrbwwwrggwgggyyyooyoobgyrrogwogwo$
+val = 5.5790569300480355 | ?yyyyyyggrbbybbygoyrrbrrbrrbwggwggwggooooooorrbbowwwwww$
+val = 3.0568227756375554 | ?yyyyyyyyyooobbbgoobbbrrrbbbrrrgggrgggggoooorrwwwwwwwww$
+val = 5.810064590116665 | ?yyyyyyyyyooobbbrggbbbrrrorrrrrggggoogggooobbbwwwwwwwww$
+val = 6.887813129763344 | ?yyyyyybbbbbwbbbbwwrrrwrrgrryggyggygroooooogoooggrwwwww$
+val = 6.974709744062171 | ?byybyybyyrrrbbbrrgyggwrrorroooyggyoobbwooobwwwggwwwggw$
+val = 6.979982028402485 | ?ryyryygyybbrbbrwbwwrrwrrogoggggggwoyooyoowbbrbwgywwboo$
+val = 5.556421779596159 | ?ryywyyggwwbybbywryrrorrgrrggggwggwoyoobooybbbbbrwwwooo$
+val = 7.056180272264536 | ?ryyryyryybbbbbwbbbwrrgrrwrgggggggowrooyooygoyowwowboww$
+val = 5.655806399767256 | ?bbbyyyyyywbbwbbwwbrrrrrrrrgggyggyowyoooooooogwwwgwbrgg$
+val = 6.957310096100516 | ?bbbyyybbbwbwwbwoogrrrrrrwwwygyygygrrooooooywyrgogwggbg$
+val = 6.887705242102989 | ?bbbyyywwwwbowbgwwggrrrrrrrrbgybgybwyoooooooogyyygwbrgg$
+val = 6.437746150944875 | ?ggryyyyyyybbybbywbrrrrrrrrgggwggwowwgoooooooowwwgwbbbb$
+val = 4.453712414205985 | ?oyyoyyoyybbbwbbbbbyrryrryrgggggggowroowooggowrwwrwbrww$
+val = 6.958808215349497 | ?yyyyyyyyybbbbbbrrgrrrrrrowrgggggggoooooooobwbwbwwwwwgw$
+val = 6.995692759317354 | ?yyryyryygbbbbbbbwbrrwrrbrrwoggwggrggyooyooyoowwggwowwo$
+val = 4.101455599046086 | ?yyryyrbbbbbwbbwyoorrrrrrbwgyggyggwbwyooyoogggwgrwwwooo$
+val = 5.563174229309301 | ?yyyyyybbybbwbbwbwgrrrrrrwbbggggggyygooooooooorwrgwrwww$
+val = 7.03347912179486 | ?ggryyrbbbybwybwywgrrrrrrwbbyggyggwwwyooyoogoorwogwobbo$
+val = 5.5769052076097045 | ?ggryyryygybbybbwbbrrwrrwrrwoggoggoooyooyooywgwwbwwbrgb$
+val = 6.224545385602522 | ?gggyyyyyyybbybbybbrrrrrwrrwggwoggoorooowoogrowwbwwbbgw$
+val = 7.066513906252717 | ?yyyyyybbbbbwbbwbwwrrrrrrgrryggyggywroooooogooogggwbwww$
+val = 7.155332560448338 | ?yyyyyybbbbbwbbwygwrrrrrroboyggyggwowoooooorrrbwgwwwggg$
+val = 7.172733880384877 | ?rbbryyggobbybbywwrrrgrrwwrrwgybgyggyooyooyoobbwwowwogg$
+val = 7.185476197026138 | ?rrryyybrrwrobbwbbwwggrrwrwgyoygggoggbbbyoyyoygbwowoowo$
+val = 7.2437936126407045 | ?rrryyywbgwrobbgbbygwrwrrggwwoywggoggbbbyoyyoyrrbowoowo$
+val = 7.270194238174847 | ?yygyyoyyobbbbbbbwbrryrryrryggrggwggowooboowoowwrgwrwwg$
+val = 4.11984225234535 | ?bbbyyoyyowbbwbbrryrryrrygggggyggywbwoooooogwbrrrwwwwgo$
+val = 6.565229319831521 | ?bbbyyobbbwbwwbwgwrrrrrrryyyygyygyoggoooooowbwggggwrowr$
+val = 7.03161567246518 | ?bbbyyogggwbowbygwyyyyrrrrrrrgywgywggoooooowbwbbbgwrowr$
+val = 7.039613315886572 | ?bbbyyoyyowbbwbbwbwrryrrygwbggyggyrryoooooogggogwwwwrrr$
+val = 4.131901273071747 | ?yywyyoyyobbbbbbboorryrrybryggogggggggoowoowbwwwrwwrrwr$
+val = 1.6553536676647034 | ?yyyyyyyyybbbbbbbrrrrrrrrggoggggggwbwooooooboowwgwwwwwr$
+val = 3.0433584227110146 | ?ryyryybyybbobbobbbwrrwrrrrrggggggggoooyooywbywwwowwowg$
+val = 4.12918088976005 | ?ryyryybyybbobboggowrrwrrwbyggggggbbbooyooyrrrgwowwowww$
+val = 4.232750589137882 | ?yyyyyyyyybbbbbbwbwrrrrrrbooggggggbrrooooooggorwwwwwgww$
+val = 5.3433767025701515 | ?yybyyoyyobbbbbbggorryrrywbyggoggoggbwoowoorrrgwrwwrwww$
+val = 7.049566988055282 | ?bbyyyyyyywbbwbbgwbrrrrrrrrrgggggggyyoooooobbwwwwgwoowo$
+val = 7.187496061410088 | ?bbyyyybbbwbwwbwbbwrrrrrrgwwyggyggrrrooooooyyyoggwwgoog$
+val = 7.365537201571776 | ?rrryyyrrrwrwbbobbbggggrwwroyoyggggwgbbbyoyooyowyowboww$
+val = 5.457855291159994 | ?ryrryrryrbbbbbowrowrwgrwgwgggggggooyyoyyoybbbybwwwwooo$
+val = 7.407089078887695 | ?bboyyoyyowbbwbboogrrbrrywwyyygggwggrwooboowgyrrrgwrgwb$
+val = 7.079848126214112 | ?bbbyyyggowbywbyoogrrgrrwwwywgybgyrrroooooowgyrrbgwbgwb$
+val = 6.93410852268985 | ?bbbyyybbbwbwwbboogrrrwrrwwwygyygygrrooooooygyrrogwggwg$
+val = 4.349798247198189 | ?gbboyyobbwwwwbbwbwbrryrrbrrygyygyygyooroorooorggwwwggg$
+val = 7.041874691553302 | ?bbbyyywbwwbowbgwwggwrrrrrrrbgybgybgyoooooooogyyyrwwrgg$
+val = 7.2162692603931005 | ?bbbyyygbbwbrwbroowwrrwrrbrrygyygyywgooooooogyrgggwbgww$
+val = 7.256577924788924 | ?bbbyyywrrwbrwbgrrrbwwrrrbwgggybgyogyoooooooogybwywwygg$
+val = 7.413111430370923 | ?bybbybbybrrrwbbwwwygywrrgrroooygyygywbwooooogoggrwwrgg$
+val = 7.526679351495614 | ?yyyoyyoyybwwbbbwbwbrryrrbrrggggggggyoooooorrorwwwwwgbb$
+val = 4.020114836807185 | ?wbwoyyoyybbbbbwbbwyrrorrorrggoggyggygwrooroorbwwywwygg$
+val = 4.085627384488762 | ?oyyoyyoyywwwbbbybbbrryrryrrggggggggroogoowwoorwwrwwbbb$
+val = 4.0902381370016965 | ?bbwyyyyyywbbwbbbbbrrrrrrrrrggoggyggygwooooooywwwowwogg$
+val = 6.954165598720793 | ?ryyryyryybbbbbbwbbwrrorrwrrggggggggoooyooyyooowwwwwgwb$
+val = 7.3361855378488 | ?bbbyyygggwbywbyrgyrrrrrrrrywgywgbogwooowoogobbbgowwwyo$
+val = 7.119901610617113 | ?ybwoyyoggbwwbbbbyybrryrrgrywgowgyogrgwoooobowrbgrwwrgy$
+val = 7.622583372549945 | ?ryrryrwwbbbgbbbbbwrrwwrrgworggyggbggyoyyoyyoyogwowoowo$
+val = 7.651383084626502 | ?byyoyyobbrbbrbbwbwyrryrrgrryggyggyoooowoowbwgoggwwwrgw$
+val = 6.933065128890686 | ?yyyyyyybbbbrbbrrrggrrgrroooyggyggbwgoooooowbbwwwwwgwwr$
+val = 6.17915705660498 | ?yyyyyyyybbbbbbbwbbrrorrorrywggwggggooooooowwgwwrwwrrgg$
+val = 5.890282401063573 | ?yyyyyyobbbbgbbgrrywrrwrrggryggygggoooooooobbbrrwwwwwww$
+val = 6.262722786625177 | ?yybyyoyyobbbbbbrrorryrrywwgggoggowrrwoowooybbggrwwgwwg$
+val = 4.735691283002222 | ?yygyywggwbbobbyrryyyorrgrrgggrrggroowooooobbbbbywwwwww$
+val = 5.861198758762144 | ?yygyygyyybbbbbbbbbrrrrrorrogwwggrggwooogooroowwywwywwg$
+val = 5.74181326331855 | ?yyryygwwgbbobbybbyggyrrrrrrrrwwggwgggooyooyoobbbwwowwo$
+val = 6.044598005408307 | ?yyryygyygbbbbbbrrorryrrwwwwrrwoggogggooyooybbggbwwowwo$
+val = 6.4242612466331295 | ?yyoyyoyyobbbbbbrryrrgrrgggrwwwwgggggbooyooybbrrwwwowwo$
+val = 6.548194680774616 | ?yyyyyyyyobbbbbbybbrrgrrgrrrwggwgggoooooooobrrwwwwwwggw$
+val = 3.5338884887742403 | ?yyyyyybbbbbwbbwbrrrrrrrrybwyggyggrggooooooooogwggwwwww$
+val = 4.21664397333844 | ?yyyyyyyyybbbbbboobrrrrrrrrbggggggwbwoooooorggwwowwwwwg$
+val = 5.672104417640896 | ?yyyyyybbbbbwbbwrggrrrrrroooyggyggbrrooooooybwwwwwwggwg$
+val = 5.674195286078243 | ?yyyyyyrbbbbwbbwrrwgrrorroggyggyggorrooooooybbbwwwwgwwg$
+val = 6.69692313090769 | ?yyyyyyyybbbbbbbggorrorrowwgwggwggwbboooooorryggrrwwrww$
+val = 5.747858259514356 | ?yyyyyyobbbbgbbggoowrrwrrbbbyggyggrryooooooggrwwwwwwwrr$
+val = 5.311035599870531 | ?yyyyyyyygbbbbbbbbbrrrrrgrrowggrggwwgooooooroowwgwwgwwy$
+val = 6.924624018944352 | ?yywyyoyyobbbbbbrryrryrryggbgggggwwwwroogoogbbrrowwowwo$
+val = 6.994371770392604 | ?yyyyyyyyobbbbbbbbyrrgrrgggrwggwgggwwooooooboorrwwwrwwr$
+val = 6.347781372898529 | ?yygyyggwwbbrbbybbywrrrrgrrgbwwrggrggoooyooyoobbywwowwo$
+val = 4.483007958162951 | ?yywyyryyrbbbbbbbbyrrbrroggowwgggwggwroogoogoorrywwywwo$
+val = 6.376940091391634 | ?yybyyoyyobbbbbbwoorryrrybbyggwggwggorooroowwgwwrwwrrgg$
+val = 6.417198370919097 | ?yyyyyyrbbbbwbbrggrgrrwrrwggyggyggooooooooobbybwwrwwrww$
+val = 7.044697867900835 | ?yyyyyyyyybbbbbbbbgrrrrrrowwggggggbwgoooooowoowrrwwgwwr$
+val = 5.649385573023629 | ?yyyyyyggbbbybbyrrorrwrrwwwgrggrggwoooooooobbyggrbwwbww$
+val = 4.16283726136404 | ?yybyyoggobbybbyrbyrryrryrroggoggowwbwoowoorrwbbgwwggww$
+val = 4.323346869128382 | ?yyyyyyggobbybbyrrwrrgrrgboowggwggbrwoooooorbyrwwbwwbwg$
+val = 4.54458252589204 | ?yyyyyywwbbbobbgrbgggwrrrrrrrggbggboooooooobrwyyywwwgww$
+val = 1.4574179115248103 | ?yyyyyyyyybbbbbbrbrrrrrrrwggggggggooooooooobrwbwwwwwgww$
+val = 1.556027022570602 | ?yyyyyyyyybbbbbbooorrrrrrbrwggggggrbroooooowggwwgwwwwwb$
+val = 3.731555117820651 | ?yyoyyoyyobbbbbbbrwrryrryrbyggggggggwwoowooboogwrwwrwwr$
+val = 4.085485584791112 | ?bbbyyyyyywbbwbbwrwrrrrrrrbrggyggywgyooooooooogwbwwwggg$
+val = 4.377323442910117 | ?bbbyyoyyowbbwbbwwbrryrryrrwggyggyrbyooooooggowwggwwgrr$
+val = 4.812404427038196 | ?wwwyyyyyygbbgbbrbrrrrrrrwgbggbggbooooooooogrwbwywwygwy$
+val = 4.124009065481049 | ?gggyyyyyyybbybbyrwrrrrrrrbrggwggwwgwooooooooogwbwwwbbb$
+val = 4.098964558733932 | ?yyyyyyggwbbybbybryrrrrrbrrrbggwgggggooooooooobbwwwwwww$
+val = 4.468704449736012 | ?wwwyyyyyygbbgbbooorrrrrrgrwggbggbrbroooooowgbywgywwywb$
+val = 5.258244753506161 | ?bbbyyoyyowbbwbbrbyrryrryggoggyggywwboooooorrwrrgwwggww$
+val = 5.6269647891979595 | ?yyyyyywbbbbgbbgbbgrrrrrwrrwyggggggwwoooooobooyyowwrwwr$
+val = 5.955193957470286 | ?yywyywggobbybbybbyrrgrrgrrrwrrwgggggbooyooyoobbwwwowwo$
+val = 5.724983963361274 | ?yyyyyywwbbbobbgbbgggwrrwrrgrggrggwbbooooooyooyyrwwrwwr$
+val = 5.636116381316909 | ?yywyywwbbbbgbbwbbwrrrgrrgrryrryggyggbooyooyoooggwwowwo$
+val = 5.96565336430379 | ?yyyyyyggobbybbygwwrrgrrgbbbwggwggyoooooooobbrrrrrwwwww$
+val = 1.626701232697588 | ?yyyyyygwwbbybbybbyrrrrrrrrrbggggggggooooooooobbwwwwwww$
+val = 2.7696022680886907 | ?yyyyyyyyybbbbbbrrrrrrrrrwgggggwggooooooooobbwbwwgwwgww$
+val = 1.3941594790705492 | ?yyyyyyyyybbbbbbooorrrrrrbbwgggwggrrroooooowggwwgwwgwwb$
+val = 4.052724361203251 | ?yyyyyywbbbbgbbgbbbrrrrrrrrryggyggyggooooooooowwgwwwwww$
+val = 4.167356473256438 | ?ryyryygwwyyrbbrbbrwrrbrrbggbgggggooooogooybbyywwowwoww$
+val = 6.1704750043424434 | ?yyyyyyyybbbbbbbbbwrrwrrwrgyrggrggggooooooowoogwrwwrwwg$
+val = 6.3113769821652115 | ?yyyyyygggbbybbyoowrrrrrbbbbwggwggwwroooooobggrrowwrwwy$
+val = 5.603230234672227 | ?yyryyrwyrbbrbbrooobrwbrrbbygggwggrggyooyooyggwwbwwowwo$
+val = 6.258543304391767 | ?yyyyyywyybbrbbrbbrbrrbrrgwrggggggbggooooooooowrywwwwww$
+val = 5.756659748563223 | ?oyyoyyogbbbbbbbwyyyrryrwgbgyggrggwggoowoowoorrrrrwwbww$
+val = 3.240355108241642 | ?yyoyyoggobbybbybbwrryrrybbbggggggyrwwoowooroorrrwwwwwg$
+val = 5.6260885701862255 | ?yyyyyyyrwbbbbbgbbgrwgrrbrrbrggrggrggoooooooooyywwwwwww$
+val = 4.442526968771561 | ?oyyoyyorrbbbbbbyrwybbyrrrrrwggyggyggoowoowoobgggwwwrww$
+val = 5.283708182353928 | ?gyywyyrrrwrybbbbbbbbbwrrwrrwggyggyggoorooyooyoggowwoww$
+val = 5.892570662233517 | ?oyyoyyoyybbbbbboowyrryrrrrrggggggwwroowoowbgggbbwwrwwy$
+val = 5.654087832384235 | ?oyyoyyggwbbybbyyyrrrrrrrgwrbggbggbggoowoowooowrybwwbww$
+val = 4.069188404032722 | ?oyyoyyoyybbbbbbyobyrryrrrrwggggggrggoowoowobbwwgwwwrrw$
+val = 6.234432660630593 | ?oyyoyyoyybbbbbbrggyrryrrobbggggggyoboowoowrrwwrrwwwgww$
+val = 4.5558713799534445 | ?oyroyroybbbbbbbobbyrwyrwyogrggrggwggyowyowyggrwrrwowwo$
+val = 6.323292303631348 | ?ryyryyrggbbwbbbbbbgwwwrrwrroggyggywwooyooyboyoggowrowr$
+val = 6.505189284793301 | ?oyooyooyobbbbbbrryyryyryggrgggggggbbwowwowyobrrwwwrwwr$
+val = 4.102365420926948 | ?yyoyyoyyobbbbbbwobrryrryrryggggggggowoowoobbgwwrwwrrww$
+val = 1.4034936187757745 | ?yyyyyyyyybbbbbbrrwrrrrrroggggggggobgoooooowobbwwwwwwwr$
+val = 5.554335180598417 | ?yyyyyyyyobbbbbbrryrrwrrwggrbggbgggggoooooooobrrwwwwwww$
+val = 5.608164392624811 | ?yyyyyyggobbybbyrrorrgrrgbbgwggwggwoboooooorrywwrbwwbww$
+val = 4.018494711402148 | ?yyyyyyyyybbbbbbobgrrrrrrwobggggggrrwoooooooggrwwwwwwwb$
+val = 4.18317953115999 | ?yyyyyybbbbbwbbwwobrrrrrrwrryggyggyggooooooobgoggwwwrww$
+val = 5.392296495659204 | ?yyyyyyoyybbwbbwrrybrrbrrrrrgggggggggoooooooobbbwwwwwww$
+val = 2.7479711199255488 | ?yyyyyyggrbbybbyooorryrrrbbrbggwggwrroooooogggwwbwwbwww$
+val = 0.2696427614890005 | ?yyyyyyryybbbbbbbbwwrrrrrrryggggggrggooooooooogwbwwwwww$
+val = 2.849808285508346 | ?oyyoyyoyybbbbbboogyrryrrwbbggggggrryoowoowrggrrwwwwwwb$
+val = 3.743760682636164 | ?yyyyyygggbbybbybbrrrrrrrbggwggbggooboooooorroywwwwwwww$
+val = 5.368152359832061 | ?oyroyroybbbbbbbwbbyrwyrwyggrggrggyggyowyowoogroorwwrww$
+val = 15.036215228892532 | ?gybwygwrrwbobbwbwygygrrwoywyryogoogboorborrgrgbbgwoyyw$
+val = 14.449367131776425 | ?bbwwywwrwyboybwowygybrrooywoogggybogrrroogrgbgbrgwbyry$
+val = 15.389978432893088 | ?bbwwywwrwyboybwboggybrrorgboogggyowyrrroogoywyrybwgrbg$
+val = 13.099650374805664 | ?bybwyowrbrbobbwgoggyyrrgrggogowgowbbwgwwoyyooyrrbwryyr$
+val = 11.653244395942062 | ?bybwyoowwrbbbbrgrryggyrgybbrgorgoyoowgwwoygowgrrwwyoby$
+val = 10.67173069896761 | ?bybwyorrgrbybbrgrrbbygryggyrgorgoboowgwwoygowwwowwyoby$
+val = 10.015425098452802 | ?rwbryyyyybbobbrgrrbrrgryggyggwoggooorbyooybowwwgwwwobw$
+val = 8.537212881253291 | ?wwryyyyyygbbrbbrrorrgrrwygwoogoggogwyboyowbowbwbgwogbr$
+val = 9.319744258688829 | ?gyyryyyyyobobbryrrbbbgrwggwrrgoggogwoowyowborwwbwwogbr$
+val = 7.796099033534962 | ?yyyyyryygrrgbbryrroowgrwggwobooggogwbbbyowborwwbwwogbr$
+val = 8.129064297246966 | ?yryyybyyobbbbbrrrrrrggrwggwwwrogyogygboooooybwwbwwowgg$
+val = 9.103545828482488 | ?ybbyybyybgrgbbrrrroorgrrgggyyybggoooowrooobybwwwwwwwgw$
+val = 5.721695091128676 | ?gbbgyygyyrrrwbrobrwrgwrrwggoorbggoooyyyoobbybbwwowwygw$
+val = 8.603554305581838 | ?byybyygggyyywbrbybrrrwrrobrwrgbggwggoorooboooyobgwwwww$
+val = 8.77163874590271 | ?bbbbyyyyyowrbbrbybgrggrrrrroorbgggggyyyoooooowwwgwwwww$
+val = 5.43368144359458 | ?yggyyyyyybbbybwbrrrrgbrryrroowbgwggwooooogoowgwwgwwrbb$
+val = 7.100359472357228 | ?ggggyyryyrrbwbybbbwrggrrorroowbgwggwooyooboorywwywwybb$
+val = 7.2356424997237925 | ?gyygyyyyyoooybwoowbbbbrrbrrrrgbgwyrroowoogggwrggbwwbww$
+val = 5.496076715339456 | ?gyygyyrbyooyybybbbbrrbrrrrrgrgggwggwoowoogooywwwwwwobb$
+val = 6.798264756202844 | ?gyygyyggrooyybboorrrbrrbbbbwrgwgworroowoogggwyyybwwbww$
+val = 8.547854303980227 | ?yyyyygyygrrgybwoowoowbrrbrrooobgwyrrbbboogggwrggbwwbww$
+val = 7.560512597693505 | ?yggyyyobybbyybyooygrrrrrrbbgowggwrrrooooogggwbwwbwwbww$
+val = 8.28983710885644 | ?yggyyyyyybbbybwggwrrgbrroowoowbgwbrrooooogyrrbbrwwgwwg$
+val = 8.835066518925423 | ?byybyyrggowybbyrrybrrbrrgggwrgbggoooooyooobybrwwwwwwgw$
+val = 9.428713504463554 | ?gbbryyyyyobobbrrrrbrggrwggwoorogwogryywbooyybwwbwwowgg$
+val = 9.121951206872538 | ?obogyygyywrrgbrgbrwrgwrwwgwoobogbogbyrgyoyybybwboworwr$
+val = 7.445213545866249 | ?yyyyyyobooobbbrrrryrggryggywbbggggoorrgooobbbwwrwwwwww$
+val = 7.5841737159236216 | ?yyyyyywggooobbbbbbgyyrrgrrorbbwggyggrrgooowoowwbwwrwwr$
+val = 6.293893371013 | ?yyoyygyyorrgbbbbbboobrrrrrrywgggyggywbbgoogoowwwwwowwr$
+val = 7.175719749764187 | ?yygyygbbwrrwbbwbbwrrorrgrrggyywggyyorbboooyooggowwowwb$
+val = 6.363222435348389 | ?bbryyobbrwrwwbwgbwrrgrrgrrwygyygygwybooboobooggowwgyyo$
+val = 7.08422740710106 | ?bbryyoyybwrrwbbrrbggyrrwrrgogyggyooobooboogbwwwwgwygwy$
+val = 7.359713009438933 | ?ygoyygyywgrgbbbbbbooorrrrrrgybggbggbywryooyoowwwwwowwr$
+val = 5.551569693815955 | ?bbgyygbbgwrwwbwrbwrrorrorroyyyyggwgoroowooyyygggwwobbb$
+val = 4.352158187979043 | ?yygyywbbrrrwbbwbbwrrgrrgrroygoygowgoybbyooyoogggwwowwb$
+val = 4.075151136498122 | ?yyyyyyyyybbbbbbrrwrrrrrwgggggggggwoooooooobbborrwwwwww$
+val = 1.6341368844935709 | ?yywyyoyyobbbbbbbbbrryrryrrygggggggggroorooooowwrwwwwww$
+val = 3.917799862659946 | ?yyyyyybbbbbwbbwbborrrrrrwwryggyggyggoooooowoogggwwrwwr$
+val = 3.9846415487058984 | ?yyyyyyyyybbbbbbwoorrrrrwbbbggggggrrwoooooogggwwwwwwrro$
+val = 4.036264361661119 | ?yyyyyygggbbybbybbyrwwrrrrrroggwggwggoooooowoobbbwwrwwr$
+val = 4.127106944350007 | ?yyyyyyyyyrrrbbbbbbgggrrwrrwoooggggggbbbooowoowwowwrwwr$
+val = 4.162992973457027 | ?yyoyyryyrbbbbbbrrorrwrrogggggggggroowoowoobbbyyywwwwww$
+val = 4.383555746943334 | ?yyryyryggbbrbbbbbbgrrrrwrrwwyyggggggbooyooyoowwowwowwo$
+val = 5.655625706402012 | ?yyoyyryyrrrrbbbbbbggwrrorrbggggggooowbbwoogoowwywwywwy$
+val = 6.798746829606076 | ?yyygyyyyyrwrbbbbbbgrgrrgrrwoooygggggbbbooowoowwowwrwwr$
+val = 7.355742385184562 | ?bbryywbbrwrwwbwrrorrgrrgwggygyygyyyybooboobbwgoogwogwo$
+val = 7.211720136011713 | ?bbryywyywwrrwbbbbbggorrrrrrggyggygggboobooyyywwwwwoooo$
+val = 7.492816037735759 | ?yyyyywyygrrrbbbrrbggwrrwrrwoggoggoyoobboooybwwwbgwogwb$
+val = 7.0102850500692 | ?yybyyoyybrrrbbbrrbggyrrorrooyoggoggowbbwoowbwwwygwwgwg$
+val = 6.975000695015063 | ?yyyyyyooyggybbbrrbggorrwrrgbbbggyooorrrooobbwwwwgwwgww$
+val = 7.316001829939562 | ?yyyyyobbrrrwbbwrrwrrgrrggwyygoygyooobbbooobbwogggwwgww$
+val = 6.643493248769734 | ?oyoyyoyyoyrrybbyrbggyrrwrrgggwggwoogbobbobwobwwwgwwrbr$
+val = 7.06491948665166 | ?yyyyywbbrrrwbbwybwrrgrrgrrbyggyggwwwobbooogyoggowwoboo$
+val = 7.712860566098113 | ?yyyyyoyyorrrbbbbbwggyrrwrrbggoggyrrgbbbooooooggwwwwwww$
+val = 8.093379338880856 | ?yybyybyybrrrwbbrrbggyrrwrrooooggogoowbbgoowbwwwygwygwg$
+val = 8.136486446863783 | ?bbbyyyyyywbbwbbwbwrrrrrwrrbggyggorroooogoogooggwwwwgyy$
+val = 6.91739206214203 | ?yooyyyyyybbbbbbrrbrrrrrwrrgggyggyoooggoooobbwwwwgwwgww$
+val = 6.610588805179011 | ?yooyyybbbbbwbbwbbwrrrrrrrrwygyygygwrggooooyooggowwgwwg$
+val = 7.301190292263436 | ?yygyyyyyybbbbbbooorrrrrwbrbggwggwrrroooooogwywgwgwwgbw$
+val = 7.89275467220433 | ?bygbygbygooowbbwbwwbyrryrryroorgrrgrygywoowooggbwwwgyb$
+val = 8.167299331329806 | ?yygyygyywrrgbbbrroooorrgygggyywggwoorbbooobbbbrrwwwwww$
+val = 8.280137429931775 | ?yygyyyybybbbbbrrrrrrrgryggyggwoggooooroooobbbwwgwwwwww$
+val = 6.85202038725456 | ?gyoyyoyygorobbbrrybbyrrgrggryywggwooggwooobbbbrrwwwwww$
+val = 7.351408171781398 | ?gyyoyyoygryybbbrryggwrrgrggorowggwoobbyooobbbbrrwwwwww$
+val = 7.52304009353813 | ?yybyyowggbbobbbrrygyyrrgrggrgowgowoowrowoogbbbrrwwywwy$
+val = 7.568921755885635 | ?yygyyygoobbybbbbbbryyrrgrryggwwggrggoroooowoowwbwwrwwr$
+val = 7.168325284767271 | ?gyyyygyyyorobbbbbbbbbrrrrrrrwrggyggyggwoooooowwwwwowwg$
+val = 6.443705079141687 | ?yygyyyygybbbbbbrrrrwrrrrggyggwggyooooroooobbbwogwwwwww$
+val = 7.128203939586541 | ?yyygyyyygrwrbbbbbbggwrrrrrroroggyggybbboooooowwwwwowwg$
+val = 6.974599662808729 | ?yyoyyobbobbwbbwrrbrrgrryygywyyggggoogroooobbwrwrgwwgww$
+val = 7.256640075526404 | ?yyoyyoygobbbbbbbbbrwgrryrrywyygggggggroooowoowwrwwrwwr$
+val = 5.896383082651595 | ?ogyoyyoyywyybbbbbbgrorryrrybbbggggggrwgooowoowwrwwrwwr$
+val = 6.33902215063241 | ?ogooyyoyywyybbbyoogrrrrrbbbggbggbrrrywgyooggbwwwwwwrow$
+val = 5.309032618365234 | ?ggoryyryyybbybbwbbwrrwrrwrrggbggbggbywoyooyooowwowogwr$
+val = 5.272756381152401 | ?rwgryyryybbbbbbbbbwrrwrrwrrggwggyggyooyooyowyowwowoogg$
+val = 5.702887673873399 | ?wyyyyyyyygbbwbbybbrrrrrrrrrggggggggwooowooooowwwwwobbb$
+val = 5.792963254678326 | ?oooyygyyogrrbbbbbbggbrrrrrrywgggbggbwyyyooyoowwwwwowwr$
+val = 5.924418458199536 | ?bbbyyyyyywbbgbbgbbrrrrrrrrrggyggwgggooooowooowwwwwoyyw$
+val = 5.307879235904521 | ?ywoyyoyyobbbbbbbbbrrgrryrrywyygggggggooooowwowwrwwrwgr$
+val = 5.472701649292132 | ?rwwryorygbbbbbbbbbwrowrowroyggyggwggroyroyrwyowgowyogy$
+val = 6.7848353374331065 | ?ywryyryyrbbbbbbbbbrrwrrorrgggggggyywyooyoogwowwowwowgo$
+val = 7.100148395834223 | ?wwrwyrwyrbbbbbbbbborworoorgggggggyywyoryorgwrywoywoygo$
+val = 7.127743845467325 | ?wyyryyryygbbwbbrbbwrrwrrwrrggggggggoooowooyyyowwowobbb$
+val = 4.998273076810972 | ?bbbryyryyobbgbbgbbwrrwrrwrrggrggwgggyyyoowoooowwowoyyw$
+val = 4.450797379035043 | ?rworyoryobbbbbbbbbwrgwrywrywyygggggggoyooywwyowrowrogr$
+val = 6.769140732903465 | ?ryyryyryybbbbbbgwywrrwrrbrrggggggggwooywoyoowowwowoobb$
+val = 4.178005155406464 | ?ggwyyyyyyybbybbwbbrrrrrrrrrggbggbggbowooooooowwwwwogwy$
+val = 5.718385495667636 | ?wyyyyyggggbywbyybyrrrrrrrrrwggwggwgwooowooooobbbwwobbb$
+val = 6.93032714172737 | ?ywgyyyyyybbbbbbbbbrrrrrrrrrggwggyggyooooooowowwwwwowgg$
+val = 7.251937339022342 | ?ggoryygggybyybywbrrrrrrrwwwwgbwgbogbywoyooyoobbbowogwr$
+val = 6.935488676723326 | ?rwgryygggbbybbybbrrrrrrrwwwwgwwgyogyooyooyowybbbowoogg$
+val = 7.272348034122608 | ?rwrryrryrbbbbbbbbbwrwwrowrgggggggyywyoyyoygwyowoowoogo$
+val = 5.678084795378324 | ?wwgwyywyybbbbbbbbborrorrorrggwggyggyooroorowrywwywoygg$
+val = 7.613492350328904 | ?wyyyyyyyygbbwbbrrrrrrrrrggwggggggoooooowooybbwobwwbwwb$
+val = 7.191291788064271 | ?gggyyryywrbbybbwrrrrbrrbggbogoogwogwyyybooboowoywwwgwr$
+val = 6.951118275429484 | ?ggoyyyyyyybbybbboorrrrrrwrrggbggwggwywoboooowgwwwworbb$
+val = 7.6505163247317425 | ?wyywyywyygbbwbbwbborrorrorrggggggggyooowoorrrywwywobbb$
+val = 5.224308295427793 | ?wwowyowyobbbbbbbbborgoryorywyygggggggoroorwwrywrywrygr$
+val = 5.30104683244467 | ?owgoyyoyybbbbbbbbbyrryrryrrggwggyggyoowoowowwrwwrworgg$
+val = 7.750096262247308 | ?wyyryyryygbbwbbwrrwrrwrrggoggggggyyyooowoorbbwobwwboob$
+val = 7.857346113274391 | ?bbbyyygggwbygbygbyrrrrrrrrrwgywgwwggooooowooobbbwwoyyw$
+val = 6.904498265540874 | ?ywoyyoggobbybbybbyrrgrryrrgwyygggwwwgooooobwobbrwwrwgr$
+val = 7.179487741647463 | ?rwgryyrggyyybbbbbbbrrwrrwrrwgwwgywgyoogooyowyobbowoogg$
+val = 7.208045547503685 | ?owgoyyoggbbbbbbyyyyrryrrgrrwgwwgywgyoowoowowbrbbrworgg$
+val = 7.930168803850089 | ?wyryyryyrgbbwbbybbrrwrrorrbggggggwggyooyooyoowwowwwbbo$
+val = 7.605700764184079 | ?obbyyryyrgbbgbbgbbrrwrrorrbggyggwwggooyooyooywwowwwryw$
+val = 5.61804304043093 | ?ywbyyryyrbbbbbbooyrrwrrogbbggoggwrrwwoogoogyyrwwywwggo$
+val = 8.003042585143431 | ?bbgyyryyrwrrwbbwbbggwrrorrrggoggobbbyooyooogowwywwygwy$
+val = 7.262717675190795 | ?obooyyoyywwwbbrbbrbggyrryrroobggbggbyogyowygwgwwrworwr$
+val = 5.52927690728771 | ?bbbyyyyyyorrbbbbbbgggrrrrrroorggwgggyyygooooowwwwwowww$
+val = 8.011540687694684 | ?wwwyyyyyygrrwbbrbbgggrrrrrroobggbggoooooogyyywwwwwobbb$
+val = 6.887383298706461 | ?bggyyyyyyyrrbbbbbbggorryrrybbrogwoggworgooooowwgwwrwww$
+val = 5.958002097953215 | ?bboyyyyyywrrwbbwbbgggrrrrrroobggbggbyooyooygowwwwwogwr$
+val = 5.965384745208161 | ?yybyybyybgggbbbbbboorrrrrrryyyggwgggorrgooooowwwwwowww$
+val = 5.404009676424739 | ?yyoyygyyogggbbbrrboobrrbyggywgyggwoowrrooobbbrrrwwwwww$
+val = 6.992267669005326 | ?bbbyyyyyyorrbbbooogggrrrbbboorggwrrryyygoogggwwwwwwwow$
+val = 5.621885130058559 | ?oboyyyyyywrrobbbbbgggrrrrrboobggbyggyogyogwoowwrwwwwwr$
+val = 7.05696374265498 | ?yyyyyyogooobbbbbbbywgrrbrrbwrryggygggggooowoowwrwwrwwr$
+val = 7.710443519250292 | ?bbwyyoyyrwrrwbbwbbggyrryrrybggbggbooroorooggowwowwygwy$
+val = 7.831333022525723 | ?yybyybbbgggwbbwbbwrrorrorrryyyygwbggorrgoooooggywwowww$
+val = 4.334366153706873 | ?yyoyygyyogggbbbbbboobrrbrrbywgyggyggwrrooowoowwrwwrwwr$
+val = 3.4172357227007586 | ?yyyyyybbooowbbwbbwrrgrrbrrbwrryggogbgggoooyooggywwwwwr$
+val = 8.0516536901179 | ?obboyyoyywyybbwrrbgrorryygybbwggggoorrgooobbwrwrgwwgww$
+val = 5.736095561466601 | ?yygyyybbbbbwbbwbbwrrrrrwrrrygwggyygyorooooooogggwwowwg$
+val = 5.947703874219361 | ?oooyybyybgrobbwbbwbbwrryrrbrrggggygywyyooogooggrwwwwwr$
+val = 7.444119704649541 | ?yyoyyowgybbobbbbbbgybrrrrrrryygggggygroooogoowwwwwwwwr$
+val = 8.052979590125274 | ?bbgyyryyrwrrwbbrrrggwrrobbbggoggoogoyooyoowbbyyywwwwwg$
+val = 8.181018520287186 | ?yybyybygoggbbbbbbbrwgrryrrywyyoggoggorrooowoowwgwwrwwr$
+val = 8.264668745726599 | ?yygyygrwrbbgbbgrrwygyyrygrybrroggooowroooobbbobgwwwwww$
+val = 8.267780744181398 | ?yyoyyobbgggwbbwbbwrrorrorrbywgyggygowrrwooyyoggrwwowbb$
+val = 5.330297112524608 | ?ggoyyoyyyoggybbybboobrrrrrrrwbggbggwywwyoroorwwwwwogbb$
+val = 7.410902300869845 | ?yyoyyryyrgggbbbybboowrrorrbggggggwbbwrrwooyoowwowwybwr$
+val = 8.27277654627228 | ?byybyyooorrgbbwbbwwyyrryrrbgrogggygybbwooogooggrwwwwwr$
+val = 7.3461216817894845 | ?wyygygyyygybrbbyybrrrwrrrrrgogggwggwooooobooowwwbwwbbb$
+val = 4.028752222041274 | ?yggyyyyyyoobybbbborrrrrryrrggwggwggwoogooboowbwwwwwrbb$
+val = 5.347349782261206 | ?byybygbygrrrbbwrrrygwrrrygyoooygyooobbwooobbwgwggwwgww$
+val = 4.108200523258033 | ?yggyyybbbbbwbbwbbwrrrrrrrrrygwygyygyooooooooogggwwwwwg$
+val = 4.120822558609071 | ?wyyyyyyyygbbgbbybbrrrrrrrrrgggggwggwooooooooowwwwwwbbb$
+val = 4.015294757614066 | ?bbbyyyyyywbbwbbgbbrrrrrrrrrggyggggggooooooooowwwwwwyyw$
+val = 4.221197686226511 | ?ygryyryyrbbbbbbbbbrrwrrwrrgggggggyywyooyoogoowwowwowwo$
+val = 5.357054937571836 | ?gybgybyybooobbwrrrbbwrrrygyrrrygyoooygwooobbwgwggwwgww$
+val = 5.925885188416895 | ?byybygbygrrrbbwoooygwrrrbbwoooygyrrrbbwoooygywwgwwggwg$
+val = 7.04031076823231 | ?yyyyyyyyybbbbbbggorrrrrrbrrgggggwggroooooowwwwwwowwobb$
+val = 4.138365997423714 | ?oggoyyoyybbbbbbbbbyrryrryrrggwggyggyoowoowoowrwwrwwrwg$
+val = 7.106861789974897 | ?byybygoyyrrgbbybbbwrrgrryrrgooggyggybbwoooooorwwwwwwwg$
+val = 6.2686604500443925 | ?gggwyywbbwbbwbbwbborrorrorrygwygyygyooroorooryggywwbwg$
+val = 8.320588909852455 | ?yyyyyywyyooobbbrrbgbbrrgrrorrrwggyoogggooobbwwwbgwwgww$
+val = 8.340772903191434 | ?bbyyyyyyywrrwbbwbbggorryrrybbboggoggrooooowgowwgwwrgwr$
+val = 8.349081679963335 | ?bbbyyyyyywbbgbbrrrrrrrrrgggggyggwoooooooowgbbwowwwywwy$
+val = 8.35468087999167 | ?gyyoyyoggrwgbbybbywrrrrrrrrwggwggwgoooywooyyobbbwwowbb$
+val = 8.191739881251287 | ?ggoyyoyygwggbbybbyooyrrrrrrrwgwggwgowrrwooyyobbbwwowbb$
+val = 8.363766934195583 | ?gggyyryyrrbbybbrrbrrwrrowgbggoggboooyyyooowbbowywwwwwg$
+val = 8.453636191252459 | ?bboyyyyyywrrwbbrrrgggrrrggboobggbygoyooyoowbbworwwwwwg$
+val = 6.638949106571808 | ?bboyyybbrwrwwbwwbwrrgrrgrrgyobygbygbyooyooygoggowwogwr$
+val = 8.517277773481318 | ?obyoyyoyywwwbbrbbrbgoyryyrybbboggoggrogoowwgwgwgrwrrwr$
+val = 8.208583222168185 | ?yybyybrrgggwwbbwbbggorrorrryooggobbbwrryooogowwywwygwy$
+val = 8.548501262092556 | ?yybyyryyrgggbbbbbboowrrorrbggrggwoggyrrooooyowwywwwwbw$
+val = 6.145304439889437 | ?ooyyyyyyywrrbbbbbbgggrrrrrroobgggggorwgwooyyowwwwwowbb$
+val = 7.199144654253395 | ?ggoryyryyrbbrbbyoowggwrrwrroobggbggwywyyoyoobgwwwworbb$
+val = 8.551386572803377 | ?yygyyoyybrrrbbbbbwggyrrwrrbogwggyrryobbooooooggwwwwwwg$
+val = 6.802022589130793 | ?yywyywyygrrrbbbbbwggorrorroyrryggwgobbbwooyoogggwwowwb$
+val = 7.18781071011227 | ?yyyyywyybrrrbbbgooggwrrwbbwrgorggrrgbbboooyywwwgwwgooo$
+val = 6.73186656556766 | ?ogwyyyyyyyrrybbyoogggrrwbbboooggrrrrgobgobgobwwwwwwrbw$
+val = 8.108737893873858 | ?yyoyyryyrggggbbooooowrrwbbbgggggbrrrwrrooobbbwwwwwwyyy$
+val = 4.022970668805174 | ?yygyyoyybrrrbbbwooggyrrybbyogwogrogrobbwoowggwwgwwwrrb$
+val = 8.5686283140729 | ?yybyybyybgggbbbrrroorrrrgggyyyggwoooorrgoobbbwowwwwwww$
+val = 8.606829879991157 | ?wyrwyrwyrgbbwbbwbborworoorbggggggyggyooyooyrrywrywwbbo$
+val = 6.829327234517595 | ?ggywyywyyybbybbwbborrorrorrggbggbggbrworoorooywwywogww$
+val = 8.60966246709415 | ?owwyyryyrbbbwbbgbbrrwrrorrgggogggyooggwyooyoywwowwbryb$
+val = 7.150039554533404 | ?yyyyyyrrbrrwwbbgbbggorrwrrwwgoggoggybbbbooooywwowworyg$
+val = 7.592084749669073 | ?ooyyyyrrbyrwybbyobggorrwybbwggggyrrwobboobggrrwwwwwgoo$
+val = 2.7668818979579566 | ?bbbyyryyrwbbwbbobbrrwrrwrrwggyggyggrooooooyyywwowwoggg$
+===================================================================================
+     0 | tree/nodes:                                                        42.000
+     0 | tree/expanded_nodes:                                               22.000
+     0 | tree/unexpanded_nodes:                                             20.000
+     0 | tree/max_depth:                                                    15.000
+     0 | tree/avg_n_goals:                                                   2.045
+     0 | tree/avg_dist_between_goals:                                        2.356
+solution | Problem 0 : ?brwoyoogorgyobrggrgwbyryyogyybggbobbowwwobybrgwwrwywrr$ 
+subgoal 0 : ?woorygbooowwobrybrrgyyryggrgwbggbyogyybwobobbwrgrwwryw$ 
+subgoal 1 : ?boobygbrwyoobbwgrwwyrrrgryybwbogboogyyrworobyggggwwryw$ 
+subgoal 2 : ?bbgbygboooowobrbrbrgyyrywrrgwwggygorowyboyyrrowwgwwybg$ 
+subgoal 3 : ?rbgyygyooyoorborrwbgybrybrbgwwggywrrowgbobgoyrgoywwbww$ 
+subgoal 4 : ?gyrgybwggyybrborryowwgrrbbbowgggyrrryoobobgoyoowywwbww$ 
+subgoal 5 : ?gyygybwggrybybogbbowwgrrrrrowbggygoorbyrooybowwwowwyrb$ 
+subgoal 6 : ?yyrbyboggbrybbybobgwwgrrwrrowgggygoyyooboorrwowwgwwryb$ 
+subgoal 7 : ?byrbyboggyryybygobgwwgrrwrrowbggbgobwrroobooyowwgwwryy$ 
+subgoal 8 : ?oyrgybrggbogybyyryywwbrrrrrowbggbgobwrwoogoogbwwbwwoyy$ 
+subgoal 9 : ?yyygyygbrowwybyyryowbbrrrrrwrrggggoogggoooboobwwbwwbbw$ 
+subgoal 10 : ?ggybyyyybowbybwyrwrbwrrrrrrrggyggyooowwoooboogggbwwbbw$ 
+subgoal 11 : ?yyryywrrwbbgbbworwyybrrorroooyggbggrboowoowggggybwywwb$ 
+subgoal 12 : ?yyyyyywwgbbgbbgbwwrryrryboorggrggbggooooooorrrwwbwwybw$ 
+subgoal 13 : ?yyoyyowwobbgbbgbogrryrryrrbggggggwrrwoowoobwwyyowwbrby$ 
+subgoal 14 : ?yyyyyygggbbybbyooorrrrrrbbywggwggrrroooooowggwwbwwbwwb$ 
+subgoal 15 : ?yyyyyyyyybbbbbbbbbrrrrrrrrrgggggggggooooooooowwwwwwwww$ 
+
+ 
+Actions: 
+action 0: (2, () ) 
+action 1: (1, () ) 
+action 2: (4, () ) 
+action 3: (10, () ) 
+action 4: (6, () ) 
+action 5: (5, () ) 
+action 6: (2, () ) 
+action 7: (10, () ) 
+action 8: (5, () ) 
+action 9: (0, () ) 
+action 10: (3, () ) 
+action 11: (6, () ) 
+action 12: (7, () ) 
+action 13: (10, () ) 
+action 14: (6, () ) 
+action 15: (6, () ) 
+action 16: (10, () ) 
+action 17: (10, () ) 
+action 18: (0, () ) 
+action 19: (7, () ) 
+action 20: (0, () ) 
+action 21: (4, () ) 
+action 22: (8, () ) 
+action 23: (0, () ) 
+action 24: (8, () ) 
+action 25: (7, () ) 
+action 26: (8, () ) 
+action 27: (8, () ) 
+action 28: (4, () ) 
+action 29: (3, () ) 
+action 30: (9, () ) 
+action 31: (3, () ) 
+action 32: (3, () ) 
+action 33: (8, () ) 
+action 34: (2, () ) 
+action 35: (4, () ) 
+action 36: (3, () ) 
+action 37: (4, () ) 
+
+     0 | problems/tested:                                                    1.000
+     0 | solution:                                                           1.000
+     0 | solution/length:                                                   38.000
+     0 | solution/n_subgoals:                                               17.000
+     1 | tree/nodes:                                                       840.000
+     1 | tree/expanded_nodes:                                              732.000
+     1 | tree/unexpanded_nodes:                                            108.000
+     1 | tree/max_depth:                                                    80.000
+     1 | tree/avg_n_goals:                                                   2.087
+     1 | tree/avg_dist_between_goals:                                        2.392
+solution | Problem 1 : ?yoogyybbwrrwwbgbborwoorwgywgrbggorbrywbyoryooyggrwywbg$ 
+subgoal 0 : ?oywoybygbywbwbgyoorrworwbborwoggogywgrbyorrbrwrybwggyg$ 
+subgoal 1 : ?wywbybggbooygbwbwyrrwrrwbborwoggogywgrbyoorbroryowgyyg$ 
+subgoal 2 : ?wbgyygwbrgrbgbgbwgoobrrbrrbwworgooywywoyoorbrywyowgyyg$ 
+subgoal 3 : ?bggyygwroyrrybbgwwbbborrorrywwwgbyygoorwobyyrbggowgwoo$ 
+subgoal 4 : ?rbrrygoggbbbwbrwbrywwyrrwrroowwgbyyggyywooyybbggowgooo$ 
+subgoal 5 : ?bbboyybgyrbrrbbbbrywgyrggrgoooogyowywwwgoygoywgwrwrowr$ 
+subgoal 6 : ?oyyoyyooobbybbgbbbgggwrryygworggwwwoggwoowyywrbrrwrrrb$ 
+subgoal 7 : ?oyyoyyooobbybbgwwogggwrryywworggwbbbggwoowyygbrrrwrrbr$ 
+subgoal 8 : ?oyywyywooybbybbwgyoggorrobbworggwyygggboorwwrgrrwwbbrr$ 
+subgoal 9 : ?ooooyyoyygggbbggowwoowrrbrrbrwggygbbbbygowyyyrwwwwrrbr$ 
+subgoal 10 : ?ooooyybggggybbywwborrorrrbbwrwwgyyyybbygowgoowrrgwbgwr$ 
+subgoal 11 : ?wyywyywwyobgobgwggrrbrrboyyrrrrgwoobggbooboyrwogwwgbby$ 
+subgoal 12 : ?oyyoyyogggggbbgoowwrrwrrbyywrrwgwbbbggyoowyywroobwrbbr$ 
+subgoal 13 : ?gwwgyygyyoooybrygryrrbrrbrrggrggwgywbbwooooooywwwwbbbb$ 
+subgoal 14 : ?wwwbyybyygwwgborrorrrgrrgrrggbggbgybooooowooyywwbwbbyy$ 
+subgoal 15 : ?bbbwyyoyywggwbwyowwrrbrrbrrggyggygygooooooybbrwwgwbrro$ 
+subgoal 16 : ?bbbwyygggwgywbywbbrrrrrrrygwgywgyybbooooooyoowbowwrggr$ 
+subgoal 17 : ?rwwyyygggwbygbygggrrrrrrywbwgbwgbybbooboowoowobrowroyy$ 
+subgoal 18 : ?bbbyyygggwbywbywwbrrrrrrrggwgywgyywbooooooybowoogwbgrr$ 
+subgoal 19 : ?obboyyoyywwwwbboowbrryrrbrrggyggygwboogoogybyrwwgwbgrr$ 
+subgoal 20 : ?yyyoyyoyybwwbbborrbrryrrgwbggggggybroooooowggwbrwwrwwb$ 
+subgoal 21 : ?yyyyyyyyybbbbbwbwwrrrbrrgbrggggggwgroooooogooorbrwwwww$ 
+subgoal 22 : ?bbbyyyggwwbywbywwyrrrrrbrbgbgyrgyogyoooooooogbwwrwwrgg$ 
+subgoal 23 : ?bbbyyygyywbrwbroobwrrwrrybrggyggywbgooooooogyrrbgwwgww$ 
+subgoal 24 : ?bbboyyoyyywwbbbrrrbrryrrgbgggyggyogyoorooroobwwwwwwwgg$ 
+subgoal 25 : ?wbbwyywyyrrrbbbwwybrrrrrrbgggyggyogyoogooyoobbwwowwogg$ 
+subgoal 26 : ?bbbyyygbrwbrwbrwwbwrbwrryrrwgyygyygyooooooooorggbwwggg$ 
+subgoal 27 : ?wyywyyybrrrbbbwbbbrrbbrrwrrwggyggyggoogooyooyoggowwoww$ 
+subgoal 28 : ?yyyyyygyybbrbbrybrwrrwrrwbwggggggoggoooooooobbwbrwwrww$ 
+subgoal 29 : ?ryyoyyoyywbbbbbwrryrryrrgggggggggoobooboowybbwwwwwworr$ 
+subgoal 30 : ?ryyoyyoyywbbbbboobyrryrrybbggggggwrrooboowgggrrowwwwww$ 
+subgoal 31 : ?ryywyywyyboobbbbbwgrrwrrbbbggggggwrrooyooyggyrroowwoww$ 
+subgoal 32 : ?gyywyywyyobbobbbbborrrrrrrrggggggggyoowoowbbrwwwywwyoo$ 
+subgoal 33 : ?ryywyywggboobbbwyygrrwrrgrrwggwggwgyooyooybbbrbbrwwooo$ 
+subgoal 34 : ?oyyoyyoggbbbbbbyyyyrryrrgrrwggwggwggoowoowoobrbbrwwrww$ 
+subgoal 35 : ?yyyyyyyyybbbbbbbbbrrrrrrrrrgggggggggooooooooowwwwwwwww$ 
+
+ 
+Actions: 
+action 0: (2, () ) 
+action 1: (1, () ) 
+action 2: (10, () ) 
+action 3: (10, () ) 
+action 4: (5, () ) 
+action 5: (1, () ) 
+action 6: (7, () ) 
+action 7: (5, () ) 
+action 8: (10, () ) 
+action 9: (0, () ) 
+action 10: (6, () ) 
+action 11: (10, () ) 
+action 12: (10, () ) 
+action 13: (9, () ) 
+action 14: (6, () ) 
+action 15: (5, () ) 
+action 16: (3, () ) 
+action 17: (3, () ) 
+action 18: (3, () ) 
+action 19: (10, () ) 
+action 20: (7, () ) 
+action 21: (11, () ) 
+action 22: (2, () ) 
+action 23: (0, () ) 
+action 24: (5, () ) 
+action 25: (3, () ) 
+action 26: (10, () ) 
+action 27: (6, () ) 
+action 28: (5, () ) 
+action 29: (2, () ) 
+action 30: (3, () ) 
+action 31: (4, () ) 
+action 32: (2, () ) 
+action 33: (11, () ) 
+action 34: (3, () ) 
+action 35: (10, () ) 
+action 36: (4, () ) 
+action 37: (0, () ) 
+action 38: (6, () ) 
+action 39: (10, () ) 
+action 40: (10, () ) 
+action 41: (6, () ) 
+action 42: (5, () ) 
+action 43: (3, () ) 
+action 44: (4, () ) 
+action 45: (7, () ) 
+action 46: (11, () ) 
+action 47: (5, () ) 
+action 48: (6, () ) 
+action 49: (2, () ) 
+action 50: (4, () ) 
+action 51: (10, () ) 
+action 52: (3, () ) 
+action 53: (6, () ) 
+action 54: (3, () ) 
+action 55: (7, () ) 
+action 56: (11, () ) 
+action 57: (6, () ) 
+action 58: (7, () ) 
+action 59: (5, () ) 
+action 60: (2, () ) 
+action 61: (4, () ) 
+action 62: (3, () ) 
+action 63: (10, () ) 
+action 64: (11, () ) 
+action 65: (11, () ) 
+action 66: (4, () ) 
+action 67: (10, () ) 
+action 68: (6, () ) 
+action 69: (11, () ) 
+action 70: (5, () ) 
+action 71: (10, () ) 
+action 72: (3, () ) 
+action 73: (10, () ) 
+action 74: (2, () ) 
+action 75: (2, () ) 
+action 76: (10, () ) 
+action 77: (10, () ) 
+action 78: (3, () ) 
+action 79: (11, () ) 
+action 80: (5, () ) 
+action 81: (10, () ) 
+action 82: (2, () ) 
+action 83: (11, () ) 
+action 84: (11, () ) 
+action 85: (3, () ) 
+action 86: (11, () ) 
+action 87: (4, () ) 
+
+     1 | problems/tested:                                                    2.000
+     1 | solution:                                                           1.000
+     1 | solution/length:                                                   88.000
+     1 | solution/n_subgoals:                                               37.000
+     2 | tree/nodes:                                                       101.000
+     2 | tree/expanded_nodes:                                               69.000
+     2 | tree/unexpanded_nodes:                                             32.000
+     2 | tree/max_depth:                                                    27.000
+     2 | tree/avg_n_goals:                                                   2.101
+     2 | tree/avg_dist_between_goals:                                        2.317
+solution | Problem 2 : ?rwowybbyrbroobgggbwogrrgrooyybwgogbwybybowgrrwgyywrwyo$ 
+subgoal 0 : ?wworybryrogbrbggrrwogyrgbogyybwgowooybbbowgbwywrywgory$ 
+subgoal 1 : ?booyybbyrogrwbrwrgyogyrgoogyyywgrwobgbybobwrrwwrwwgbgo$ 
+subgoal 2 : ?obwoywbyygbywbywrbogroroyyogggwgrwobryybobwrrrrgwwgbgo$ 
+subgoal 3 : ?obwoybbyrgbywbygrrogworwwrbgrbggoyyyoyygobgwwbwrgwroor$ 
+subgoal 4 : ?gwgoygbyoobyobybrrogworbwrrboorgbgggybwyowrrrbwwgwwyyy$ 
+subgoal 5 : ?ggowyybgyybwyborrorrbwrbyborgwrgbwrrbooyoogggbogywwyww$ 
+subgoal 6 : ?ryyryyogyyybbbbbrryrbwrbggorggrggbygoogooooowwwwwwbrww$ 
+subgoal 7 : ?gyyoyyggyobyobywbbrrbrrborrrggrggggooowoowbyrywwwwwbbw$ 
+subgoal 8 : ?gyyoyyryyobbobwbyywrrbrrbbbggggggyrroowoowggoorrbwwwww$ 
+subgoal 9 : ?gyyoyyowbobwobbggobbwyrryrrrggyggybboowoowyrrbggwwrwwr$ 
+subgoal 10 : ?gyyoyyggbobyobyggrrryrrywbboggbggwbboowoowyrrbwowwrwwr$ 
+subgoal 11 : ?gyyoyyobwobbobgrrwyybrrbbbboggwggyrroowoowgggrrrywwyww$ 
+subgoal 12 : ?byybyybgbrrrbbrooryryyryybboggbggwrroowoooggggwowwwwww$ 
+subgoal 13 : ?byybyyrrrrrgbbwbyyyyybrrbrrbggggggggoowooooooowwbwwwww$ 
+subgoal 14 : ?rggryyryyyyybbybbybggbrrbbboowggwwrroogoowggwooorwwrww$ 
+subgoal 15 : ?gyyryyryyrbbrbbrbbwggwrrwrroooggggggbbyooyooyowwowwbww$ 
+subgoal 16 : ?yyyyyyyyybbbbbbbbbrrrrrrrrrgggggggggooooooooowwwwwwwww$ 
+
+ 
+Actions: 
+action 0: (11, () ) 
+action 1: (2, () ) 
+action 2: (11, () ) 
+action 3: (6, () ) 
+action 4: (5, () ) 
+action 5: (1, () ) 
+action 6: (9, () ) 
+action 7: (2, () ) 
+action 8: (9, () ) 
+action 9: (7, () ) 
+action 10: (10, () ) 
+action 11: (10, () ) 
+action 12: (2, () ) 
+action 13: (1, () ) 
+action 14: (3, () ) 
+action 15: (7, () ) 
+action 16: (10, () ) 
+action 17: (3, () ) 
+action 18: (2, () ) 
+action 19: (10, () ) 
+action 20: (2, () ) 
+action 21: (4, () ) 
+action 22: (2, () ) 
+action 23: (4, () ) 
+action 24: (4, () ) 
+action 25: (4, () ) 
+action 26: (5, () ) 
+action 27: (3, () ) 
+action 28: (4, () ) 
+action 29: (11, () ) 
+action 30: (4, () ) 
+action 31: (3, () ) 
+action 32: (11, () ) 
+action 33: (0, () ) 
+action 34: (6, () ) 
+action 35: (2, () ) 
+action 36: (10, () ) 
+action 37: (10, () ) 
+action 38: (3, () ) 
+action 39: (7, () ) 
+action 40: (10, () ) 
+action 41: (1, () ) 
+
+     2 | problems/tested:                                                    3.000
+     2 | solution:                                                           1.000
+     2 | solution/length:                                                   42.000
+     2 | solution/n_subgoals:                                               18.000
+     3 | tree/nodes:                                                       336.000
+     3 | tree/expanded_nodes:                                              258.000
+     3 | tree/unexpanded_nodes:                                             78.000
+     3 | tree/max_depth:                                                    71.000
+     3 | tree/avg_n_goals:                                                   2.213
+     3 | tree/avg_dist_between_goals:                                        2.335
+solution | Problem 3 : ?gyryyrogwrgwwbyogybroorbrrbgwbrgwowgwbyoogwoybyyowbgbr$ 
+subgoal 0 : ?oyggyywrrbrowbywoygwborbogywbyrgwrrbrgwoogowggobbwyrby$ 
+subgoal 1 : ?oybgybyyobrgwbowooooggrwyybwrwrgbywyrgwyoggwgbrrbworbr$ 
+subgoal 2 : ?yggyyyobboogwbowoowrogryyybwbyggwrryrrgoogrwgbrwbwwrbb$ 
+subgoal 3 : ?gggbygbygyroobooogwbyyryoybrrrggwrrywwooobrwbwrwgwwybb$ 
+subgoal 4 : ?yroyygoygoogbboboowbygryyybrrwgggrrgbbgwowworbrwbwwywr$ 
+subgoal 5 : ?wrygyyyybgoooboobbbbwbrwyyrrgrrgrggwgbogoyooyrrwwwwgwb$ 
+subgoal 6 : ?rrwgyyrrgyobrbywbywwrbrybbywgbrgwrggoggoobyyooobwwwgoo$ 
+subgoal 7 : ?rgrryryyrwwbrbywbyrrwbrwbbogggggggwbyobyobwyoooywwogoo$ 
+subgoal 8 : ?yrryygyywrrrrbywbyggbbrrbbroobggwgggwwboobyyooowwwwgoo$ 
+subgoal 9 : ?rgwryywyybboobyobygrrbrrbbrggbggrggrooywoywoyoowwwwgwb$ 
+subgoal 10 : ?ygryyryyroobbbbyyorrwrrwwbbggggggrrbyogyowwoogowbwwbwo$ 
+subgoal 11 : ?oobryrwyrgbowbyobygrwbrwbbbggrgggrrryyyoooyywoowwwwbgg$ 
+subgoal 12 : ?rrrgyyrrwyoyobyobybbobrwbbbgrwgggrrbgggyoywoyoowwwwgwo$ 
+subgoal 13 : ?ggbryrwyrrbogbyrbygrwbrwbbbggoggwrrgwyyoooyyyoowwwwboo$ 
+subgoal 14 : ?wrryygrrrgrwobyobygggbrwbbbyoygggrrbbboyoywoyoowwwwgwo$ 
+subgoal 15 : ?bgrgyryyrwybrbywbyrrwbrwbbbgggggwrrgyoooobyyooowwwwgoo$ 
+subgoal 16 : ?rgrbyrbyrbyyybbyyborwwrwwrwgggggwgbbyoyoogrrgoboowooww$ 
+subgoal 17 : ?yybyyryyoooorbowbwbbwbrrbwwbgryggrrryggoobyoorggwwwgwg$ 
+subgoal 18 : ?yyyyyyyyrbbbrbrwborrwgrwbbbggggggrrrooooobyoowowwwwgwg$ 
+subgoal 19 : ?yyyyyyyyybbbrbrrrrrrrgrwggwgggbggoooooooobwbbwwbwwwwog$ 
+subgoal 20 : ?oyybyyoyywrbbbbbrbyrryrwyrrgggbggggwoogooooowrwwgwwrwb$ 
+subgoal 21 : ?yyyyyyybyooobbbwybbwbrrrrrrrrrgggggwgggoooooowwwbwwgwb$ 
+subgoal 22 : ?ggwbyyyyyywbybbyybrrrrrrrrrggbggwgggooooooooowwwbwwbbw$ 
+subgoal 23 : ?yyybyybbbbwwbbwwywrrrrrrrrryggyggygwooooooooogggbwwgwb$ 
+subgoal 24 : ?wbbbyyyyygwbwbbbybrrrrrrrrrggyggyggyooooooooowwwbwwwgg$ 
+subgoal 25 : ?wbbbyyobbgwwwbboowbrryrrbrrygyygyyrrooooooggyrgggwwgww$ 
+subgoal 26 : ?ybboyyoyyowgobwobbwrrbrryybggyggyrrroogoogggwrbwrwwbww$ 
+subgoal 27 : ?bbbyyybbbwbwwbogrrrrrgrryrrygyygyggwooooobgwogwwgwwyoo$ 
+subgoal 28 : ?bbbyyywbwwbowbroorgwrbrrbrrbgyygyyrrooooooggyygggwwgww$ 
+subgoal 29 : ?oyyoyyoyybbbbbbbbwyrryrrbrrggggggggooowoorworrwwwwwywg$ 
+subgoal 30 : ?ryywyyyyywbbbbbbbbrrrrrrwrrggggggggooobooywoyowwowwowg$ 
+subgoal 31 : ?ryywyyrbbwbwbbwwrggrrgrrorryggyggyoyoobooybbbwggwwwooo$ 
+subgoal 32 : ?ryyryyryybbbbbwbbbwrrgrrwrgggggggowrooyooygoyowwowboww$ 
+subgoal 33 : ?bbbyyyyyywbbwbbwwbrrrrrrrrgggyggyowyoooooooogwwwgwbrgg$ 
+subgoal 34 : ?bbbyyybbbwbwwbwoogrrrrrrwwwygyygygrrooooooywyrgogwggbg$ 
+subgoal 35 : ?bbbyyywwwwbowbgwwggrrrrrrrrbgybgybwyoooooooogyyygwbrgg$ 
+subgoal 36 : ?ggryyyyyyybbybbywbrrrrrrrrgggwggwowwgoooooooowwwgwbbbb$ 
+subgoal 37 : ?yyyyyyyyybbbbbbrrgrrrrrrowrgggggggoooooooobwbwbwwwwwgw$ 
+subgoal 38 : ?byyoyyobbrbbrbbwbwyrryrrgrryggyggyoooowoowbwgoggwwwrgw$ 
+subgoal 39 : ?yyyyyyybbbbrbbrrrggrrgrroooyggyggbwgoooooowbbwwwwwgwwr$ 
+subgoal 40 : ?yyyyyyyybbbbbbbwbbrrorrorrywggwggggooooooowwgwwrwwrrgg$ 
+subgoal 41 : ?yyyyyyobbbbgbbgrrywrrwrrggryggygggoooooooobbbrrwwwwwww$ 
+subgoal 42 : ?yybyyoyyobbbbbbrrorryrrywwgggoggowrrwoowooybbggrwwgwwg$ 
+subgoal 43 : ?yygyygyyybbbbbbbbbrrrrrorrogwwggrggwooogooroowwywwywwg$ 
+subgoal 44 : ?yyryygwwgbbobbybbyggyrrrrrrrrwwggwgggooyooyoobbbwwowwo$ 
+subgoal 45 : ?yyyyyyyyobbbbbbbbyrrgrrgggrwggwgggwwooooooboorrwwwrwwr$ 
+subgoal 46 : ?yygyyggwwbbrbbybbywrrrrgrrgbwwrggrggoooyooyoobbywwowwo$ 
+subgoal 47 : ?yywyyryyrbbbbbbbbyrrbrroggowwgggwggwroogoogoorrywwywwo$ 
+subgoal 48 : ?yybyyoyyobbbbbbwoorryrrybbyggwggwggorooroowwgwwrwwrrgg$ 
+subgoal 49 : ?yyyyyyyyybbbbbbbbgrrrrrrowwggggggbwgoooooowoowrrwwgwwr$ 
+subgoal 50 : ?yywyywggobbybbybbyrrgrrgrrrwrrwgggggbooyooyoobbwwwowwo$ 
+subgoal 51 : ?yyyyyywwbbbobbgbbgggwrrwrrgrggrggwbbooooooyooyyrwwrwwr$ 
+subgoal 52 : ?yywyywwbbbbgbbwbbwrrrgrrgrryrryggyggbooyooyoooggwwowwo$ 
+subgoal 53 : ?yyyyyyggobbybbygwwrrgrrgbbbwggwggyoooooooobbrrrrrwwwww$ 
+subgoal 54 : ?yyyyyygggbbybbyoowrrrrrbbbbwggwggwwroooooobggrrowwrwwy$ 
+subgoal 55 : ?yyyyyywyybbrbbrbbrbrrbrrgwrggggggbggooooooooowrywwwwww$ 
+subgoal 56 : ?oyyoyyogbbbbbbbwyyyrryrwgbgyggrggwggoowoowoorrrrrwwbww$ 
+subgoal 57 : ?yyyyyyyrwbbbbbgbbgrwgrrbrrbrggrggrggoooooooooyywwwwwww$ 
+subgoal 58 : ?oyyoyyorrbbbbbbyrwybbyrrrrrwggyggyggoowoowoobgggwwwrww$ 
+subgoal 59 : ?oyyoyyoyybbbbbboowyrryrrrrrggggggwwroowoowbgggbbwwrwwy$ 
+subgoal 60 : ?oyyoyyggwbbybbyyyrrrrrrrgwrbggbggbggoowoowooowrybwwbww$ 
+subgoal 61 : ?oyyoyyoyybbbbbbyobyrryrrrrwggggggrggoowoowobbwwgwwwrrw$ 
+subgoal 62 : ?oyooyooyobbbbbbrryyryyryggrgggggggbbwowwowyobrrwwwrwwr$ 
+subgoal 63 : ?yyoyyoyyobbbbbbwobrryrryrryggggggggowoowoobbgwwrwwrrww$ 
+subgoal 64 : ?yyyyyyyyybbbbbbrrwrrrrrroggggggggobgoooooowobbwwwwwwwr$ 
+subgoal 65 : ?yyyyyyggobbybbyrrorrgrrgbbgwggwggwoboooooorrywwrbwwbww$ 
+subgoal 66 : ?yyyyyyoyybbwbbwrrybrrbrrrrrgggggggggoooooooobbbwwwwwww$ 
+subgoal 67 : ?yyyyyyggrbbybbyooorryrrrbbrbggwggwrroooooogggwwbwwbwww$ 
+subgoal 68 : ?yyyyyyryybbbbbbbbwwrrrrrrryggggggrggooooooooogwbwwwwww$ 
+subgoal 69 : ?oyyoyyoyybbbbbboogyrryrrwbbggggggrryoowoowrggrrwwwwwwb$ 
+subgoal 70 : ?oyroyroybbbbbbbwbbyrwyrwyggrggrggyggyowyowoogroorwwrww$ 
+subgoal 71 : ?yyyyyyyyybbbbbbbbbrrrrrrrrrgggggggggooooooooowwwwwwwww$ 
+
+ 
+Actions: 
+action 0: (2, () ) 
+action 1: (0, () ) 
+action 2: (8, () ) 
+action 3: (4, () ) 
+action 4: (0, () ) 
+action 5: (9, () ) 
+action 6: (10, () ) 
+action 7: (0, () ) 
+action 8: (11, () ) 
+action 9: (7, () ) 
+action 10: (8, () ) 
+action 11: (11, () ) 
+action 12: (6, () ) 
+action 13: (5, () ) 
+action 14: (8, () ) 
+action 15: (0, () ) 
+action 16: (9, () ) 
+action 17: (0, () ) 
+action 18: (7, () ) 
+action 19: (1, () ) 
+action 20: (8, () ) 
+action 21: (10, () ) 
+action 22: (11, () ) 
+action 23: (7, () ) 
+action 24: (6, () ) 
+action 25: (1, () ) 
+action 26: (0, () ) 
+action 27: (6, () ) 
+action 28: (7, () ) 
+action 29: (0, () ) 
+action 30: (6, () ) 
+action 31: (1, () ) 
+action 32: (11, () ) 
+action 33: (2, () ) 
+action 34: (3, () ) 
+action 35: (7, () ) 
+action 36: (10, () ) 
+action 37: (4, () ) 
+action 38: (0, () ) 
+action 39: (5, () ) 
+action 40: (3, () ) 
+action 41: (9, () ) 
+action 42: (3, () ) 
+action 43: (8, () ) 
+action 44: (2, () ) 
+action 45: (10, () ) 
+action 46: (2, () ) 
+action 47: (1, () ) 
+action 48: (5, () ) 
+action 49: (3, () ) 
+action 50: (0, () ) 
+action 51: (6, () ) 
+action 52: (7, () ) 
+action 53: (4, () ) 
+action 54: (7, () ) 
+action 55: (5, () ) 
+action 56: (2, () ) 
+action 57: (4, () ) 
+action 58: (5, () ) 
+action 59: (10, () ) 
+action 60: (11, () ) 
+action 61: (4, () ) 
+action 62: (11, () ) 
+action 63: (3, () ) 
+action 64: (0, () ) 
+action 65: (2, () ) 
+action 66: (10, () ) 
+action 67: (1, () ) 
+action 68: (5, () ) 
+action 69: (3, () ) 
+action 70: (6, () ) 
+action 71: (10, () ) 
+action 72: (11, () ) 
+action 73: (11, () ) 
+action 74: (3, () ) 
+action 75: (4, () ) 
+action 76: (10, () ) 
+action 77: (5, () ) 
+action 78: (11, () ) 
+action 79: (2, () ) 
+action 80: (10, () ) 
+action 81: (7, () ) 
+action 82: (4, () ) 
+action 83: (2, () ) 
+action 84: (3, () ) 
+action 85: (4, () ) 
+action 86: (6, () ) 
+action 87: (5, () ) 
+action 88: (6, () ) 
+action 89: (5, () ) 
+action 90: (7, () ) 
+action 91: (3, () ) 
+action 92: (4, () ) 
+action 93: (10, () ) 
+action 94: (3, () ) 
+action 95: (11, () ) 
+action 96: (5, () ) 
+action 97: (2, () ) 
+action 98: (3, () ) 
+action 99: (3, () ) 
+action 100: (4, () ) 
+action 101: (2, () ) 
+action 102: (5, () ) 
+action 103: (9, () ) 
+action 104: (8, () ) 
+action 105: (2, () ) 
+action 106: (9, () ) 
+action 107: (9, () ) 
+action 108: (9, () ) 
+action 109: (5, () ) 
+action 110: (9, () ) 
+action 111: (4, () ) 
+action 112: (8, () ) 
+action 113: (5, () ) 
+action 114: (4, () ) 
+action 115: (8, () ) 
+action 116: (8, () ) 
+action 117: (2, () ) 
+action 118: (8, () ) 
+action 119: (3, () ) 
+action 120: (5, () ) 
+action 121: (8, () ) 
+action 122: (5, () ) 
+action 123: (9, () ) 
+action 124: (8, () ) 
+action 125: (5, () ) 
+action 126: (4, () ) 
+action 127: (9, () ) 
+action 128: (4, () ) 
+action 129: (3, () ) 
+action 130: (4, () ) 
+action 131: (2, () ) 
+action 132: (2, () ) 
+action 133: (5, () ) 
+action 134: (4, () ) 
+action 135: (3, () ) 
+action 136: (5, () ) 
+action 137: (10, () ) 
+action 138: (11, () ) 
+action 139: (5, () ) 
+action 140: (5, () ) 
+action 141: (10, () ) 
+action 142: (11, () ) 
+action 143: (5, () ) 
+action 144: (10, () ) 
+action 145: (2, () ) 
+action 146: (5, () ) 
+action 147: (3, () ) 
+action 148: (9, () ) 
+action 149: (2, () ) 
+action 150: (8, () ) 
+action 151: (4, () ) 
+action 152: (9, () ) 
+action 153: (3, () ) 
+action 154: (2, () ) 
+action 155: (2, () ) 
+action 156: (11, () ) 
+action 157: (3, () ) 
+action 158: (8, () ) 
+action 159: (3, () ) 
+action 160: (5, () ) 
+action 161: (3, () ) 
+action 162: (4, () ) 
+action 163: (2, () ) 
+action 164: (2, () ) 
+action 165: (5, () ) 
+action 166: (3, () ) 
+action 167: (4, () ) 
+action 168: (10, () ) 
+action 169: (2, () ) 
+action 170: (8, () ) 
+action 171: (3, () ) 
+action 172: (11, () ) 
+action 173: (2, () ) 
+action 174: (9, () ) 
+action 175: (3, () ) 
+
+     3 | problems/tested:                                                    4.000
+     3 | solution:                                                           1.000
+     3 | solution/length:                                                  176.000
+     3 | solution/n_subgoals:                                               73.000
+     4 | tree/nodes:                                                       232.000
+     4 | tree/expanded_nodes:                                              173.000
+     4 | tree/unexpanded_nodes:                                             59.000
+     4 | tree/max_depth:                                                    26.000
+     4 | tree/avg_n_goals:                                                   2.179
+     4 | tree/avg_dist_between_goals:                                        2.353
+solution | Problem 4 : ?gybwygwrrwbobbwbwygygrrwoywyryogoogboorborrgrgbbgwoyyw$ 
+subgoal 0 : ?bbwwywwrwyboybwowygybrrooywoogggybogrrroogrgbgbrgwbyry$ 
+subgoal 1 : ?bbwwywwrwyboybwboggybrrorgboogggyowyrrroogoywyrybwgrbg$ 
+subgoal 2 : ?bybwyowrbrbobbwgoggyyrrgrggogowgowbbwgwwoyyooyrrbwryyr$ 
+subgoal 3 : ?bybwyoowwrbbbbrgrryggyrgybbrgorgoyoowgwwoygowgrrwwyoby$ 
+subgoal 4 : ?bybwyorrgrbybbrgrrbbygryggyrgorgoboowgwwoygowwwowwyoby$ 
+subgoal 5 : ?rwbryyyyybbobbrgrrbrrgryggyggwoggooorbyooybowwwgwwwobw$ 
+subgoal 6 : ?gbbryyyyyobobbrrrrbrggrwggwoorogwogryywbooyybwwbwwowgg$ 
+subgoal 7 : ?obogyygyywrrgbrgbrwrgwrwwgwoobogbogbyrgyoyybybwboworwr$ 
+subgoal 8 : ?yygyyyybybbbbbrrrrrrrgryggyggwoggooooroooobbbwwgwwwwww$ 
+subgoal 9 : ?gyoyyoyygorobbbrrybbyrrgrggryywggwooggwooobbbbrrwwwwww$ 
+subgoal 10 : ?gyyoyyoygryybbbrryggwrrgrggorowggwoobbyooobbbbrrwwwwww$ 
+subgoal 11 : ?yygyyygoobbybbbbbbryyrrgrryggwwggrggoroooowoowwbwwrwwr$ 
+subgoal 12 : ?gyyyygyyyorobbbbbbbbbrrrrrrrwrggyggyggwoooooowwwwwowwg$ 
+subgoal 13 : ?yyoyyoygobbbbbbbbbrwgrryrrywyygggggggroooowoowwrwwrwwr$ 
+subgoal 14 : ?ogyoyyoyywyybbbbbbgrorryrrybbbggggggrwgooowoowwrwwrwwr$ 
+subgoal 15 : ?wyyryyryygbbwbbrbbwrrwrrwrrggggggggoooowooyyyowwowobbb$ 
+subgoal 16 : ?bbbryyryyobbgbbgbbwrrwrrwrrggrggwgggyyyoowoooowwowoyyw$ 
+subgoal 17 : ?rworyoryobbbbbbbbbwrgwrywrywyygggggggoyooywwyowrowrogr$ 
+subgoal 18 : ?ywgyyyyyybbbbbbbbbrrrrrrrrrggwggyggyooooooowowwwwwowgg$ 
+subgoal 19 : ?wyryyryyrgbbwbbybbrrwrrorrbggggggwggyooyooyoowwowwwbbo$ 
+subgoal 20 : ?obbyyryyrgbbgbbgbbrrwrrorrbggyggwwggooyooyooywwowwwryw$ 
+subgoal 21 : ?ywbyyryyrbbbbbbooyrrwrrogbbggoggwrrwwoogoogyyrwwywwggo$ 
+subgoal 22 : ?owwyyryyrbbbwbbgbbrrwrrorrgggogggyooggwyooyoywwowwbryb$ 
+subgoal 23 : ?ooyyyyrrbyrwybbyobggorrwybbwggggyrrwobboobggrrwwwwwgoo$ 
+subgoal 24 : ?bbbyyryyrwbbwbbobbrrwrrwrrwggyggyggrooooooyyywwowwoggg$ 
+subgoal 25 : ?yyyyyyyyybbbbbbbbbrrrrrrrrrgggggggggooooooooowwwwwwwww$ 
+
+ 
+Actions: 
+action 0: (8, () ) 
+action 1: (7, () ) 
+action 2: (3, () ) 
+action 3: (3, () ) 
+action 4: (7, () ) 
+action 5: (8, () ) 
+action 6: (5, () ) 
+action 7: (3, () ) 
+action 8: (5, () ) 
+action 9: (5, () ) 
+action 10: (8, () ) 
+action 11: (0, () ) 
+action 12: (8, () ) 
+action 13: (7, () ) 
+action 14: (11, () ) 
+action 15: (7, () ) 
+action 16: (10, () ) 
+action 17: (9, () ) 
+action 18: (1, () ) 
+action 19: (1, () ) 
+action 20: (5, () ) 
+action 21: (1, () ) 
+action 22: (0, () ) 
+action 23: (0, () ) 
+action 24: (2, () ) 
+action 25: (1, () ) 
+action 26: (1, () ) 
+action 27: (8, () ) 
+action 28: (0, () ) 
+action 29: (9, () ) 
+action 30: (1, () ) 
+action 31: (1, () ) 
+action 32: (8, () ) 
+action 33: (11, () ) 
+action 34: (7, () ) 
+action 35: (7, () ) 
+action 36: (7, () ) 
+action 37: (6, () ) 
+action 38: (9, () ) 
+action 39: (8, () ) 
+action 40: (10, () ) 
+action 41: (6, () ) 
+action 42: (8, () ) 
+action 43: (6, () ) 
+action 44: (6, () ) 
+action 45: (2, () ) 
+action 46: (6, () ) 
+action 47: (6, () ) 
+action 48: (3, () ) 
+action 49: (0, () ) 
+action 50: (9, () ) 
+action 51: (6, () ) 
+action 52: (2, () ) 
+action 53: (3, () ) 
+action 54: (8, () ) 
+action 55: (7, () ) 
+action 56: (9, () ) 
+action 57: (1, () ) 
+action 58: (6, () ) 
+action 59: (9, () ) 
+
+     4 | problems/tested:                                                    5.000
+     4 | solution:                                                           1.000
+     4 | solution/length:                                                   60.000
+     4 | solution/n_subgoals:                                               27.000
+     5 | solved/rate:                                                        1.000
+     5 | solved/problems:                                                    5.000
+     5 | solved/rate/50_exp_nodes:                                           0.200
+     5 | solved/rate/50_nodes:                                               0.200
+     5 | solved/rate/100_exp_nodes:                                          0.400
+     5 | solved/rate/100_nodes:                                              0.200
+     5 | solved/rate/200_exp_nodes:                                          0.600
+     5 | solved/rate/200_nodes:                                              0.400
+     5 | solved/rate/500_exp_nodes:                                          0.800
+     5 | solved/rate/500_nodes:                                              0.800
+     5 | solved/rate/1000_exp_nodes:                                         1.000
+     5 | solved/rate/1000_nodes:                                             1.000
+     5 | solved/rate/2000_exp_nodes:                                         1.000
+     5 | solved/rate/2000_nodes:                                             1.000
+     5 | solved/rate/5000_exp_nodes:                                         1.000
+     5 | solved/rate/5000_nodes:                                             1.000
+summary | rate,  1.0
+summary | problems,  5
+summary | rate/50_exp_nodes,  0.2
+summary | rate/50_nodes,  0.2
+summary | rate/100_exp_nodes,  0.4
+summary | rate/100_nodes,  0.2
+summary | rate/200_exp_nodes,  0.6
+summary | rate/200_nodes,  0.4
+summary | rate/500_exp_nodes,  0.8
+summary | rate/500_nodes,  0.8
+summary | rate/1000_exp_nodes,  1.0
+summary | rate/1000_nodes,  1.0
+summary | rate/2000_exp_nodes,  1.0
+summary | rate/2000_nodes,  1.0
+summary | rate/5000_exp_nodes,  1.0
+summary | rate/5000_nodes,  1.0
+summary | Finished time , 1992.4335207939148
+
+Process finished with exit code 0
