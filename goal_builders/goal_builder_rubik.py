@@ -14,17 +14,20 @@ class GoalBuilderRubik:
         self.policy.construct_networks()
 
     def build_goals(self, current_state):
+        # Vrací hashe stavů
         raw_subgoals = self.generator.generate_subgoals(current_state)
         # raw_subgoals.add('$@yyyyyyyyybbbbbbbbbrrrrrrrrrgggggggggooooooooowwwwwwwww$')
         verifed_subgoals = []
         for raw_subgoal in raw_subgoals:
             # raw subgoal starts with '$@', should be changed to '?'
             raw_subgoal = '?' + raw_subgoal[2:]
+            # Testuje, jestli se umí dostat do predikovaného sub goalu z daného stavu (který přijde)
             reached, path, done, current_proof_state = self.policy.reach_subgoal(current_state, raw_subgoal)
             if reached:
                 verifed_subgoals.append((current_proof_state, path, done))
             if done:
                 return verifed_subgoals, (current_proof_state, path, done)
+            # None = solving_subgoal check
         return verifed_subgoals, None
 
 

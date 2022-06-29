@@ -99,18 +99,22 @@ class BestFSSolverRubik(GeneralSolver):
             expanded_nodes += 1
 
             # print(logic_statement_to_seq_string(current_node.state['observation']['objectives'][0]))
-
+            # Kontrola, jestli uzel není příliš hluboko v prohledávacím stromě.
             if current_node.depth < self.max_tree_depth:
+                # Vygenerují se podcíle, solving_subgoal - pokud řešení existuje
                 goals, solving_subgoal = self.goal_builder.build_goals(current_node.state)
 
                 # look for solution
+                # Pokud nalezne řešení, tak
                 if solving_subgoal is not None:
                     solving_state, path, done = solving_subgoal
+                    # Vytvoří se nový uzel pro dané řešení a přidá se do pole řešení
                     new_node = SolverNode(solving_state, current_node, current_node.depth + 1, 0,
                                           path, True)
                     solution.append(new_node)
                     solved = True
                     finished_cause = 'Finished cause solved'
+                    # Přičte se jednička k velikosti stromu a k rozšířeným uzlům
                     tree_size += 1
                     expanded_nodes += 1
                     break
@@ -118,9 +122,12 @@ class BestFSSolverRubik(GeneralSolver):
                 all_goals_created += len(goals)
 
                 created_new = 0
+                # Iterace přes vytvořené podcíle neuronkou
                 for child_num, goal_proposition in enumerate(goals):
                     current_goal_state, current_path, _ = goal_proposition
+                    # current_goal_state je hash daného stavu
                     current_goal_state_hash = current_goal_state
+                    # celková cesta od začátku do konce přes podcíle
                     total_path_between_goals += len(current_path)
 
                     if current_goal_state_hash not in seen_hashed_states:

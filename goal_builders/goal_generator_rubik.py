@@ -41,6 +41,7 @@ class GoalGeneratorRubik:
 
     def predict_subgoals(self, state_formula, n_subgoals, num_beams, temperature):
         # state_formula = self.representation.proof_state_to_input_formula(state)
+        # Parsuje string (hash) stavu a převede do formátu huggingface
         dataset = GoalDataset.from_state([state_formula], self.tokenizer, max_length=56)
         inputs = [
             hf_generate.GenerationInput(
@@ -50,6 +51,7 @@ class GoalGeneratorRubik:
             for entry in dataset
         ]
         # transformers.set_seed(seed)
+        # Vygenerují se stringy sub goalů
         model_outputs = self.model.generate(
             input_ids=torch.tensor(
                 [input.input_ids for input in inputs],
